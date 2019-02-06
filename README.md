@@ -5,7 +5,7 @@ The EpiGeNet framework is a graph database for storage and querying of condition
 ## How to access the EpiGeNet Framework
 The EpiGeNet Framework can be accessed online <a href="https://diseaseknowledgebase.etriks.org/epigenet/browser/"> here</a>
 
-A non-exhaustive file with Cypher query examples for the EpiGeNet Framework is available for download <a href="epigenet_framework_sample_queries.docx" download="epigenet_framework_sample_queries.docx"> here</a>.
+A non-exhaustive file with Cypher query examples for the EpiGeNet Framework is available for download <a href="https://github.com/ibalaur/EpiGeNet/tree/master/sample%20queries"> here</a>.
 	
 ### For developers
 The EpiGeNet Framework is freely available for non-commercial purposes and the java code used for data integration and mapping into the  framework is available <a href="https://github.com/ibalaur/EpiGeNet">here</a>.<br><br>
