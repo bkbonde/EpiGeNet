@@ -10,23 +10,14 @@ A non-exhaustive file with Cypher query examples for the EpiGeNet Framework is a
 ### For developers
 The EpiGeNet Framework is freely available for non-commercial purposes and the java code used for data integration and mapping into the  framework is available <a href="https://github.com/ibalaur/EpiGeNet">here</a>.<br><br>
 	
-## How to get Involved
-We would be happy to hear from your experience and for feedback, any issues/ suggestions on this, please contact us by email to <a href="mailto:ibalaur@eisbm.org">ibalaur@eisbm.org</a>.</p>
-
-##Please cite our paper on this work<
-<p> Balaur I., Saqi M., Barat A., Lysenko A., Mazein A., Rawlings C.J., Ruskin H.J. and Auffray, C. (2016), <a href="http://online.liebertpub.com/doi/10.1089/cmb.2016.0095">EpiGeNet: A Graph Database of Interdependencies Between Genetic and Epigenetic Events in Colorectal Cancer</a>, Journal of Computational Biology, September 2016, ePub(ahead of print). DOI: 0.1089/cmb.2016.0095.
-
-## Requirements
+#### Requirements
 
  - Java 7 
  - Maven (tested with Maven 3.5)
 
-## Install
-
+#### Install
 After cloning the repository and getting into its directory:
-
 `mvn clean`
-
 `mvn install`
 
 The executable jar can be directly downloaded from the [Release page](https://github.com/ibalaur/EpiGeNet/releases).
@@ -34,6 +25,9 @@ The executable jar can be directly downloaded from the [Release page](https://gi
 ## How to contribute
 
 If you have any suggestions or want to report a bug, don't hesitate to create an [issue](https://github.com/ibalaur/EpiGeNet/issues). Pull requests and all forms of contribution will be warmly welcomed.
+
+## Please cite our paper on this work
+Balaur I., Saqi M., Barat A., Lysenko A., Mazein A., Rawlings C.J., Ruskin H.J. and Auffray, C. (2016), <a href="http://online.liebertpub.com/doi/10.1089/cmb.2016.0095">EpiGeNet: A Graph Database of Interdependencies Between Genetic and Epigenetic Events in Colorectal Cancer</a>, Journal of Computational Biology, September 2016, ePub(ahead of print). DOI: 0.1089/cmb.2016.0095.
 
 ## Contributors
 
@@ -47,7 +41,6 @@ Heather J. Ruskin [Dublin City University], Dublin, Ireland - advice on the inpu
 Charles Auffray, [EISBM](http://www.eisbm.org/), Lyon, France - strategic advice  
 
 ## Useful links
-
  - [eTRIKS](https://www.etriks.org/) 
  - [Disease Maps Project](http://disease-maps.org/) 
 
