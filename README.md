@@ -1,6 +1,6 @@
 # EpiGeNet
 
-The EpiGeNet framework is a graph database for storage and querying of conditional relationships between molecular (genetic and epigenetic) events observed at different stages of colorectal (CRC) oncogenesis. Data were i) extracted from <a href="http://statepigen.sci-sym.dcu.ie/index.php">StatEpigen</a>, a manually curated and annotated database, containing information on interdependencies between genetic and epigenetic signals, and specialized currently for CRC research, and ii) imported to our newly-developed EpiGeNet, which offers improved capability for management and visualization of data on molecular events specific to CRC initiation and progression
+The EpiGeNet framework is a graph database for storage and querying of conditional relationships between molecular (genetic and epigenetic) events observed at different stages of colorectal (CRC) oncogenesis. Data were i) extracted from <a href="http://statepigen.sci-sym.dcu.ie/index.php">StatEpigen</a>, a manually curated and annotated database, containing information on interdependencies between genetic and epigenetic signals, and specialized currently for CRC research, and ii) imported to our newly-developed EpiGeNet, which offers improved capability for management and visualization of data on molecular events specific to CRC initiation and progression.
 
 ## How to access the EpiGeNet Framework
 The EpiGeNet Framework can be accessed online <a href="https://diseaseknowledgebase.etriks.org/epigenet/browser/"> here</a>.
