@@ -1,0 +1,2444 @@
+19174785	RUNX3	hyperMeth_CpG	prom	YES	0.800	15	aberrant crypt focus
+12829793	SLC5A8	hyperMeth_CpG	exon1	YES	0.467	15	aberrant crypt focus
+16077070	VIM	hyperMeth_CpG	exon1	YES	0.778	9	aberrant crypt focus
+15034581	SFRP1	hyperMeth_CpG	prom	YES	0.910	11	aberrant crypt focus
+15034581	SFRP2	hyperMeth_CpG	prom	YES	0.820	11	aberrant crypt focus
+15034581	SFRP4	hyperMeth_CpG	prom	YES	0.550	11	aberrant crypt focus
+15034581	SFRP5	hyperMeth_CpG	prom	YES	0.730	11	aberrant crypt focus
+18172251	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.730	11	aberrant crypt focus
+12000733	APBA2	hyperMeth_CpG	prom	YES	0.043	23	aberrant crypt focus
+12000733	APBA1	hyperMeth_CpG	prom	YES	0.043	23	aberrant crypt focus
+12000733	MGMT	hyperMeth_CpG	prom	YES	0.050	20	aberrant crypt focus
+12000733	APBA3	hyperMeth_CpG	prom	YES	0.500	4	aberrant crypt focus
+12000733	APBA1	hyperMeth_CpG	prom	YES	0.500	4	aberrant crypt focus
+12000733	MGMT	hyperMeth_CpG	prom	YES	0.250	4	aberrant crypt focus
+17088260	MGMT	hyperMeth_CpG	prom	YES	0.500	2	aberrant crypt focus
+12000733	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.333	3	aberrant crypt focus
+12000733	APBA1	hyperMeth_CpG	prom	YES	0.333	3	aberrant crypt focus
+17088260	MLH1	hyperMeth_CpG	prom	YES	0.216	37	aberrant crypt focus
+17088260	MGMT	hyperMeth_CpG	prom	YES	0.067	30	aberrant crypt focus
+12000733	APBA3	hyperMeth_CpG	prom	YES	0.393	28	aberrant crypt focus
+12000733	APBA2	hyperMeth_CpG	prom	YES	0.071	28	aberrant crypt focus
+12000733	APBA1	hyperMeth_CpG	prom	YES	0.036	28	aberrant crypt focus
+12000733	MGMT	hyperMeth_CpG	prom	YES	0.125	24	aberrant crypt focus
+12000733	MLH1	hyperMeth_CpG	prom	YES	0.071	28	aberrant crypt focus
+12000733	CDKN2A:p16	hyperMeth_CpG	prom	YES	1.000	1	aberrant crypt focus
+12000733	MGMT	hyperMeth_CpG	prom	YES	1.000	1	aberrant crypt focus
+10811111	MGMT	hyperMeth_CpG	prom	YES	0.492	65	adenoma
+10969779	APC	hyperMeth_CpG	prom	YES	0.180	48	adenoma
+17167179	ADAMTS1	hyperMeth_CpG	prom	YES	0.370	63	adenoma
+17167179	CRABP1	hyperMeth_CpG	prom	YES	0.120	60	adenoma
+17167179	NR3C1	hyperMeth_CpG	prom	YES	0.030	63	adenoma
+12829793	SLC5A8	hyperMeth_CpG	exon1	YES	0.590	29	adenoma
+15548679	CDH4	hyperMeth_CpG	prom	YES	1.000	10	adenoma
+12067979	CDH13	hyperMeth_CpG	prom	YES	0.420	19	adenoma
+15806169	RASSF2	hyperMeth_CpG	exons1,2	YES	0.875	8	adenoma
+17332327	PDLIM4	hyperMeth_CpG	cpgisland	YES	0.850	13	adenoma
+14695142	HRK	hyperMeth_CpG	cpgisland	YES	0.020	50	adenoma
+17260021	MCC	hyperMeth_CpG	prom	YES	0.350	17	adenoma
+17260021	APC	hyperMeth_CpG	prom	YES	0.563	16	adenoma
+16007128	PTGIS	hyperMeth_CpG	prom	YES	0.300	10	adenoma
+12384555	CRABP1	hyperMeth_CpG	prom	YES	0.620	34	adenoma
+15800999	MGMT	hyperMeth_CpG	prom	YES	0.407	27	adenoma
+16902913	APC	hyperMeth_CpG	prom	YES	0.667	78	adenoma
+16902913	MGMT	hyperMeth_CpG	prom	YES	0.500	78	adenoma
+16902913	MLH1	hyperMeth_CpG	prom	YES	0.013	78	adenoma
+16902913	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.397	78	adenoma
+16902913	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.321	78	adenoma
+16336454	APC	hyperMeth_CpG	prom	YES	0.150	40	adenoma
+16336454	TSP1	hyperMeth_CpG	prom	YES	0.475	40	adenoma
+16336454	MGMT	hyperMeth_CpG	prom	YES	0.075	40	adenoma
+16336454	MLH1	hyperMeth_CpG	prom	YES	0.225	40	adenoma
+16336454	GSTP1	hyperMeth_CpG	prom	YES	0.100	40	adenoma
+10646864	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.320	41	adenoma
+17101318	ALX4	hyperMeth_CpG	cpgisland	YES	0.850	13	adenoma
+15704048	HIC1	hyperMeth_CpG	prom	YES	0.310	13	adenoma
+15709190	MGMT	hyperMeth_CpG	prom	YES	0.607	28	adenoma
+15709190	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.593	27	adenoma
+15709190	MLH1	hyperMeth_CpG	prom	YES	0.107	28	adenoma
+11904375	HLTF	hyperMeth_CpG	prom	YES	0.250	28	adenoma
+12810945	CHFR	hyperMeth_CpG	cpgisland	YES	0.530	51	adenoma
+18425817	TSP1	hyperMeth_CpG	prom	YES	0.140	42	adenoma
+16077070	VIM	hyperMeth_CpG	exon1	YES	0.700	10	adenoma
+18086775	BMP3	hyperMeth_CpG	prom	YES	0.630	30	adenoma
+18086775	EYA2	hyperMeth_CpG		YES	0.370	30	adenoma
+18086775	ALX4	hyperMeth_CpG	cpgisland	YES	0.870	30	adenoma
+18086775	VIM	hyperMeth_CpG	exon1	YES	0.730	30	adenoma
+19174785	RUNX3	hyperMeth_CpG	prom	YES	0.440	17	adenoma
+9850084	MYOD1	hyperMeth_CpG	prom	YES	1.000	4	adenoma
+15034581	SFRP1	hyperMeth_CpG	prom	YES	1.000	30	adenoma
+15034581	SFRP2	hyperMeth_CpG	prom	YES	1.000	30	adenoma
+15034581	SFRP4	hyperMeth_CpG	prom	YES	0.167	30	adenoma
+16331272	SFRP5	hyperMeth_CpG	prom	YES	0.800	30	adenoma
+18086775	BMP3	hyperMeth_CpG	prom	YES	0.720	32	adenoma
+18086775	ALX4	hyperMeth_CpG	cpgisland	YES	0.440	32	adenoma
+18086775	EYA2	hyperMeth_CpG		YES	0.910	32	adenoma
+18086775	VIM	hyperMeth_CpG	exon1	YES	0.910	32	adenoma
+17923875	RASSF1A	hyperMeth_CpG	prom	YES	0.025	120	adenoma
+19117505	ADAMTS1	hyperMeth_CpG	prom	YES	0.365	63	adenoma
+19117505	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.159	63	adenoma
+19117505	CRABP1	hyperMeth_CpG	prom	YES	0.117	60	adenoma
+19117505	HOXA9	hyperMeth_CpG	cpgisland	YES	0.355	62	adenoma
+19117505	MAL	hyperMeth_CpG	prom	YES	0.714	63	adenoma
+19117505	MGMT	hyperMeth_CpG	prom	YES	0.371	62	adenoma
+19117505	NR3C1	hyperMeth_CpG	prom	YES	0.032	63	adenoma
+19117505	RUNX3	hyperMeth_CpG	prom	YES	0.500	8	adenoma
+19117505	HIN1	hyperMeth_CpG	cpgisland	YES	0.063	63	adenoma
+17122504	MGMT	hyperMeth_CpG	prom	YES	0.281	57	adenoma
+17122504	APBA1	hyperMeth_CpG	prom	YES	0.193	57	adenoma
+17122504	APBA2	hyperMeth_CpG	prom	YES	0.351	57	adenoma
+17122504	MLH1	hyperMeth_CpG	prom	YES	0.123	57	adenoma
+17122504	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.070	57	adenoma
+17013898	RASSF2	hyperMeth_CpG	exons1,2	YES	1.000	16	adenoma
+16890591	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.160	205	adenoma
+16890591	APBA1	hyperMeth_CpG	prom	YES	0.120	205	adenoma
+16890591	APBA2	hyperMeth_CpG	prom	YES	0.160	205	adenoma
+16890591	APBA3	hyperMeth_CpG	prom	YES	0.160	205	adenoma
+16890591	MLH1	hyperMeth_CpG	prom	YES	0.050	205	adenoma
+16890591	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.330	30	adenoma
+16890591	APBA1	hyperMeth_CpG	prom	YES	0.300	30	adenoma
+16890591	APBA2	hyperMeth_CpG	prom	YES	0.330	30	adenoma
+16890591	APBA3	hyperMeth_CpG	prom	YES	0.400	30	adenoma
+16890591	MLH1	hyperMeth_CpG	prom	YES	0.070	30	adenoma
+16708352	MGMT	hyperMeth_CpG	prom	YES	0.524	42	adenoma
+16708352	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.310	42	adenoma
+16708352	HLTF	hyperMeth_CpG	prom	YES	0.262	42	adenoma
+16708352	TIMP3	hyperMeth_CpG	prom	YES	0.071	42	adenoma
+16708352	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.119	42	adenoma
+16708352	TSP1	hyperMeth_CpG	prom	YES	0.143	42	adenoma
+16708352	CDH1	hyperMeth_CpG	prom	YES	0.119	42	adenoma
+16708352	MLH1	hyperMeth_CpG	prom	YES	0.024	42	adenoma
+21150880	PTPRG	hyperMeth_CpG	intron1	TOTAL	1.000	18	adenoma
+12067979	CDH13	hyperMeth_CpG	prom	YES	0.330	3	adenoma
+17276933	MGMT	hyperMeth_CpG	prom	YES	0.333	30	adenoma
+17276933	MLH1	hyperMeth_CpG	prom	YES	0.180	28	adenoma
+17276933	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.517	29	adenoma
+17276933	CDH1	hyperMeth_CpG	prom	YES	0.070	28	adenoma
+15122305	APC	hyperMeth_CpG	prom	YES	0.358	95	adenoma
+15122305	DAPK1	hyperMeth_CpG	prom	YES	0.347	95	adenoma
+15122305	CDH1	hyperMeth_CpG	prom	YES	0.400	95	adenoma
+15122305	MGMT	hyperMeth_CpG	prom	YES	0.211	95	adenoma
+15122305	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.305	95	adenoma
+15122305	MLH1	hyperMeth_CpG	prom	YES	0.011	95	adenoma
+15122305	RASSF1A	hyperMeth_CpG	prom	YES	0.021	95	adenoma
+15122305	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.042	95	adenoma
+15122305	TSP1	hyperMeth_CpG	prom	YES	0.021	95	adenoma
+15122305	TIMP3	hyperMeth_CpG	prom	YES	0.011	95	adenoma
+17276933	MLH1	hyperMeth_CpG	prom	YES	0.250	24	adenoma
+17276933	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.655	29	adenoma
+17276933	CDH1	hyperMeth_CpG	prom	YES	0.070	25	adenoma
+10468602	MLH1	hyperMeth_CpG	prom	PARTIAL	1.000	1	adenoma
+11062168	CDKN2A:p16	hyperMeth_CpG	prom	YES	1.000	1	adenoma
+11062168	MLH1	hyperMeth_CpG	prom	LOW	1.000	1	adenoma
+17332327	PDLIM4	hyperMeth_CpG	cpgisland	YES	1.000	1	adenoma
+16007128	PTGIS	hyperMeth_CpG	prom	YES	1.000	1	adenoma
+10344734	CSPG2	hyperMeth_CpG	prom	PARTIAL	1.000	1	adenoma
+16491118	WIF1	hyperMeth_CpG	prom	YES	1.000	1	adenoma
+16491118	SFRP1	hyperMeth_CpG	prom	YES	1.000	1	adenoma
+11965547	CDKN1C	hyperMeth_CpG	prom	YES	1.000	1	adenoma
+10646864	CDKN2A:p14	hyperMeth_CpG	prom	YES	1.000	1	adenoma
+11992124	SEZ6L	hyperMeth_CpG	cpgisland	YES	1.000	1	adenoma
+11992124	SFRP1	hyperMeth_CpG	prom	YES	1.000	1	adenoma
+11992124	LPHN3	hyperMeth_CpG	cpgisland	YES	1.000	1	adenoma
+9850084	MYOD1	hyperMeth_CpG	prom	YES	1.000	1	adenoma
+18815942	LRRC3B	hyperMeth_CpG		YES	1.000	1	adenoma
+21347233	ZIC1	hyperMeth_CpG	prom	PARTIAL	1.000	1	adenoma
+12598316	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.170	6	adenoma
+12598316	APBA1	hyperMeth_CpG	prom	YES	0.170	6	adenoma
+12598316	APBA2	hyperMeth_CpG	prom	YES	0.330	6	adenoma
+12598316	APBA3	hyperMeth_CpG	prom	YES	0.170	6	adenoma
+12598316	MLH1	hyperMeth_CpG	prom	YES	0.200	6	adenoma
+17260021	MCC	hyperMeth_CpG	prom	YES	1.000	1	adenoma
+17260021	APC	hyperMeth_CpG	prom	YES	1.000	1	adenoma
+15389252	SLC5A8	hyperMeth_CpG	prom	YES	0.793	29	adenoma
+15389252	HIC1	hyperMeth_CpG	prom	YES	0.621	29	adenoma
+15389252	TSP1	hyperMeth_CpG	prom	YES	0.586	29	adenoma
+15389252	TIMP3	hyperMeth_CpG	prom	YES	0.448	29	adenoma
+15389252	DAPK1	hyperMeth_CpG	prom	YES	0.483	29	adenoma
+15389252	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.310	29	adenoma
+15389252	RASSF1A	hyperMeth_CpG	prom	YES	0.276	29	adenoma
+15389252	CDKN2B	hyperMeth_CpG	prom	YES	0.241	29	adenoma
+15389252	CDH13	hyperMeth_CpG	prom	YES	0.276	29	adenoma
+15389252	APC	hyperMeth_CpG	prom	YES	0.276	29	adenoma
+15389252	MGMT	hyperMeth_CpG	prom	YES	0.207	29	adenoma
+15389252	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.240	29	adenoma
+15389252	CDH1	hyperMeth_CpG	prom	YES	0.207	29	adenoma
+15389252	FHIT	hyperMeth_CpG	prom	YES	0.207	29	adenoma
+15389252	STK11	hyperMeth_CpG	prom	YES	0.103	29	adenoma
+15389252	PTEN	hyperMeth_CpG	prom	YES	0.034	29	adenoma
+19174785	RUNX3	hyperMeth_CpG	prom	YES	0.860	14	adenoma
+17923875	RASSF2	hyperMeth_CpG	exons1,2	YES	0.750	6	adenoma
+12598316	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.476	21	adenoma
+12598316	APBA1	hyperMeth_CpG	prom	YES	0.480	21	adenoma
+12598316	APBA2	hyperMeth_CpG	prom	YES	0.714	21	adenoma
+12598316	APBA3	hyperMeth_CpG	prom	YES	0.318	22	adenoma
+12598316	MLH1	hyperMeth_CpG	prom	YES	0.143	21	adenoma
+17260021	MCC	hyperMeth_CpG	prom	YES	1.000	2	adenoma
+17122504	MGMT	hyperMeth_CpG	prom	YES	0.448	29	adenoma
+17122504	APBA1	hyperMeth_CpG	prom	YES	0.700	29	adenoma
+17122504	APBA2	hyperMeth_CpG	prom	YES	0.724	29	adenoma
+17122504	MLH1	hyperMeth_CpG	prom	YES	0.483	29	adenoma
+17122504	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.276	29	adenoma
+17260021	MCC	hyperMeth_CpG	prom	YES	0.889	9	adenoma
+17122504	MGMT	hyperMeth_CpG	prom	YES	0.414	29	adenoma
+17122504	APBA1	hyperMeth_CpG	prom	YES	0.586	29	adenoma
+17122504	APBA2	hyperMeth_CpG	prom	YES	0.759	29	adenoma
+17122504	MLH1	hyperMeth_CpG	prom	YES	0.724	29	adenoma
+17122504	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.448	29	adenoma
+16699497	CRABP1	hyperMeth_CpG	prom	YES	0.170	6	adenoma
+16699497	MGMT	hyperMeth_CpG	prom	YES	0.500	6	adenoma
+17950780	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.367	30	adenoma
+17950780	HIC1	hyperMeth_CpG	prom	YES	0.133	30	adenoma
+17950780	APBA1	hyperMeth_CpG	prom	YES	0.300	30	adenoma
+17950780	APBA3	hyperMeth_CpG	prom	YES	0.033	30	adenoma
+17950780	MLH1	hyperMeth_CpG	prom	YES	0.067	30	adenoma
+17950780	MGMT	hyperMeth_CpG	prom	YES	0.367	30	adenoma
+17950780	RASSF2	hyperMeth_CpG	exons1,2	YES	0.700	30	adenoma
+18203283	SFRP2	hyperMeth_CpG	prom	YES	0.727	11	adenoma
+15709190	MGMT	hyperMeth_CpG	prom	YES	0.380	23	adenoma
+15709190	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.130	23	adenoma
+15709190	MLH1	hyperMeth_CpG	prom	YES	0.100	23	adenoma
+17923875	RASSF2	hyperMeth_CpG	exons1,2	YES	0.170	72	adenoma
+12598316	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.294	34	adenoma
+12598316	APBA1	hyperMeth_CpG	prom	YES	0.090	34	adenoma
+12598316	APBA2	hyperMeth_CpG	prom	YES	0.180	34	adenoma
+12598316	APBA3	hyperMeth_CpG	prom	YES	0.240	34	adenoma
+18977219	APC	hyperMeth_CpG	prom	YES	0.330	114	adenoma
+15386372	HLTF	hyperMeth_CpG	prom	YES	0.700	20	adenoma
+15386372	MLH1	hyperMeth_CpG	prom	YES	0.450	20	adenoma
+15386372	MGMT	hyperMeth_CpG	prom	YES	0.550	20	adenoma
+15386372	APC	hyperMeth_CpG	prom	YES	0.700	20	adenoma
+15386372	ATM	hyperMeth_CpG	prom	YES	0.750	20	adenoma
+15386372	CDKN2B	hyperMeth_CpG	prom	YES	0.050	20	adenoma
+15386372	TIMP3	hyperMeth_CpG	prom	YES	0.050	20	adenoma
+16699497	CRABP1	hyperMeth_CpG	prom	YES	0.500	2	adenoma
+16699497	MGMT	hyperMeth_CpG	prom	YES	1.000	2	adenoma
+15526363	CCNA1	hyperMeth_CpG	prom	YES	1.000	8	adenoma
+15526363	CDX1	hyperMeth_CpG	prom	YES	1.000	8	adenoma
+15526363	RARB	hyperMeth_CpG	prom RARB2	YES	1.000	8	adenoma
+15526363	CDH13	hyperMeth_CpG	prom	YES	0.625	8	adenoma
+15526363	CDKN2B	hyperMeth_CpG	prom	YES	0.375	8	adenoma
+15526363	MYOD1	hyperMeth_CpG	prom	YES	0.750	8	adenoma
+15526363	TP73	hyperMeth_CpG	cpgisland	YES	0.375	8	adenoma
+15526363	CXX1	hyperMeth_CpG	prom	YES	0.375	8	adenoma
+15526363	WT1	hyperMeth_CpG	prom	YES	0.625	8	adenoma
+15526363	MLH1	hyperMeth_CpG	prom	YES	0.125	8	adenoma
+15526363	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.125	8	adenoma
+15526363	APC	hyperMeth_CpG	prom	YES	0.250	8	adenoma
+15526363	APBA1	hyperMeth_CpG	prom	YES	0.125	8	adenoma
+17950780	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.188	32	adenoma
+17950780	HIC1	hyperMeth_CpG	prom	YES	0.281	32	adenoma
+17950780	APBA1	hyperMeth_CpG	prom	YES	0.094	32	adenoma
+17950780	APBA3	hyperMeth_CpG	prom	YES	0.063	32	adenoma
+17950780	MGMT	hyperMeth_CpG	prom	YES	0.870	32	adenoma
+17950780	RASSF2	hyperMeth_CpG	exons1,2	YES	0.938	32	adenoma
+12067979	CDH13	hyperMeth_CpG	prom	YES	0.290	7	adenoma
+18203283	SFRP2	hyperMeth_CpG	prom	YES	0.846	13	adenoma
+15709190	MGMT	hyperMeth_CpG	prom	YES	0.610	19	adenoma
+15709190	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.610	19	adenoma
+15709190	MLH1	hyperMeth_CpG	prom	YES	0.050	19	adenoma
+17923875	RASSF2	hyperMeth_CpG	exons1,2	YES	0.300	40	adenoma
+18203283	SFRP2	hyperMeth_CpG	prom	YES	0.800	10	adenoma
+15386372	HLTF	hyperMeth_CpG	prom	YES	0.625	16	adenoma
+15386372	MLH1	hyperMeth_CpG	prom	YES	0.313	16	adenoma
+15386372	MGMT	hyperMeth_CpG	prom	YES	0.688	16	adenoma
+15386372	APC	hyperMeth_CpG	prom	YES	0.438	16	adenoma
+15386372	ATM	hyperMeth_CpG	prom	YES	0.750	16	adenoma
+15386372	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.063	16	adenoma
+15386372	CDKN2B	hyperMeth_CpG	prom	YES	0.188	16	adenoma
+15386372	TIMP3	hyperMeth_CpG	prom	YES	0.125	16	adenoma
+16077070	VIM	hyperMeth_CpG	exon1	YES	0.071	14	adjacent to acf
+21150880	PTPRG	hyperMeth_CpG	intron1	YES	0.046	65	adjacent to adenoma
+16820927	MLH1	hyperMeth_CpG	prom	YES	0.124	97	adjacent to adenoma
+17921385	ESR1	hyperMeth_CpG	prom_A	YES		35	adjacent to adenoma
+17921385	MLH1	hyperMeth_CpG	prom	YES		35	adjacent to adenoma
+12598316	APBA2	hyperMeth_CpG	prom	YES	0.060	17	adjacent to adenoma
+12598316	APBA3	hyperMeth_CpG	prom	YES	0.060	16	adjacent to adenoma
+17013898	RASSF2	hyperMeth_CpG	exons1,2	VERY_LOW	0.118	17	adjacent to adenoma
+16890591	APBA3	hyperMeth_CpG	prom	YES	0.040	50	adjacent to adenoma
+15526363	CCNA1	hyperMeth_CpG	prom	YES	1.000	5	adjacent to carcinoma
+15526363	CDX1	hyperMeth_CpG	prom	YES	1.000	5	adjacent to carcinoma
+15526363	RARB	hyperMeth_CpG	prom RARB2	YES	1.000	5	adjacent to carcinoma
+15526363	RARB	hyperMeth_CpG	prom RARB2	YES	0.600	5	adjacent to carcinoma
+15526363	CDKN2B	hyperMeth_CpG	prom	YES	0.400	5	adjacent to carcinoma
+15526363	MYOD1	hyperMeth_CpG	prom	YES	0.400	5	adjacent to carcinoma
+15526363	TP73	hyperMeth_CpG	cpgisland	YES	1.000	5	adjacent to carcinoma
+15526363	CXX1	hyperMeth_CpG	prom	YES	0.400	5	adjacent to carcinoma
+15526363	WT1	hyperMeth_CpG	prom	YES	0.600	5	adjacent to carcinoma
+14719065	CDKN2B	hyperMeth_CpG	prom	YES	0.038	185	adjacent to carcinoma
+14719065	CDH1	hyperMeth_CpG	prom	YES	0.070	185	adjacent to carcinoma
+14719065	APC	hyperMeth_CpG	prom	YES	0.027	185	adjacent to carcinoma
+15122305	APC	hyperMeth_CpG	prom	YES	0.125	25	adjacent to carcinoma
+16207479	TPEF	hyperMeth_CpG	prom	YES	0.047	21	adjacent to carcinoma
+16207479	TIMP3	hyperMeth_CpG	prom	YES	0.047	21	adjacent to carcinoma
+11584062	CDKN2B	hyperMeth_CpG	prom	YES	1.000	15	adjacent to carcinoma
+11584062	CDKN2B	hyperMeth_CpG	exon2	YES	1.000	15	adjacent to carcinoma
+11584062	CDKN2A:p16	hyperMeth_CpG	prom	YES	1.000	15	adjacent to carcinoma
+11584062	CDKN2A:p16	hyperMeth_CpG	exon2	YES	1.000	15	adjacent to carcinoma
+11584062	PAX6	hyperMeth_CpG	cpgisland	YES	1.000	15	adjacent to carcinoma
+11584062	PAX6	hyperMeth_CpG	exon5	YES	1.000	15	adjacent to carcinoma
+15386372	HLTF	hyperMeth_CpG	prom	YES	0.480	47	adjacent to carcinoma
+15386372	MLH1	hyperMeth_CpG	prom	YES	0.250	47	adjacent to carcinoma
+15386372	MGMT	hyperMeth_CpG	prom	YES	0.380	47	adjacent to carcinoma
+15386372	APC	hyperMeth_CpG	prom	YES	0.270	47	adjacent to carcinoma
+15386372	ATM	hyperMeth_CpG	prom	YES	0.270	47	adjacent to carcinoma
+15386372	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.120	47	adjacent to carcinoma
+15386372	CDKN2B	hyperMeth_CpG	prom	YES	0.120	47	adjacent to carcinoma
+16174854	MGMT	hyperMeth_CpG	prom	YES	0.260	95	adjacent to carcinoma
+16174854	MGMT	hyperMeth_CpG	prom	YES	0.510	41	adjacent to carcinoma
+16952549	SST	hyperMeth_CpG	prom	YES	0.880	34	adjacent to carcinoma
+16952549	TAC1	hyperMeth_CpG	prom	YES	0.470	34	adjacent to carcinoma
+16952549	NELL1	hyperMeth_CpG	prom	YES	1.000	73	adjacent to carcinoma
+16952549	CAV1	hyperMeth_CpG	prom	YES	1.000	73	adjacent to carcinoma
+16952549	AKAP12	hyperMeth_CpG	prom	YES	1.000	73	adjacent to carcinoma
+12370819	RASSF1A	hyperMeth_CpG	prom	VERY_HIGH	0.364	11	adjacent to carcinoma
+17167179	ADAMTS1	hyperMeth_CpG	prom	YES	0.090	22	adjacent to carcinoma
+17167179	CRABP1	hyperMeth_CpG	prom	YES	0.050	22	adjacent to carcinoma
+14726683	RARB	hyperMeth_CpG	prom RARB1	YES	1.000	27	adjacent to carcinoma
+14726683	RARB	hyperMeth_CpG	prom RARB2	YES	1.000	27	adjacent to carcinoma
+12538348	CHFR	hyperMeth_CpG	cpgisland	PARTIAL	0.286	7	adjacent to carcinoma
+12829793	SLC5A8	hyperMeth_CpG	exon1	YES	0.047	64	adjacent to carcinoma
+15548679	CDH4	hyperMeth_CpG	prom	YES	0.294	17	adjacent to carcinoma
+12067979	CDH13	hyperMeth_CpG	prom	YES	0.060	33	adjacent to carcinoma
+16820927	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.021	48	adjacent to carcinoma
+16331272	PYCARD	hyperMeth_CpG	prom	YES	0.125	16	adjacent to carcinoma
+18542073	APC	hyperMeth_CpG	prom	YES		19	adjacent to carcinoma
+18542073	AXIN2	hyperMeth_CpG	prom	YES		19	adjacent to carcinoma
+18542073	CDH1	hyperMeth_CpG	prom	YES		19	adjacent to carcinoma
+18542073	DKK1	hyperMeth_CpG	prom	YES		19	adjacent to carcinoma
+18542073	ESR1	hyperMeth_CpG	prom_A	YES		19	adjacent to carcinoma
+18542073	TPEF	hyperMeth_CpG	prom	YES		19	adjacent to carcinoma
+18542073	MGMT	hyperMeth_CpG	prom	YES		19	adjacent to carcinoma
+18542073	APBA3	hyperMeth_CpG	prom	YES		19	adjacent to carcinoma
+18542073	MLH1	hyperMeth_CpG	prom	YES		19	adjacent to carcinoma
+18542073	MYOD1	hyperMeth_CpG	prom	YES		19	adjacent to carcinoma
+18542073	TUSC3	hyperMeth_CpG	prom	YES		19	adjacent to carcinoma
+18542073	CDKN2A:p14	hyperMeth_CpG	prom	YES		19	adjacent to carcinoma
+18542073	CDKN2A:p16	hyperMeth_CpG	prom	YES		19	adjacent to carcinoma
+18542073	SFRP1	hyperMeth_CpG	prom	YES		19	adjacent to carcinoma
+18542073	SFRP2	hyperMeth_CpG	prom	YES		19	adjacent to carcinoma
+18542073	SFRP4	hyperMeth_CpG	prom	YES		19	adjacent to carcinoma
+18542073	SFRP5	hyperMeth_CpG	prom	YES		19	adjacent to carcinoma
+18542073	WIF1	hyperMeth_CpG	prom	YES		19	adjacent to carcinoma
+15770214	DAB2IP	hyperMeth_CpG	prom_m2a	YES	0.210	24	adjacent to carcinoma
+15770214	DAB2IP	hyperMeth_CpG	prom_m2b	YES	0.170	24	adjacent to carcinoma
+17276933	CDH1	hyperMeth_CpG	prom	YES	0.200	10	adjacent to carcinoma
+18240147	MGMT	hyperMeth_CpG	prom	VERY_HIGH	0.005	220	adjacent to carcinoma
+18240147	MGMT	hyperMeth_CpG	prom	PARTIAL	0.077	220	adjacent to carcinoma
+11904375	HLTF	hyperMeth_CpG	prom	YES	0.063	63	adjacent to carcinoma
+16077070	VIM	hyperMeth_CpG	exon1	YES	0.022	46	adjacent to carcinoma
+18054557	UNC5C	hyperMeth_CpG		YES	0.006	147	adjacent to carcinoma
+15760842	MGMT	hyperMeth_CpG	prom	HIGH	0.167	12	adjacent to carcinoma
+17921385	ESR1	hyperMeth_CpG	prom_A	YES		26	adjacent to carcinoma
+17921385	MLH1	hyperMeth_CpG	prom	YES		26	adjacent to carcinoma
+18815942	LRRC3B	hyperMeth_CpG		YES	0.100	31	adjacent to carcinoma
+15034581	SFRP1	hyperMeth_CpG	prom	VERY_LOW	0.333	3	adjacent to carcinoma
+21150880	PTPRG	hyperMeth_CpG	intron1	PARTIAL	0.250	8	adjacent to carcinoma
+21150880	PTPRG	hyperMeth_CpG	intron1	PARTIAL	0.042	48	adjacent to carcinoma
+19117505	ADAMTS1	hyperMeth_CpG	prom	YES	0.056	18	adjacent to carcinoma
+19117505	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.111	18	adjacent to carcinoma
+19117505	HOXA9	hyperMeth_CpG	cpgisland	YES	0.389	17	adjacent to carcinoma
+19117505	MAL	hyperMeth_CpG	prom	YES	0.111	18	adjacent to carcinoma
+19117505	MGMT	hyperMeth_CpG	prom	YES	0.412	17	adjacent to carcinoma
+19117505	MLH1	hyperMeth_CpG	prom	YES	0.056	18	adjacent to carcinoma
+19117505	HIN1	hyperMeth_CpG	cpgisland	YES	0.056	17	adjacent to carcinoma
+19257893	MLH1	hyperMeth_CpG	prom	YES	0.200	30	adjacent to carcinoma
+21079778	SGK1	hyperMeth_CpG	cpgisland	YES	1.000	10	adjacent to carcinoma
+18028895	MGMT	hyperMeth_CpG	prom	YES	0.958	24	adjacent to carcinoma
+17048309	IGFBP7	hyperMeth_CpG	exon1	YES	0.806	46	adjacent to carcinoma
+21352815	NDRG2	hyperMeth_CpG	prom	YES	0.160	70	adjacent to carcinoma
+16642018	GLI2	hyperMeth_CpG		YES	1.000	2	adjacent to carcinoma
+16642018	MARCO	hyperMeth_CpG		YES	1.000	2	adjacent to carcinoma
+20802524	TBX5	hyperMeth_CpG		YES	0.300	20	adjacent to carcinoma
+18418463	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.360	181	adjacent to carcinoma
+20682398	SFRP2	hyperMeth_CpG	prom	TOTAL	0.058	17	adjacent to carcinoma
+20682398	SFRP2	hyperMeth_CpG	prom	PARTIAL	0.118	17	adjacent to carcinoma
+20682398	DAPK1	hyperMeth_CpG	prom	TOTAL	0.294	17	adjacent to carcinoma
+20682398	DAPK1	hyperMeth_CpG	prom	PARTIAL	0.118	17	adjacent to carcinoma
+20682398	MGMT	hyperMeth_CpG	prom	TOTAL	0.118	17	adjacent to carcinoma
+17276933	MGMT	hyperMeth_CpG	prom	YES	0.050	20	adjacent to carcinoma
+17276933	MLH1	hyperMeth_CpG	prom	YES	0.060	18	adjacent to carcinoma
+17276933	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.440	16	adjacent to carcinoma
+17921385	ESR1	hyperMeth_CpG	prom_A	YES		35	adjacent to polyps
+17921385	MLH1	hyperMeth_CpG	prom	YES		35	adjacent to polyps
+15526363	WT1	hyperMeth_CpG	prom	YES	0.600	1	healthy
+16872319	CDKN2B	hyperMeth_CpG	prom	YES	0.057	88	healthy
+16872319	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.125	88	healthy
+16207479	TPEF	hyperMeth_CpG	prom	YES	0.048	21	healthy
+12612901	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.294	17	healthy
+15386372	HLTF	hyperMeth_CpG	prom	YES	0.125	16	healthy
+15386372	APC	hyperMeth_CpG	prom	YES	0.062	16	healthy
+15386372	CDKN2B	hyperMeth_CpG	prom	YES	0.187	16	healthy
+16174854	MGMT	hyperMeth_CpG	prom	YES	0.120	33	healthy
+14767572	MYOD1	hyperMeth_CpG	prom	YES	1.000	73	healthy
+12538348	CHFR	hyperMeth_CpG	cpgisland	PARTIAL	0.222	9	healthy
+16820927	MLH1	hyperMeth_CpG	prom	YES	0.117	94	healthy
+16820927	MLH1	hyperMeth_CpG	prom	YES	0.181	94	healthy
+16820927	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.020	50	healthy
+17332327	PDLIM4	hyperMeth_CpG	cpgisland	YES	0.050	5	healthy
+17328794	NID1	hyperMeth_CpG	prom	YES	0.330	24	healthy
+18542073	APC	hyperMeth_CpG	prom	YES		20	healthy
+18542073	AXIN2	hyperMeth_CpG	prom	YES		20	healthy
+18542073	CDH1	hyperMeth_CpG	prom	YES		20	healthy
+18542073	DKK1	hyperMeth_CpG	prom	YES		20	healthy
+18542073	ESR1	hyperMeth_CpG	prom_A	YES		20	healthy
+18542073	TPEF	hyperMeth_CpG	prom	YES		20	healthy
+18542073	MGMT	hyperMeth_CpG	prom	YES		20	healthy
+18542073	APBA3	hyperMeth_CpG	prom	YES		20	healthy
+18542073	MLH1	hyperMeth_CpG	prom	YES		20	healthy
+18542073	MYOD1	hyperMeth_CpG	prom	YES		20	healthy
+18542073	TUSC3	hyperMeth_CpG	prom	YES		20	healthy
+18542073	CDKN2A:p14	hyperMeth_CpG	prom	YES		20	healthy
+18542073	CDKN2A:p16	hyperMeth_CpG	prom	YES		20	healthy
+18542073	SFRP1	hyperMeth_CpG	prom	YES		20	healthy
+18542073	SFRP2	hyperMeth_CpG	prom	YES		20	healthy
+18542073	SFRP4	hyperMeth_CpG	prom	YES		20	healthy
+18542073	SFRP5	hyperMeth_CpG	prom	YES		20	healthy
+18542073	WIF1	hyperMeth_CpG	prom	YES		20	healthy
+18240147	MGMT	hyperMeth_CpG	prom	VERY_HIGH	0.028	36	healthy
+18240147	MGMT	hyperMeth_CpG	prom	PARTIAL	0.028	36	healthy
+18086775	BMP3	hyperMeth_CpG	prom	YES	0.070	29	healthy
+18086775	EYA2	hyperMeth_CpG		YES	0.030	29	healthy
+18086775	ALX4	hyperMeth_CpG	cpgisland	YES	0.170	29	healthy
+18086775	VIM	hyperMeth_CpG	exon1	YES	0.170	29	healthy
+18086775	EYA2	hyperMeth_CpG		YES	0.024	41	healthy
+18086775	ALX4	hyperMeth_CpG	cpgisland	YES	0.122	41	healthy
+18086775	VIM	hyperMeth_CpG	exon1	YES	0.049	41	healthy
+17921385	ESR1	hyperMeth_CpG	prom_A	YES		73	healthy
+17921385	MLH1	hyperMeth_CpG	prom	YES		73	healthy
+19174785	RUNX3	hyperMeth_CpG	prom	YES	0.140	7	healthy
+18716850	SFRP2	hyperMeth_CpG	prom	YES	0.296	27	healthy
+18716850	WIF1	hyperMeth_CpG	prom	YES	0.074	27	healthy
+19117505	HOXA9	hyperMeth_CpG	cpgisland	YES	0.190	21	healthy
+19117505	MAL	hyperMeth_CpG	prom	YES	0.047	21	healthy
+19117505	MGMT	hyperMeth_CpG	prom	YES	0.095	21	healthy
+19117505	HIN1	hyperMeth_CpG	cpgisland	YES	0.047	21	healthy
+19509152	GATA4	hyperMeth_CpG	prom	YES	0.060	88	healthy
+19509152	GATA5	hyperMeth_CpG	prom	YES	0.130	100	healthy
+19509152	APC	hyperMeth_CpG	prom	YES	0.230	103	healthy
+19509152	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.140	105	healthy
+19509152	MGMT	hyperMeth_CpG	prom	YES	0.200	105	healthy
+19509152	HLTF	hyperMeth_CpG	prom	YES	0.180	103	healthy
+19509152	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.210	68	healthy
+19509152	RASSF1A	hyperMeth_CpG	prom	YES	0.140	101	healthy
+19060925	MGMT	hyperMeth_CpG	prom	YES	0.440	100	healthy
+19060925	MLH1	hyperMeth_CpG	distal prom	YES	0.700	100	healthy
+20571967	DAPK1	hyperMeth_CpG	prom	YES	0.255	43	healthy
+20571967	RARB	hyperMeth_CpG	prom RARB2	YES	0.232	43	healthy
+20571967	RASSF1A	hyperMeth_CpG	prom	YES	0.139	43	healthy
+20571967	CDH1	hyperMeth_CpG	prom	YES	0.186	43	healthy
+11904375	HLTF	hyperMeth_CpG	prom	YES	0.120	78	healthy
+18716850	APC2	hyperMeth_CpG		YES	0.480	25	inflamed mucosa
+18716850	SFRP1	hyperMeth_CpG	prom	YES	0.541	25	inflamed mucosa
+18716850	SFRP2	hyperMeth_CpG	prom	YES	0.520	25	inflamed mucosa
+18716850	SFRP4	hyperMeth_CpG	prom	YES	0.680	25	inflamed mucosa
+18716850	SFRP5	hyperMeth_CpG	prom	YES	0.440	25	inflamed mucosa
+18716850	DKK1	hyperMeth_CpG	prom	YES	0.280	25	inflamed mucosa
+18716850	DKK3	hyperMeth_CpG	prom	YES	0.083	25	inflamed mucosa
+18716850	WIF1	hyperMeth_CpG	prom	YES	0.417	25	inflamed mucosa
+19509152	GATA4	hyperMeth_CpG	prom	YES	0.070	119	inflamed mucosa
+19509152	GATA5	hyperMeth_CpG	prom	YES	0.120	129	inflamed mucosa
+19509152	APC	hyperMeth_CpG	prom	YES	0.240	132	inflamed mucosa
+19509152	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.140	134	inflamed mucosa
+19509152	MGMT	hyperMeth_CpG	prom	YES	0.220	139	inflamed mucosa
+19509152	HLTF	hyperMeth_CpG	prom	YES	0.160	134	inflamed mucosa
+19509152	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.260	97	inflamed mucosa
+19509152	RASSF1A	hyperMeth_CpG	prom	YES	0.120	131	inflamed mucosa
+16872319	CDKN2B	hyperMeth_CpG	prom	YES	0.786	44	metastasis
+16872319	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.273	44	metastasis
+16207479	TPEF	hyperMeth_CpG	prom	YES	0.792	24	metastasis
+16207479	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.250	24	metastasis
+16207479	APC	hyperMeth_CpG	prom	YES	0.417	24	metastasis
+16207479	TIMP3	hyperMeth_CpG	prom	YES	0.083	24	metastasis
+16207479	CAV2	hyperMeth_CpG	prom	YES	0.042	24	metastasis
+15375009	APC	hyperMeth_CpG	prom	YES	0.714	14	metastasis
+11904375	HLTF	hyperMeth_CpG	prom	YES	0.063	16	metastasis
+16991125	APC	hyperMeth_CpG	prom	YES	0.170	18	metastasis
+16991125	CDH1	hyperMeth_CpG	prom	YES	0.550	18	metastasis
+16991125	DAPK1	hyperMeth_CpG	prom	YES	0.050	18	metastasis
+16991125	GSTP1	hyperMeth_CpG	prom	YES	0.110	18	metastasis
+16991125	MGMT	hyperMeth_CpG	prom	YES	0.390	18	metastasis
+16991125	MLH1	hyperMeth_CpG	prom	YES	0.050	18	metastasis
+16991125	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.220	18	metastasis
+16991125	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.440	18	metastasis
+16991125	RARB	hyperMeth_CpG	prom RARB2	YES	0.220	18	metastasis
+16991125	RASSF1A	hyperMeth_CpG	prom	YES	0.280	18	metastasis
+16991125	SFRP1	hyperMeth_CpG	prom	YES	1.000	18	metastasis
+16991125	WIF1	hyperMeth_CpG	prom	YES	0.650	18	metastasis
+16708352	MGMT	hyperMeth_CpG	prom	YES	0.462	26	metastasis
+16708352	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.462	26	metastasis
+16708352	HLTF	hyperMeth_CpG	prom	YES	0.308	26	metastasis
+16708352	TIMP3	hyperMeth_CpG	prom	YES	0.269	26	metastasis
+16708352	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.770	26	metastasis
+16708352	TSP1	hyperMeth_CpG	prom	YES	0.038	26	metastasis
+18240147	MGMT	hyperMeth_CpG	prom	VERY_HIGH	0.038	104	polyps
+18240147	MGMT	hyperMeth_CpG	prom	PARTIAL	0.279	104	polyps
+18054557	UNC5C	hyperMeth_CpG		YES	0.635	52	polyps
+9850084	TUSC3	hyperMeth_CpG	prom	YES	1.000	10	polyps
+19060925	MGMT	hyperMeth_CpG	prom	YES	0.568	44	polyps
+19060925	MLH1	hyperMeth_CpG	distal prom	YES	0.363	44	polyps
+10644993	STK11	hyperMeth_CpG	prom	YES	0.180	22	polyps
+19174785	RUNX3	hyperMeth_CpG	prom	YES	0.740	38	polyps
+15793287	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.270	56	polyps
+15793287	APBA3	hyperMeth_CpG	prom	YES	0.550	69	polyps
+15793287	APBA1	hyperMeth_CpG	prom	YES	0.240	66	polyps
+15793287	APBA2	hyperMeth_CpG	prom	YES	0.570	65	polyps
+17260021	MCC	hyperMeth_CpG	prom	YES	1.000	5	polyps
+18203283	SFRP2	hyperMeth_CpG	prom	YES	0.538	26	polyps
+15709190	MGMT	hyperMeth_CpG	prom	YES	0.100	44	polyps
+15709190	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.050	44	polyps
+15709190	MLH1	hyperMeth_CpG	prom	YES	0.075	44	polyps
+15709190	MGMT	hyperMeth_CpG	prom	YES	0.333	9	polyps
+15709190	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.111	9	polyps
+19174785	RUNX3	hyperMeth_CpG	prom	YES	0.890	19	polyps
+17260021	MCC	hyperMeth_CpG	prom	YES	0.429	7	polyps
+17260021	APC	hyperMeth_CpG	prom	YES	0.286	7	polyps
+17260021	MCC	hyperMeth_CpG	prom	YES	1.000	1	polyps
+17260021	APC	hyperMeth_CpG	prom	YES	1.000	1	polyps
+12067979	CDH13	hyperMeth_CpG	prom	YES	0.560	9	polyps
+18542073	APC	hyperMeth_CpG	prom	YES		13	polyps
+18542073	AXIN2	hyperMeth_CpG	prom	YES		13	polyps
+18542073	CDH1	hyperMeth_CpG	prom	YES		13	polyps
+18542073	DKK1	hyperMeth_CpG	prom	YES		13	polyps
+18542073	ESR1	hyperMeth_CpG	prom_A	YES		13	polyps
+18542073	TPEF	hyperMeth_CpG	prom	YES		13	polyps
+18542073	MGMT	hyperMeth_CpG	prom	YES		13	polyps
+18542073	APBA3	hyperMeth_CpG	prom	YES		13	polyps
+18542073	MLH1	hyperMeth_CpG	prom	YES		13	polyps
+18542073	MYOD1	hyperMeth_CpG	prom	YES		13	polyps
+18542073	TUSC3	hyperMeth_CpG	prom	YES		13	polyps
+18542073	CDKN2A:p14	hyperMeth_CpG	prom	YES		13	polyps
+18542073	CDKN2A:p16	hyperMeth_CpG	prom	YES		13	polyps
+18542073	SFRP1	hyperMeth_CpG	prom	YES		13	polyps
+18542073	SFRP2	hyperMeth_CpG	prom	YES		13	polyps
+18542073	SFRP4	hyperMeth_CpG	prom	YES		13	polyps
+18542073	SFRP5	hyperMeth_CpG	prom	YES		13	polyps
+18542073	WIF1	hyperMeth_CpG	prom	YES		13	polyps
+15389252	SLC5A8	hyperMeth_CpG	prom	YES	1.000	5	polyps
+15389252	HIC1	hyperMeth_CpG	prom	YES	0.600	5	polyps
+15389252	TSP1	hyperMeth_CpG	prom	YES	0.600	5	polyps
+15389252	TIMP3	hyperMeth_CpG	prom	YES	0.200	5	polyps
+15389252	DAPK1	hyperMeth_CpG	prom	YES	0.400	5	polyps
+15389252	RASSF1A	hyperMeth_CpG	prom	YES	0.200	5	polyps
+15389252	CDKN2B	hyperMeth_CpG	prom	YES	0.400	5	polyps
+15389252	CDH13	hyperMeth_CpG	prom	YES	0.400	5	polyps
+15389252	CDH1	hyperMeth_CpG	prom	YES	0.200	5	polyps
+17122504	APBA1	hyperMeth_CpG	prom	YES	0.071	14	polyps
+17122504	APBA2	hyperMeth_CpG	prom	YES	0.286	14	polyps
+17122504	MLH1	hyperMeth_CpG	prom	YES	0.143	14	polyps
+17122504	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.143	14	polyps
+17122504	MGMT	hyperMeth_CpG	prom	YES	0.263	38	polyps
+17122504	APBA1	hyperMeth_CpG	prom	YES	0.263	38	polyps
+17122504	APBA2	hyperMeth_CpG	prom	YES	0.368	38	polyps
+17122504	MLH1	hyperMeth_CpG	prom	YES	0.395	38	polyps
+17122504	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.237	38	polyps
+16012936	TPEF	hyperMeth_CpG	prom	YES	1.000	38	premalignant mucosa
+18172251	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.600	5	premalignant mucosa
+17276933	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.170	12	premalignant mucosa
+17276933	MGMT	hyperMeth_CpG	prom	YES	0.150	13	premalignant mucosa
+17276933	MLH1	hyperMeth_CpG	prom	YES	0.080	13	premalignant mucosa
+17276933	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.180	11	premalignant mucosa
+17276933	CDH1	hyperMeth_CpG	prom	YES	0.130	8	premalignant mucosa
+12829793	SLC5A8	hyperMeth_CpG	exon1	YES	0.400	10	serum, carcinoma
+12829793	SLC5A8	hyperMeth_CpG	exon1	YES	0.174	23	serum, carcinoma
+15548679	CDH4	hyperMeth_CpG	prom	YES	0.476	21	serum, carcinoma
+15548679	CDH4	hyperMeth_CpG	prom	YES	0.700	46	serum, carcinoma
+20682997	RUNX3	hyperMeth_CpG	prom	YES	0.290	344	serum, carcinoma
+21326223	HLTF	hyperMeth_CpG	prom	YES	0.105	95	serum, carcinoma
+21326223	TPEF	hyperMeth_CpG	prom	YES	0.200	95	serum, carcinoma
+21326223	NEUROG1	hyperMeth_CpG	prom	YES	0.663	95	serum, carcinoma
+21326223	NEUROG1	hyperMeth_CpG	prom	YES	0.514	35	serum, carcinoma
+21326223	NEUROG1	hyperMeth_CpG	prom	YES	0.556	45	serum, carcinoma
+21326223	VIM	hyperMeth_CpG	exon1	YES	0.311	45	serum, carcinoma
+21326223	ALX4	hyperMeth_CpG	cpgisland	YES	0.467	45	serum, carcinoma
+21326223	Sep-09	hyperMeth_CpG	cpgisland	YES	0.467	45	serum, carcinoma
+19406918	Sep-09	hyperMeth_CpG	cpgisland	YES	0.752	97	serum, carcinoma
+19406918	Sep-09	hyperMeth_CpG	cpgisland	YES	0.722	90	serum, carcinoma
+21187483	VIM	hyperMeth_CpG	exon1	YES	0.090	44	serum, carcinoma
+20129840	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.314	51	serum, carcinoma
+20129840	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.431	51	serum, carcinoma
+12829793	SLC5A8	hyperMeth_CpG	exon1	YES	0.400	10	serum, carcinoma meth
+15548679	CDH4	hyperMeth_CpG	prom	YES	0.880	12	serum, carcinoma meth
+21326223	NEUROG1	hyperMeth_CpG	prom	YES	0.520	25	serum, carcinoma meth
+21187483	VIM	hyperMeth_CpG	exon1	YES	0.778	27	serum, carcinoma meth
+20129840	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.593	27	serum, carcinoma meth
+20129840	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.815	27	serum, carcinoma meth
+16760301	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.214	14	serum, carcinoma meth
+21326223	NEUROG1	hyperMeth_CpG	prom	YES	0.500	10	serum, carcinoma unmeth
+21187483	VIM	hyperMeth_CpG	exon1	YES	0.588	17	serum, carcinoma unmeth
+17189406	APC	hyperMeth_CpG	prom	YES	0.200	20	serum, healthy
+17189406	HIC1	hyperMeth_CpG	prom	YES	0.100	20	serum, healthy
+17189406	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.600	20	serum, healthy
+17189406	RASSF1A	hyperMeth_CpG	prom	YES	0.100	20	serum, healthy
+17189406	SFRP1	hyperMeth_CpG	prom	YES	0.100	20	serum, healthy
+17189406	SFRP4	hyperMeth_CpG	prom	YES	0.050	20	serum, healthy
+17189406	SFRP5	hyperMeth_CpG	prom	YES	0.050	20	serum, healthy
+17189406	WT1	hyperMeth_CpG	prom	YES	0.150	20	serum, healthy
+21326223	NEUROG1	hyperMeth_CpG	prom	YES	0.067	15	serum, healthy
+21326223	NEUROG1	hyperMeth_CpG	prom	YES	0.188	16	serum, healthy
+21326223	VIM	hyperMeth_CpG	exon1	YES	0.375	16	serum, healthy
+21326223	ALX4	hyperMeth_CpG	cpgisland	YES	0.438	16	serum, healthy
+21326223	Sep-09	hyperMeth_CpG	cpgisland	YES	0.188	16	serum, healthy
+21326223	NEUROG1	hyperMeth_CpG	prom	YES	0.200	45	serum, healthy
+19406918	Sep-09	hyperMeth_CpG	cpgisland	YES	0.130	172	serum, healthy
+19406918	Sep-09	hyperMeth_CpG	cpgisland	YES	0.140	155	serum, healthy
+17378912	APC	hyperMeth_CpG	prom	YES	0.160	25	stool, adenoma
+17378912	ATM	hyperMeth_CpG	prom	YES	0.200	25	stool, adenoma
+17378912	HLTF	hyperMeth_CpG	prom	YES	0.200	25	stool, adenoma
+17378912	MLH1	hyperMeth_CpG	prom	YES	0.120	25	stool, adenoma
+17378912	MGMT	hyperMeth_CpG	prom	YES	0.120	25	stool, adenoma
+17378912	SFRP2	hyperMeth_CpG	prom	YES	0.120	25	stool, adenoma
+17352030	SFRP2	hyperMeth_CpG	prom	YES	0.524	21	stool, adenoma
+17352030	TPEF	hyperMeth_CpG	prom	YES	0.571	21	stool, adenoma
+17352030	MGMT	hyperMeth_CpG	prom	YES	0.286	21	stool, adenoma
+18203283	SFRP2	hyperMeth_CpG	prom	YES	0.618	34	stool, adenoma
+15709190	MGMT	hyperMeth_CpG	prom	YES	0.520	27	stool, adenoma
+15709190	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.296	27	stool, adenoma
+16077070	VIM	hyperMeth_CpG	exon1	YES	0.136	44	stool, adenoma
+17352030	SFRP2	hyperMeth_CpG	prom	YES	0.700	10	stool, adenoma
+17352030	TPEF	hyperMeth_CpG	prom	YES	0.700	10	stool, adenoma
+17352030	MGMT	hyperMeth_CpG	prom	YES	0.400	10	stool, adenoma
+17378912	APC	hyperMeth_CpG	prom	YES	0.200	20	stool, carcinoma
+17378912	ATM	hyperMeth_CpG	prom	YES	0.250	20	stool, carcinoma
+17378912	HLTF	hyperMeth_CpG	prom	YES	0.250	20	stool, carcinoma
+17378912	MLH1	hyperMeth_CpG	prom	YES	0.200	20	stool, carcinoma
+17378912	MGMT	hyperMeth_CpG	prom	YES	0.200	20	stool, carcinoma
+17378912	SFRP2	hyperMeth_CpG	prom	YES	0.300	20	stool, carcinoma
+17352030	SFRP2	hyperMeth_CpG	prom	YES	0.942	52	stool, carcinoma
+17352030	TPEF	hyperMeth_CpG	prom	YES	0.712	52	stool, carcinoma
+17352030	MGMT	hyperMeth_CpG	prom	YES	0.481	52	stool, carcinoma
+18203283	SFRP2	hyperMeth_CpG	prom	YES	0.870	69	stool, carcinoma
+15502094	ATM	hyperMeth_CpG	prom	YES	0.250	20	stool, carcinoma
+15502094	APC	hyperMeth_CpG	prom	YES	0.200	20	stool, carcinoma
+15502094	MGMT	hyperMeth_CpG	prom	YES	0.200	20	stool, carcinoma
+15502094	MLH1	hyperMeth_CpG	prom	YES	0.200	20	stool, carcinoma
+15502094	HLTF	hyperMeth_CpG	prom	YES	0.250	20	stool, carcinoma
+15094274	SFRP2	hyperMeth_CpG	prom	YES	0.734	23	stool, carcinoma
+15094274	SFRP5	hyperMeth_CpG	prom	YES	0.174	23	stool, carcinoma
+15094274	PGR	hyperMeth_CpG	prom_A	YES	0.130	23	stool, carcinoma
+15094274	PGR	hyperMeth_CpG	prom_A	YES	0.043	23	stool, carcinoma
+16077070	VIM	hyperMeth_CpG	exon1	YES	0.457	94	stool, carcinoma
+16077070	VIM	hyperMeth_CpG	exon1	YES	0.500	34	stool, carcinoma
+16077070	VIM	hyperMeth_CpG	exon1	YES	0.460	28	stool, carcinoma
+16077070	VIM	hyperMeth_CpG	exon1	YES	0.450	45	stool, carcinoma
+19509152	GATA4	hyperMeth_CpG	prom	YES	0.714	28	stool, carcinoma
+17352030	SFRP2	hyperMeth_CpG	prom	YES	0.042	24	stool, healthy
+15094274	SFRP2	hyperMeth_CpG	prom	YES	0.154	26	stool, healthy
+15094274	SFRP5	hyperMeth_CpG	prom	YES	0.038	26	stool, healthy
+15094274	PGR	hyperMeth_CpG	prom_A	YES	0.115	26	stool, healthy
+15709190	MGMT	hyperMeth_CpG	prom	YES	0.278	18	stool, healthy
+15709190	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.158	19	stool, healthy
+15709190	MLH1	hyperMeth_CpG	prom	YES	0.105	19	stool, healthy
+16077070	VIM	hyperMeth_CpG	exon1	YES	0.100	198	stool, healthy
+19509152	GATA4	hyperMeth_CpG	prom	YES	0.155	45	stool, healthy
+17378912	ATM	hyperMeth_CpG	prom	YES	0.200	5	stool, polyps
+17378912	HLTF	hyperMeth_CpG	prom	YES	0.200	5	stool, polyps
+17378912	MLH1	hyperMeth_CpG	prom	YES	0.200	5	stool, polyps
+17378912	SFRP2	hyperMeth_CpG	prom	YES	0.200	5	stool, polyps
+17352030	SFRP2	hyperMeth_CpG	prom	YES	0.375	8	stool, polyps
+17352030	TPEF	hyperMeth_CpG	prom	YES	0.250	8	stool, polyps
+17352030	MGMT	hyperMeth_CpG	prom	YES	0.125	8	stool, polyps
+18203283	SFRP2	hyperMeth_CpG	prom	YES	0.423	26	stool, polyps
+15709190	MGMT	hyperMeth_CpG	prom	YES	0.300	10	stool, polyps
+15709190	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.143	7	stool, polyps
+16077070	VIM	hyperMeth_CpG	exon1	YES	0.260	23	stool, polyps
+21150880	PTPRG	hyperMeth_CpG	intron1	TOTAL	1.000	3	stool, polyps
+17352030	SFRP2	hyperMeth_CpG	prom	YES	0.167	6	stool, premalignant mucosa
+17352030	TPEF	hyperMeth_CpG	prom	YES	0.167	6	stool, premalignant mucosa
+18829530	CDH3	gene_expression		YES	1.000	5	carcinoma
+16015629	MSH2	gene_expression		YES	0.462	13	carcinoma
+16015629	MLH1	gene_expression		YES	0.308	13	carcinoma
+16007118	MLH1	mutation	any	YES	0.450	20	carcinoma
+16007118	MSH2	mutation	any	YES	0.550	20	carcinoma
+14734469		MSI		YES	1.000	20	carcinoma
+14734469	MLH1	mutation	any	YES	0.350	20	carcinoma
+14734469	MSH2	mutation	any	YES	0.650	20	carcinoma
+15294875	KRAS	mutation	any	YES	0.400	158	carcinoma
+15526363	PTGS2	gene_expression		YES	0.190	26	carcinoma
+10922385	MLH1	LOH		YES	0.800	10	carcinoma
+15247181	KRAS	mutation	any	YES	0.333	18	carcinoma
+16937450		MSI		HIGH	0.850	20	carcinoma
+16937450		MSI		LOW	0.100	20	carcinoma
+15526363	PTGS2	hypoMeth_CpG	prom	YES	0.700	10	carcinoma
+21193451	MLH1	mutation	any	YES	0.450	382	carcinoma
+21193451	MSH2	mutation	any	YES	0.440	382	carcinoma
+21193451	MSH6	mutation	any	YES	0.060	382	carcinoma
+21193451	PMS2	mutation		YES	0.052	382	carcinoma
+15793287	BRAF	mutation	exon15 cod600 V->E	YES	0.330	6	carcinoma
+16551850	PTGS2	gene_expression		UP	0.700	153	carcinoma
+16551850	PTGS2	gene_expression		YES	0.785	153	carcinoma
+16551850	PTGS2	gene_expression		NORMAL	0.084	153	carcinoma
+16636019	MLH1	mutation	any	YES	0.028	281	carcinoma
+16636019	MSH2	mutation	any	YES	0.032	281	carcinoma
+16636019	MSH6	mutation	any	YES	0.028	281	carcinoma
+17143260	KRAS	mutation	G->A	YES	0.260	35	carcinoma
+17143260	KRAS	mutation	cod12,13	YES	0.370	35	carcinoma
+17143260	BRAF	mutation	exon15 cod600 V->E	YES	0.090	35	carcinoma
+17143260	CTNNBIP1	mutation	any	YES	0.090	35	carcinoma
+17143260	MGMT	gene_expression		YES	0.750	20	carcinoma
+11146446		CIMP		YES	0.230	32	carcinoma
+15122305	PTGS2	hypoMeth_CpG	prom	YES	0.725	149	carcinoma
+12615722	KRAS	mutation	any	YES	0.313	32	carcinoma
+11870540		MSI		YES	0.240	71	carcinoma
+16850502	CDKN1A	gene_expression		YES	0.500	737	carcinoma
+16850502	CDKN1A	gene_expression		VERY_LOW	0.310	737	carcinoma
+16850502	CDKN1A	gene_expression		LOW	0.110	737	carcinoma
+15856472	MLH1	gene_expression		NORMAL	0.440	34	carcinoma
+15856472	MLH1	gene_expression		PARTIAL	0.470	34	carcinoma
+15856472	MLH1	gene_expression		YES	0.910	34	carcinoma
+15856472	MSH2	gene_expression		NORMAL	0.580	31	carcinoma
+15856472	MSH2	gene_expression		PARTIAL	0.390	31	carcinoma
+15856472	MSH2	gene_expression		YES	0.970	31	carcinoma
+15856472		MSI		LOW	0.570	51	carcinoma
+15856472		MSI		HIGH	0.430	51	carcinoma
+12461746	KRAS	mutation	any	YES	0.330	88	carcinoma
+16015629	MSH2	gene_expression		YES	0.780	41	carcinoma
+16015629	MLH1	gene_expression		YES	0.476	42	carcinoma
+15326380	APC	LOH	5q	YES	0.100	132	carcinoma
+15326380	APC	gene_expression		YES	0.200	137	carcinoma
+10419592		LOH	22q	YES	0.467	15	carcinoma
+10419592		LOH	17p	YES	0.733	15	carcinoma
+10419592		LOH	18q	YES	0.467	15	carcinoma
+10419592	APC	LOH	5q	YES	0.467	15	carcinoma
+10419592		LOH	6q	YES	0.067	15	carcinoma
+10419592		LOH	8p	YES	0.467	15	carcinoma
+10419592		LOH	9p	YES	0.200	15	carcinoma
+10419592		LOH	14q	YES	0.200	15	carcinoma
+10419592		LOH	7q	YES	0.133	15	carcinoma
+10419592		LOH	13q	YES	0.067	15	carcinoma
+12782759	KRAS	mutation	cod12	YES	0.524	42	carcinoma
+12782759	APC	LOH	5q	YES	0.333	39	carcinoma
+16007117	WIF1	gene_expression		YES	0.180	50	carcinoma
+15126336	PTEN	LOH	10q23	YES	0.230	26	carcinoma
+17270239	TGFBR2	mutation	any	YES	0.720	144	carcinoma
+16007117	WIF1	gene_expression		YES	0.218	23	carcinoma
+11146446	DNMT1	gene_expression		UP	1.000	32	carcinoma
+11146446	DNMT3B	gene_expression		UP	1.000	32	carcinoma
+11146446	DNMT2	gene_expression		NORMAL	1.000	32	carcinoma
+16331272	TP53	mutation	any	YES	0.190	16	carcinoma
+11601928		MSI		YES	0.176	125	carcinoma
+15800999	MGMT	gene_expression		YES	0.458	62	carcinoma
+17378912	PTGS2	gene_expression		YES	0.700	20	carcinoma
+16336454		CIMP		LOW	0.444	36	carcinoma
+16336454		CIMP		HIGH	0.305	36	carcinoma
+16336454		CIMP		YES	0.750	36	carcinoma
+16336454		MSI		YES	0.139	36	carcinoma
+10646864	KRAS	mutation	any	YES	0.390	110	carcinoma
+18240147	KRAS	mutation	any	YES	0.240	316	carcinoma
+14734469		MSI		YES	0.275	80	carcinoma
+14734469	KRAS	mutation	any	YES	0.420	72	carcinoma
+8651737	NTS	gene_expression		YES	0.280	40	carcinoma
+17474983		MSI		YES	0.150	889	carcinoma
+17474983		MSI		YES	0.150	889	carcinoma
+17474983		combined	KRAS mutation YES / BRAF mutation NO	YES	0.390	365	carcinoma
+17474983		CIMP		YES	0.530	920	carcinoma
+18829530	CDH3	gene_expression		YES	1.000	15	carcinoma
+18829530	CDH3	hypoMeth_CpG	prom	YES	1.000	15	carcinoma
+18425817	TSP1	gene_expression		YES	0.330	12	carcinoma
+15516972	LAMC2	gene_expression		HIGH	0.200	69	carcinoma
+11326276	LEF1	gene_expression	3.6-kb mRNA	YES	1.000	10	carcinoma
+11171827	CDH1	polymorphism	cod692 GCC->GCT	YES	0.571	14	carcinoma
+11171827	CDH1	polymorphism	intron12	YES	0.357	14	carcinoma
+18299982		MSI		YES	0.122	49	carcinoma
+18299982		MMR_defective		YES	0.163	49	carcinoma
+18086775	BRAF	mutation	exon15 cod600 V->E	YES	0.200	74	carcinoma
+18086775	KRAS	mutation	cod12,13	YES	0.270	74	carcinoma
+18054557	DCC	LOH	18q	YES	0.610	147	carcinoma
+16080503	RUNX3	gene_expression		YES	0.340	92	carcinoma
+17967459	UNC5C	gene_expression		DOWN	0.740	86	carcinoma
+8484122		MSI		YES	0.278	90	carcinoma
+8505985		MSI		YES	0.120		carcinoma
+10631274		MSI		HIGH	0.170	607	carcinoma
+10631274		MSI		LOW	0.030	607	carcinoma
+10631274		MSI		YES	0.200	607	carcinoma
+12397640		MSI		HIGH	0.216	37	carcinoma
+16436636		MSI		HIGH	0.090	110	carcinoma
+16436636		MSI		YES	0.120	110	carcinoma
+16436636		MSI		LOW	0.030	110	carcinoma
+16436636	MGMT	gene_expression		YES	0.664	110	carcinoma
+16436636	MLH1	gene_expression		YES	0.919	110	carcinoma
+16675157		MSI		YES	0.108	61	carcinoma
+11221863		MSI		HIGH	0.256	90	carcinoma
+11221863		MSI		LOW	0.489	90	carcinoma
+11221863		MSI		YES	0.511	90	carcinoma
+12612901		MSI		HIGH	0.226	93	carcinoma
+12612901	TP53	mutation	any	YES	0.480	91	carcinoma
+12612901	KRAS	mutation	any	YES	0.456	92	carcinoma
+15526363	PTGS2	gene_expression		YES	0.710	39	carcinoma
+17339237		MSI		HIGH	0.150	889	carcinoma
+17339237	BRAF	mutation	any	YES	0.133	874	carcinoma
+18486467		MSI		YES	0.135	74	carcinoma
+18486467	BRAF	mutation	any	YES	0.135	74	carcinoma
+18486467	KRAS	mutation	any	YES	0.324	74	carcinoma
+18486467	TP53	mutation	any	YES	0.486	74	carcinoma
+18486467		hypoMeth_CpG	global	YES	0.351	74	carcinoma
+19107235		CIMP		YES	0.534	719	carcinoma
+19107235		CIMP		LOW	0.385	719	carcinoma
+19107235		CIMP		HIGH	0.149	719	carcinoma
+19107235		MSI		YES	0.210	738	carcinoma
+19107235		MSI		LOW	0.069	738	carcinoma
+19107235		MSI		HIGH	0.140	738	carcinoma
+19107235	BRAF	mutation	any	YES	0.130	726	carcinoma
+19107235	KRAS	mutation	any	YES	0.369	746	carcinoma
+19107235	PIK3CA	mutation	any	YES	0.153	666	carcinoma
+19107235	TP53	gene_expression		YES	0.439	753	carcinoma
+19107235	CDKN1A	gene_expression		YES	0.179	725	carcinoma
+19107235	RUNX1	LOH	1p36.1	YES	0.525	720	carcinoma
+19107235	CTNNBIP1	gene_expression		YES	0.358	672	carcinoma
+19107235	PTGS2	gene_expression		YES	0.847	761	carcinoma
+18832519		MSI		HIGH	0.186	649	carcinoma
+18832519		CIMP		HIGH	0.194	649	carcinoma
+18832519	KRAS	mutation	any	YES	0.367	649	carcinoma
+18832519	BRAF	mutation	any	YES	0.162	649	carcinoma
+19183329	SMAD4	gene_expression		YES	0.752	109	carcinoma
+19127118	MED1	gene_expression		DOWN	1.000	39	carcinoma
+19100511	ATP2A3	mutation	cod674 R->C	YES	0.026	113	carcinoma
+19100511	ATP2A3	mutation	cod1068 A->A	YES	0.009	113	carcinoma
+19100511	ATP2A3	mutation	intron4	YES	0.026	113	carcinoma
+18992263	TP53	mutation	any	YES	0.467	1374	carcinoma
+18992263	KRAS	mutation	any	YES	0.322	1344	carcinoma
+18992263		CIMP		YES	0.266	1254	carcinoma
+18992263		MSI		YES	0.149	1424	carcinoma
+18815942	LRRC3B	gene_expression		LOW	0.548	31	carcinoma
+18795670		MSI		HIGH	0.431	51	carcinoma
+18795670		MSI		LOW	0.569	51	carcinoma
+15247181	BRAF	mutation	exon15 cod600 V->E	YES	0.331	127	carcinoma
+15247181	KRAS	mutation	any	YES	0.291	127	carcinoma
+16739311	SMAD4	gene_expression		YES	0.907	86	carcinoma
+16886611	SMAD4	gene_expression		YES	0.817	49	carcinoma
+16886611	SMAD4	gene_expression		DOWN	0.367	49	carcinoma
+17289018	TGFBR1	gene_expression		YES	0.711	38	carcinoma
+17289018	TGFBR2	gene_expression		YES	0.342	38	carcinoma
+17289018	SMAD4	gene_expression		YES	0.368	38	carcinoma
+10389752	SMAD4	gene_expression		YES	0.867	15	carcinoma
+10389752	SMAD5	gene_expression		YES	0.571	14	carcinoma
+10389752	SMAD1	gene_expression		YES	0.715	14	carcinoma
+10389752	SMAD2	gene_expression		YES	0.857	14	carcinoma
+10389752	SMAD3	gene_expression		YES	0.857	14	carcinoma
+10389752	SMAD6	gene_expression		YES	0.857	14	carcinoma
+10389752	APC	gene_expression		YES	0.642	13	carcinoma
+10389752	TGFBR1	gene_expression		YES	1.000	13	carcinoma
+12077092	SMAD4	gene_expression		YES	0.380	53	carcinoma
+10389752	DCC	gene_expression		YES	0.846	13	carcinoma
+15034581	APC	mutation	any	YES	0.692	91	carcinoma
+16381005		MSI		YES	0.170	83	carcinoma
+16381005		CIMP		YES	0.240	83	carcinoma
+16381005	BRAF	mutation	exon15 cod600 V->E	YES	0.253	83	carcinoma
+16381005	KRAS	mutation	cod12,13	YES	0.640	83	carcinoma
+19117505	BRAF	mutation	any	YES	0.230	52	carcinoma
+19117505	KRAS	mutation	any	YES	0.346	52	carcinoma
+19117505	TP53	mutation	any	YES	0.288	52	carcinoma
+18451217	APC	mutation	any	YES	0.620	208	carcinoma
+18451217	MGMT	gene_expression		YES	0.755	208	carcinoma
+18451217	MLH1	gene_expression		YES	0.920	204	carcinoma
+18451217		MSI		HIGH	0.106	208	carcinoma
+18451217		CIMP		YES	0.101	208	carcinoma
+18451217	KRAS	mutation	cod12,13	YES	0.392	204	carcinoma
+18451217	BRAF	mutation	exon15 cod600 V->E	YES	0.065	199	carcinoma
+18451217	TP53	mutation	any	YES	0.552	203	carcinoma
+19164452		combined	MGMT +Meth_CpGisland YES / MLH1 +Meth_CpGisland YES	YES	0.100	686	carcinoma
+16540727	HSPA4	gene_expression		YES	0.356	45	carcinoma
+16540727	TFF1	gene_expression		YES	0.578	45	carcinoma
+19659606	DKK1	gene_expression		UP	0.670	21	carcinoma
+19659606	DKK2	gene_expression		UP	0.560	18	carcinoma
+19659606	DKK3	gene_expression		UP	0.710	21	carcinoma
+19659606	DKK4	gene_expression		UP	0.830	18	carcinoma
+19659606	DKK1	gene_expression		DOWN	0.140	21	carcinoma
+19659606	DKK4	gene_expression		DOWN	0.110	18	carcinoma
+18461655	DKK1	gene_expression		DOWN	0.200	30	carcinoma
+18461655	DKK2	gene_expression		DOWN	0.267	30	carcinoma
+18461655	DKK3	gene_expression		DOWN	0.400	30	carcinoma
+18461655	DKK4	gene_expression		DOWN	0.133	30	carcinoma
+18461655	DKK1	gene_expression		UP	0.500	30	carcinoma
+18461655	DKK2	gene_expression		UP	0.467	30	carcinoma
+18461655	DKK3	gene_expression		UP	0.233	30	carcinoma
+18461655	DKK4	gene_expression		UP	0.533	30	carcinoma
+18461655	KRM2	gene_expression		UP	0.133	30	carcinoma
+17487504	KIT	gene_expression		UP	0.150	73	carcinoma
+12473596	PIK3CG	gene_expression		DOWN	0.850	68	carcinoma
+19117505		MSI		YES	0.529	51	carcinoma
+19060925	MLH1	gene_expression		YES	0.913	231	carcinoma
+19060925	MGMT	gene_expression		YES	0.792	231	carcinoma
+17122504	KRAS	mutation	cod12,13	YES	0.373	59	carcinoma
+17122504		CIMP		YES	0.399	59	carcinoma
+17136345	IGFBP7	gene_expression	mRNA	YES	0.683	104	carcinoma
+18028895	MGMT	gene_expression		YES	0.292	24	carcinoma
+18028895	TP53	gene_expression		YES	0.750	24	carcinoma
+18028895	ABCB1	gene_expression		YES	0.875	24	carcinoma
+18028895	PTGS2	gene_expression		YES	0.833	24	carcinoma
+17007017	MAGEA1	hypoMeth_CpG	prom	YES	0.430	87	carcinoma
+17007017	MAGEA3	hypoMeth_CpG	prom	YES	0.770	87	carcinoma
+16991127		MSI	mitochondrial	YES	0.230	48	carcinoma
+16991127		MSI		YES	0.292	48	carcinoma
+16991127	TP53	LOH	17p	YES	0.750	48	carcinoma
+16991127	BRCA1	LOH	17q	YES	0.104	48	carcinoma
+16969349	KRAS	mutation	cod12	YES	0.267	202	carcinoma
+16969349	BRAF	mutation	exon15 cod600 V->E	YES	0.035	202	carcinoma
+16969349	TP53	mutation	any	YES	0.322	202	carcinoma
+16951227	ERCC2	gene_expression	mRNA	UP		52	carcinoma
+16951227	POLB	gene_expression	mRNA	UP		52	carcinoma
+16951227	ERCC4	gene_expression	mRNA	UP		52	carcinoma
+16951227	ERCC6	gene_expression	mRNA	UP		52	carcinoma
+16951227	TP53	gene_expression		UP		52	carcinoma
+16951227	HMG1	gene_expression	mRNA	UP		52	carcinoma
+16951227	MSH2	gene_expression		UP		52	carcinoma
+16951227	ATR	gene_expression	mRNA	UP		52	carcinoma
+16951227	ERCC3	gene_expression	mRNA	UP		52	carcinoma
+16951227	ERCC1	gene_expression	mRNA	UP		52	carcinoma
+16951227	XRCC1	gene_expression	mRNA	UP		52	carcinoma
+16951227	DDB1	gene_expression	mRNA	UP		52	carcinoma
+16951227	RAD9	gene_expression	mRNA	UP		52	carcinoma
+16951227	MSH6	gene_expression	mRNA	UP		52	carcinoma
+16951227	XPC	gene_expression	mRNA	UP		52	carcinoma
+16951227	ERCC5	gene_expression	mRNA	UP		52	carcinoma
+16951227	POLH	gene_expression	mRNA	UP		52	carcinoma
+16951227	ATM	gene_expression		UP		52	carcinoma
+16951227	MLH1	gene_expression		UP		52	carcinoma
+16951227	XPA	gene_expression	mRNA	DOWN		52	carcinoma
+16937450		MSI		HIGH	0.100	20	carcinoma
+16937450		MSI		LOW	0.300	20	carcinoma
+16911791	MSH2	gene_expression		YES	0.417	60	carcinoma
+21352815	NDRG2	gene_expression		YES	0.386	70	carcinoma
+16760301	KRAS	mutation	cod12,13	YES	0.440	66	carcinoma
+16760301	SLC5A8	gene_expression		YES	0.410	66	carcinoma
+16762618	JCVT	gene_expression		YES	0.430	100	carcinoma
+16799636	BNIP3	gene_expression		DOWN	0.675	80	carcinoma
+16464797	TP53	gene_expression		UP	0.460	49	carcinoma
+16464797	MSH2	gene_expression		YES	0.980	49	carcinoma
+16533812	HDAC3	gene_expression		UP	1.000	10	carcinoma
+16533812	HDAC1	gene_expression		UP	1.000	10	carcinoma
+16533812	HDAC2	gene_expression		UP	1.000	10	carcinoma
+16642018	GLI2	gene_expression		DOWN	0.750	4	carcinoma
+16642018	DDX18	gene_expression		DOWN	0.500	4	carcinoma
+16642018	INSIG2	gene_expression		DOWN	0.750	4	carcinoma
+16642018	MARCO	gene_expression		DOWN	0.750	4	carcinoma
+16642018	PTPN4	gene_expression		DOWN	1.000	4	carcinoma
+16642018	TSN	gene_expression		DOWN	0.750	4	carcinoma
+16642018	INHBB	gene_expression		DOWN	1.000	10	carcinoma
+16642018	SCTR	gene_expression		DOWN	1.000	10	carcinoma
+16642018	EN1	gene_expression		DOWN	1.000	10	carcinoma
+16675565	TS	gene_expression		VERY_HIGH	0.740	215	carcinoma
+20340131	CADM1	gene_expression		DOWN	0.390	54	carcinoma
+20340131	CADM1	gene_expression		YES	0.280	54	carcinoma
+21140203	MGMT	gene_expression		YES	0.630	672	carcinoma
+20473920	CDKN2A:p16	gene_expression		YES	0.750	804	carcinoma
+15526363	PTGS2	hypoMeth_CpG	prom	YES	0.717	39	carcinoma
+20200425	PTGER2	gene_expression		UP	0.327	516	carcinoma
+21304055		MSI		LOW	0.130	544	carcinoma
+21304055		MSI		HIGH	0.160	544	carcinoma
+21304055		MSI		LOW	0.040	689	carcinoma
+21304055		MSI		HIGH	0.099	689	carcinoma
+21304055	BRAF	mutation	exon15 cod600 V->E	YES	0.118	530	carcinoma
+21304055	BRAF	mutation	exon15 cod600 V->E	YES	0.118	653	carcinoma
+20682398		MSI		LOW	0.471	17	carcinoma
+20682398		MSI		HIGH	0.529	17	carcinoma
+20682398	KRAS	mutation	cod12	YES	0.294	17	carcinoma
+20682398	KRAS	mutation	cod13	YES	0.470	17	carcinoma
+20131317		CIMP		YES	0.277	94	carcinoma
+21509761	KRAS	mutation	cod12,13	YES	0.348	116	carcinoma
+21509761		MSI		YES	0.187	91	carcinoma
+21509761		CIMP		YES	0.180	116	carcinoma
+11171827	CDH1	polymorphism	cod692 GCC->GCT	YES	0.714	14	carcinoma
+11171827	CDH1	polymorphism	intron12	YES	0.286	14	carcinoma
+16773493		combined	LN5g2 +Meth_CpGisland YES / LN5g2 gene_expression NO	YES	0.330	6	carcinoma
+16773493	MUC2	gene_expression		YES	0.430	7	carcinoma
+16773493	MUC5AC	gene_expression		YES	0.290	7	carcinoma
+16773493	LAMC2	gene_expression		YES	0.290	7	carcinoma
+16773493		combined	LN5g2 gene_expression YES / CTNNBIP1 gene_expression YES	YES	0.384	73	carcinoma
+16773493		combined	LN5g2 +Meth_CpGisland YES / LN5g2 gene_expression NO	YES	0.027	73	carcinoma
+16773493	MUC2	gene_expression		YES	0.192	73	carcinoma
+16773493	MUC5AC	gene_expression		YES	0.151	73	carcinoma
+16773493	LAMC2	gene_expression		YES	0.670	73	carcinoma
+15516972	LAMC2	gene_expression		HIGH	0.610	51	carcinoma
+10343605		MSI		HIGH	0.666	3	carcinoma
+15247181	BRAF	mutation	exon15 cod600 V->E	YES	0.172	87	carcinoma
+15856472		MSI		LOW	0.800	29	carcinoma
+15856472		MSI		YES	0.680	22	carcinoma
+16551850	PTGS2	gene_expression		UP	0.630	57	carcinoma
+18299982		MSI		YES	0.130	41	carcinoma
+10631274		MSI		YES	0.130	405	carcinoma
+10631274		MSI		HIGH	0.130	405	carcinoma
+18795670		MSI		HIGH	0.454	11	carcinoma
+18795670		MSI		LOW	0.545	11	carcinoma
+17289018	SMAD4	gene_expression		YES	0.188	22	carcinoma
+12473596	PIK3CG	gene_expression		YES	0.610	28	carcinoma
+16984616		MSI		YES	0.060	49	carcinoma
+17339237	MGMT	gene_expression		YES	0.380	519	carcinoma
+16436636	MLH1	gene_expression		YES	0.940	84	carcinoma
+16436636	MGMT	gene_expression		YES	0.679	84	carcinoma
+15516972	LAMC2	gene_expression		HIGH	0.370	116	carcinoma
+12397640		MSI		HIGH	0.180	37	carcinoma
+11870540		MSI		YES	0.360	39	carcinoma
+18795670		MSI		HIGH	1.000	4	carcinoma
+16381005		MSI		YES	0.270	26	carcinoma
+16381005		CIMP		YES	0.380	26	carcinoma
+16381005	BRAF	mutation	exon15 cod600 V->E	YES	0.460	26	carcinoma
+16381005	KRAS	mutation	cod12,13	YES	0.270	26	carcinoma
+16984616		MSI		YES	0.410	37	carcinoma
+16381005		MSI		YES	0.120	57	carcinoma
+16381005		CIMP		YES	0.180	57	carcinoma
+16381005	BRAF	mutation	exon15 cod600 V->E	YES	0.160	57	carcinoma
+16381005	KRAS	mutation	cod12,13	YES	0.400	57	carcinoma
+15247181	BRAF	mutation	exon15 cod600 V->E	YES	0.509	51	carcinoma
+17339237	MGMT	gene_expression		YES	0.400	54	carcinoma
+15856472		MSI		LOW	0.170	29	carcinoma
+15856472		MSI		YES	0.270	22	carcinoma
+16436636	MLH1	gene_expression		YES	0.846	26	carcinoma
+16436636	MGMT	gene_expression		YES	0.615	26	carcinoma
+12397640	APC	LOH	5q	YES	0.667	15	carcinoma
+12397640	MSH2	LOH	2p	YES	0.688	16	carcinoma
+12397640	TP53	LOH	17p	YES	0.765	17	carcinoma
+12397640	SMAD4	LOH	18q	YES	0.818	11	carcinoma
+12397640	SMAD2	LOH		YES	0.818	11	carcinoma
+12397640	DCC	LOH	18q	YES	0.818	11	carcinoma
+12397640		MSI		HIGH	0.080	37	carcinoma
+12397640	CDH1	gene_expression		DOWN	0.778	27	carcinoma
+16551850	PTGS2	gene_expression		UP	0.390	18	carcinoma
+15516972	LAMC2	gene_expression		HIGH	0.500	4	carcinoma
+10631274		MSI		YES	0.330	129	carcinoma
+10631274		MSI		HIGH	0.330	129	carcinoma
+10631274		MSI		YES	0.150	53	carcinoma
+10631274		MSI		HIGH	0.150	53	carcinoma
+18795670		MSI		HIGH	0.500	6	carcinoma
+18795670		MSI		LOW	0.500	6	carcinoma
+17167985	SMAD4	gene_expression		YES	0.690	38	carcinoma
+17167985	SMAD4	mutation	any	YES	0.076	26	carcinoma
+17167985		MSI		YES	0.368	38	carcinoma
+17167985	TGFBR2	mutation	any	YES	0.286	35	carcinoma
+17289018	SMAD4	gene_expression		YES	0.545	11	carcinoma
+12473596	PIK3CG	gene_expression		YES	0.330	6	carcinoma
+16984616		MSI		YES	0.690	49	carcinoma
+17122504	BRAF	mutation	exon15 cod600 V->E	YES	0.818	11	carcinoma
+17122504		CIMP		YES	0.900	11	carcinoma
+17122504		MSI		HIGH	0.818	11	carcinoma
+16483002		MSI		HIGH	1.000	6	carcinoma
+17167985	SMAD4	gene_expression		YES	0.200	5	carcinoma
+17167985		MSI		YES	0.200	5	carcinoma
+15856472		MSI		LOW	0.030	29	carcinoma
+15856472		MSI		YES	0.050	22	carcinoma
+12397640	APC	LOH	5q	YES	0.364	11	carcinoma
+12397640	MSH2	LOH	2p	YES	0.278	18	carcinoma
+12397640	TP53	LOH	17p	YES	0.556	18	carcinoma
+12397640	SMAD4	LOH	18q	YES	0.364	11	carcinoma
+12397640	SMAD2	LOH		YES	0.364	11	carcinoma
+12397640	DCC	LOH	18q	YES	0.364	11	carcinoma
+16551850	PTGS2	gene_expression		UP	0.820	78	carcinoma
+18299982		MSI		YES	0.250	4	carcinoma
+18795670		MSI		HIGH	0.333	30	carcinoma
+18795670		MSI		LOW	0.667	30	carcinoma
+17289018	SMAD4	gene_expression		YES	0.800	5	carcinoma
+12473596	PIK3CG	gene_expression		YES	0.880	34	carcinoma
+16984616		MSI		YES	0.080	49	carcinoma
+10468602	MLH1	polymorphism	cod 219 ATC->GTC	YES	0.429	42	CRC
+10468602	MSH2	polymorphism	intron9 A->T	YES	0.190	42	CRC
+10468602	MSH2	polymorphism	intron10,11 A->G	YES	0.690	42	CRC
+12829793	SLC5A8	gene_expression		YES	0.742	31	CRC
+16007117	WIF1	gene_expression		YES	0.261	23	CRC
+15800999	MGMT	gene_expression		YES	1.000	20	CRC
+11904375	HLTF	gene_expression		YES	0.740	34	CRC
+11904375	HLTF	mutation	cod979	YES	0.029	34	CRC
+14734469		MSI		YES	0.420	26	CRC
+14734469	KRAS	mutation	any	YES	0.420	26	CRC
+12925956	IGSF4	gene_expression		YES	0.750	8	CRC
+19051296	DKK3	gene_expression		YES	0.667	9	CRC
+18461655	DKK1	gene_expression		DOWN	0.313	16	CRC
+18461655	DKK2	gene_expression		DOWN	0.813	16	CRC
+18461655	DKK3	gene_expression		DOWN	0.938	16	CRC
+18461655	DKK4	gene_expression		DOWN	0.625	16	CRC
+18461655	KRM2	gene_expression		DOWN	0.500	16	CRC
+17136345	IGFBP7	gene_expression	mRNA	YES	0.250	8	CRC
+17048309	IGFBP7	gene_expression	mRNA	YES	0.200	10	CRC
+17013898	RASSF2	gene_expression		YES	0.571	7	CRC
+17007017	MAGEA1	gene_expression		YES	0.590	32	CRC
+17007017	MAGEA3	gene_expression		YES	0.660	32	CRC
+17007017	MAGEA1	hypoMeth_CpG	prom	YES	0.810	32	CRC
+17007017	MAGEA3	hypoMeth_CpG	prom	YES	0.810	32	CRC
+16799636	BNIP3	H3Ac		YES	0.333	6	CRC
+16799636	BNIP3	H4Ac		YES	0.333	6	CRC
+16507901	COL4A5	gene_expression	protein, mRNA	YES	0.250	8	CRC
+16507901	COL4A6	gene_expression	protein, mRNA	YES	0.250	8	CRC
+16533812	HDAC3	gene_expression		UP	1.000	10	CRC
+16568088	DNMT1	gene_expression		UP	1.000	4	CRC
+16568088	DNMT3B	gene_expression		UP	1.000	4	CRC
+20340131	CADM1	gene_expression		DOWN	0.500	8	CRC
+20340131	CADM1	gene_expression		YES	0.125	8	CRC
+10987299		MSI		HIGH	0.090	148	CRC
+10987299		MSI		LOW	0.110	148	CRC
+10987299		MSI		YES	0.200	148	CRC
+17878476		MSI		HIGH	0.083	205	CRC
+16012936		MSI		HIGH	0.173	81	CRC
+17183069	BRAF	mutation	exon15 cod600 V->E	YES	0.046	307	CRC
+17183069	KRAS	mutation	cod12,13	YES	0.254	307	CRC
+17183069	CTNNBIP1	mutation	any	YES	0.094	307	CRC
+17183069	PIK3CA	mutation	exon9,20 cod545,1047,1049	YES	0.016	307	CRC
+10811111	KRAS	mutation	any	YES	0.360	244	CRC
+11406538	TP53	mutation	any	YES	0.430	314	CRC
+15843754	XAF1	gene_expression		YES	0.650	40	CRC
+16918136	BRAF	mutation	any	YES	0.041	73	CRC
+12032847	KRAS	mutation	cod12,13	YES	0.390	222	CRC
+15800999	KRAS	mutation	G->A	YES	0.213	89	CRC
+17440063		MSI		YES	0.250	4	CRC
+17031395	MUTYH	mutation	cod382 G->D	YES	0.010	872	CRC
+17031395	MUTYH	mutation	cod165 Y->C	YES	0.003	872	CRC
+17031395		MSI		YES	0.150	893	CRC
+11751682	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.200	84	carcinoma
+11751682	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.200	84	carcinoma
+11751682	MGMT	hyperMeth_CpG	prom	YES	0.110	84	carcinoma
+11751682	APC	hyperMeth_CpG	prom	YES	0.010	84	carcinoma
+11751682	MLH1	hyperMeth_CpG	prom	YES	0.040	84	carcinoma
+14719065	GSK3B	hyperMeth_CpG	prom	YES	0.050	185	carcinoma
+11751682	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.190	70	carcinoma
+11751682	MGMT	hyperMeth_CpG	prom	YES	0.240	70	carcinoma
+11751682	APC	hyperMeth_CpG	prom	YES	0.130	70	carcinoma
+11751682	MLH1	hyperMeth_CpG	prom	YES	0.240	70	carcinoma
+11751682	STK11	hyperMeth_CpG	prom	YES	0.030	70	carcinoma
+11751682	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.190	70	carcinoma
+16007118	RASSF1A	hyperMeth_CpG	prom	YES	0.300	20	carcinoma
+17260021	MCC	hyperMeth_CpG	prom	YES	0.143	7	carcinoma
+14734469	MLH1	hyperMeth_CpG	prom	YES	0.450	20	carcinoma
+15526363	CCNA1	hyperMeth_CpG	prom	YES	1.000	26	carcinoma
+15526363	CDX1	hyperMeth_CpG	prom	YES	1.000	26	carcinoma
+15526363	RARB	hyperMeth_CpG	prom RARB2	YES	0.850	26	carcinoma
+15526363	CDH13	hyperMeth_CpG	prom	YES	0.580	26	carcinoma
+15526363	CDKN2B	hyperMeth_CpG	prom	YES	0.580	26	carcinoma
+15526363	MYOD1	hyperMeth_CpG	prom	YES	0.690	26	carcinoma
+15526363	TP73	hyperMeth_CpG	cpgisland	YES	0.610	26	carcinoma
+15526363	CXX1	hyperMeth_CpG	prom	YES	0.610	26	carcinoma
+15526363	WT1	hyperMeth_CpG	prom	YES	0.650	26	carcinoma
+15526363	MGMT	hyperMeth_CpG	prom	YES	0.110	26	carcinoma
+15526363	MLH1	hyperMeth_CpG	prom	YES	0.110	26	carcinoma
+15526363	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.110	26	carcinoma
+15526363	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.040	26	carcinoma
+15526363	APC	hyperMeth_CpG	prom	YES	0.080	26	carcinoma
+15526363	RASSF1A	hyperMeth_CpG	prom	YES	0.040	26	carcinoma
+11585722	MLH1	hyperMeth_CpG	prom	YES	0.200	10	carcinoma
+21150880	PTPRG	hyperMeth_CpG	intron1	YES	0.920	63	carcinoma
+18977219	APC	hyperMeth_CpG	prom	YES	0.067	15	carcinoma
+15760919	MLH1	hyperMeth_CpG	prom	YES	0.310	61	carcinoma
+15760919	CHFR	hyperMeth_CpG	cpgisland	YES	0.310	61	carcinoma
+15760919	HLTF	hyperMeth_CpG	prom	YES	0.480	58	carcinoma
+15760919	MGMT	hyperMeth_CpG	prom	YES	0.400	64	carcinoma
+15760919	RASSF1A	hyperMeth_CpG	prom	YES	0.210	64	carcinoma
+15760919	APC	hyperMeth_CpG	prom	YES	0.500	62	carcinoma
+15760919	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.430	60	carcinoma
+15760919	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.560	63	carcinoma
+17143260	MGMT	hyperMeth_CpG	prom	YES	0.310	35	carcinoma
+17143260	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.400	35	carcinoma
+17143260	MLH1	hyperMeth_CpG	prom	YES	0.110	35	carcinoma
+14968123	RUNX1	hyperMeth_CpG	prom	YES	0.049	61	carcinoma
+11232644	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.330	60	carcinoma
+11232644	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.320	60	carcinoma
+15122305	APC	hyperMeth_CpG	prom	YES	0.510	149	carcinoma
+15122305	DAPK1	hyperMeth_CpG	prom	YES	0.480	149	carcinoma
+15122305	CDH1	hyperMeth_CpG	prom	YES	0.439	149	carcinoma
+15122305	MGMT	hyperMeth_CpG	prom	YES	0.255	149	carcinoma
+15122305	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.242	149	carcinoma
+15122305	MLH1	hyperMeth_CpG	prom	YES	0.195	149	carcinoma
+15122305	RASSF1A	hyperMeth_CpG	prom	YES	0.161	149	carcinoma
+15122305	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.135	149	carcinoma
+15122305	GSTP1	hyperMeth_CpG	prom	YES	0.101	149	carcinoma
+15122305	TSP1	hyperMeth_CpG	prom	YES	0.094	149	carcinoma
+15122305	TIMP3	hyperMeth_CpG	prom	YES	0.094	149	carcinoma
+12615722	SLIT2	hyperMeth_CpG	prom	YES	0.720	32	carcinoma
+12615722	ROBO1	hyperMeth_CpG	prom	YES	0.188	32	carcinoma
+12615722	RASSF1A	hyperMeth_CpG	prom	YES	0.406	32	carcinoma
+12615722	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.188	32	carcinoma
+12612901	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.221	94	carcinoma
+11062168	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.180	119	carcinoma
+16850502	CACNA1G	hyperMeth_CpG	prom	YES	0.170	737	carcinoma
+16850502	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.103	737	carcinoma
+16850502	CRABP1	hyperMeth_CpG	prom	YES	0.060	737	carcinoma
+16850502	MLH1	hyperMeth_CpG	prom	YES	0.061	737	carcinoma
+16850502	NEUROG1	hyperMeth_CpG	prom	YES	0.100	737	carcinoma
+16820091	CACNA1G	hyperMeth_CpG	prom	YES	0.174	751	carcinoma
+16820091	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.103	751	carcinoma
+16820091	CRABP1	hyperMeth_CpG	prom	YES	0.057	751	carcinoma
+16820091	MLH1	hyperMeth_CpG	prom	YES	0.060	751	carcinoma
+16820091	NEUROG1	hyperMeth_CpG	prom	YES	0.093	751	carcinoma
+15386372	HLTF	hyperMeth_CpG	prom	YES	0.574	47	carcinoma
+15386372	MLH1	hyperMeth_CpG	prom	YES	0.468	47	carcinoma
+15386372	MGMT	hyperMeth_CpG	prom	YES	0.489	47	carcinoma
+15386372	APC	hyperMeth_CpG	prom	YES	0.511	47	carcinoma
+15386372	ATM	hyperMeth_CpG	prom	YES	0.766	47	carcinoma
+15386372	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.128	47	carcinoma
+15386372	CDKN2B	hyperMeth_CpG	prom	YES	0.043	47	carcinoma
+15386372	TIMP3	hyperMeth_CpG	prom	YES	0.021	47	carcinoma
+15856472	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.400	47	carcinoma
+15856472	MLH1	hyperMeth_CpG	prom	YES	0.850	34	carcinoma
+12461746	MLH1	hyperMeth_CpG	prom	TOTAL	0.159	88	carcinoma
+12461746	MLH1	hyperMeth_CpG	prom	PARTIAL	0.295	88	carcinoma
+12461746	MLH1	hyperMeth_CpG	prom	YES	0.455	88	carcinoma
+10811111	MGMT	hyperMeth_CpG	prom	YES	0.400	179	carcinoma
+10029064	MGMT	hyperMeth_CpG	prom	YES	0.380	36	carcinoma
+15326380	APC	hyperMeth_CpG	prom	YES	0.280	118	carcinoma
+15375009	APC	hyperMeth_CpG	prom	YES	0.179	39	carcinoma
+10969779	APC	hyperMeth_CpG	prom	YES	0.180	108	carcinoma
+16952549	SST	hyperMeth_CpG	prom	YES	0.880	34	carcinoma
+16952549	TAC1	hyperMeth_CpG	prom	YES	0.470	34	carcinoma
+16952549	NELL1	hyperMeth_CpG	prom	YES	0.440	34	carcinoma
+16952549	CAV1	hyperMeth_CpG	prom	YES	1.000	34	carcinoma
+16952549	AKAP12	hyperMeth_CpG	prom	YES	0.210	34	carcinoma
+16952549	ENG	hyperMeth_CpG	prom	YES	0.090	34	carcinoma
+16952549	MAL	hyperMeth_CpG	prom	YES	0.060	34	carcinoma
+12370819	RASSF1A	hyperMeth_CpG	prom	VERY_HIGH	0.450	29	carcinoma
+12370819	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.210	29	carcinoma
+11668500	RASSF1A	hyperMeth_CpG	prom	YES	0.120	25	carcinoma
+16575786	DAPK1	hyperMeth_CpG	prom	YES	0.574	94	carcinoma
+17167179	ADAMTS1	hyperMeth_CpG	prom	YES	0.710	52	carcinoma
+17167179	ADAMTS1	hyperMeth_CpG	prom	YES	0.490	51	carcinoma
+17167179	ADAMTS1	hyperMeth_CpG	prom	YES	0.130	51	carcinoma
+12538348	CHFR	hyperMeth_CpG	cpgisland	YES	0.370	30	carcinoma
+12829793	SLC5A8	hyperMeth_CpG	exon1	YES	0.590	64	carcinoma
+15548679	CDH4	hyperMeth_CpG	prom	YES	0.780	49	carcinoma
+12067979	CDH13	hyperMeth_CpG	prom	YES	0.490	35	carcinoma
+17096329	IGFBP3	hyperMeth_CpG	prom	YES	0.580	26	carcinoma
+15806169	RASSF2	hyperMeth_CpG	exons1,2	YES	0.700	30	carcinoma
+15806169	NORE1	hyperMeth_CpG	cpgisland_A	YES	0.170	28	carcinoma
+15806169	RASSF1A	hyperMeth_CpG	prom	YES	0.150	33	carcinoma
+16723399	WRN	hyperMeth_CpG	prom	YES	0.379	182	carcinoma
+17332327	PDLIM4	hyperMeth_CpG	cpgisland	YES	0.700	43	carcinoma
+12702564	COL1A2	hyperMeth_CpG	cpgisland	YES	0.833	6	carcinoma
+17328794	NID1	hyperMeth_CpG	prom	YES	0.690	48	carcinoma
+17328794	NID2	hyperMeth_CpG	prom	YES	0.290	48	carcinoma
+14695142	HRK	hyperMeth_CpG	cpgisland	YES	0.240	58	carcinoma
+11932355	HIC1	hyperMeth_CpG	prom	VERY_HIGH	0.208	24	carcinoma
+11932355	HIC1	hyperMeth_CpG	prom	HIGH	0.292	24	carcinoma
+11932355	HIC1	hyperMeth_CpG	prom	LOW	0.292	24	carcinoma
+11932355	HIC1	hyperMeth_CpG	prom	VERY_LOW	0.042	24	carcinoma
+11724359	BNIP3	hyperMeth_CpG	exon2	YES	0.500	12	carcinoma
+11146446	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.230	32	carcinoma
+11146446	MLH1	hyperMeth_CpG	prom	YES	0.270	32	carcinoma
+11146446	TSP1	hyperMeth_CpG	prom	YES	0.090	32	carcinoma
+11146446	APBA1	hyperMeth_CpG	prom	YES	0.230	32	carcinoma
+11146446	APBA2	hyperMeth_CpG	prom	YES	0.200	32	carcinoma
+11146446	APBA3	hyperMeth_CpG	prom	YES	0.100	32	carcinoma
+11932355	CDKN2A:p16	hyperMeth_CpG	prom	HIGH	0.208	24	carcinoma
+11932355	MLH1	hyperMeth_CpG	prom	YES	0.292	24	carcinoma
+15472908	HIN1	hyperMeth_CpG	cpgisland	YES	0.210	42	carcinoma
+17260021	MCC	hyperMeth_CpG	prom	YES	0.450	84	carcinoma
+17260021	MCC	hyperMeth_CpG	prom	YES	0.520	103	carcinoma
+16331272	PYCARD	hyperMeth_CpG	prom	YES	0.250	16	carcinoma
+16007128	PTGIS	hyperMeth_CpG	prom	YES	0.600	5	carcinoma
+16491118	DKK1	hyperMeth_CpG	prom	YES	0.170	54	carcinoma
+16491118	WIF1	hyperMeth_CpG	prom	YES	0.778	54	carcinoma
+16491118	SFRP1	hyperMeth_CpG	prom	YES	0.889	48	carcinoma
+12384555	CRABP1	hyperMeth_CpG	prom	YES	0.570	177	carcinoma
+12384555	RARB	hyperMeth_CpG	prom RARB2	YES	0.540	172	carcinoma
+16551870	UGT1A1	hyperMeth_CpG	cpgisland	YES	0.820	50	carcinoma
+18542073	APC	hyperMeth_CpG	prom	YES		19	carcinoma
+18542073	AXIN2	hyperMeth_CpG	prom	YES		19	carcinoma
+18542073	CDH1	hyperMeth_CpG	prom	YES		19	carcinoma
+18542073	DKK1	hyperMeth_CpG	prom	YES		19	carcinoma
+18542073	ESR1	hyperMeth_CpG	prom_A	YES		19	carcinoma
+18542073	TPEF	hyperMeth_CpG	prom	YES		19	carcinoma
+18542073	MGMT	hyperMeth_CpG	prom	YES		19	carcinoma
+18542073	APBA3	hyperMeth_CpG	prom	YES		19	carcinoma
+18542073	MLH1	hyperMeth_CpG	prom	YES		19	carcinoma
+18542073	MYOD1	hyperMeth_CpG	prom	YES		19	carcinoma
+18542073	TUSC3	hyperMeth_CpG	prom	YES		19	carcinoma
+18542073	CDKN2A:p14	hyperMeth_CpG	prom	YES		19	carcinoma
+18542073	CDKN2A:p16	hyperMeth_CpG	prom	YES		19	carcinoma
+18542073	SFRP1	hyperMeth_CpG	prom	YES		19	carcinoma
+18542073	SFRP2	hyperMeth_CpG	prom	YES		19	carcinoma
+18542073	SFRP4	hyperMeth_CpG	prom	YES		19	carcinoma
+18542073	SFRP5	hyperMeth_CpG	prom	YES		19	carcinoma
+18542073	WIF1	hyperMeth_CpG	prom	YES		19	carcinoma
+15770214	DAB2IP	hyperMeth_CpG	prom_m2a	YES	0.480	60	carcinoma
+15770214	DAB2IP	hyperMeth_CpG	prom_m2b	YES	0.470	60	carcinoma
+17242706	ADRA1B	hyperMeth_CpG	prom	YES	0.118	34	carcinoma
+17242706	ADRA1B	hyperMeth_CpG	prom_reg3	YES	0.118	34	carcinoma
+17242706	ADRA1B	hyperMeth_CpG	prom_reg4	YES	0.118	34	carcinoma
+15059896	PTPRO	hyperMeth_CpG	prom	YES	0.510	55	carcinoma
+15059893	TIG1	hyperMeth_CpG	prom	YES	0.400	10	carcinoma
+15800999	MGMT	hyperMeth_CpG	prom	YES	0.435	62	carcinoma
+17276933	MGMT	hyperMeth_CpG	prom	YES	0.316	57	carcinoma
+17276933	MLH1	hyperMeth_CpG	prom	YES	0.180	56	carcinoma
+17276933	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.525	29	carcinoma
+17276933	CDH1	hyperMeth_CpG	prom	YES	0.038	52	carcinoma
+16336454	APC	hyperMeth_CpG	prom	YES	0.194	36	carcinoma
+16336454	TSP1	hyperMeth_CpG	prom	YES	0.444	36	carcinoma
+16336454	MGMT	hyperMeth_CpG	prom	YES	0.028	36	carcinoma
+16336454	MLH1	hyperMeth_CpG	prom	YES	0.306	36	carcinoma
+16336454	GSTP1	hyperMeth_CpG	prom	YES	0.167	36	carcinoma
+10646864	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.280	110	carcinoma
+10646864	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.370	110	carcinoma
+17101318	ALX4	hyperMeth_CpG	cpgisland	YES	0.640	47	carcinoma
+15704048	HIC1	hyperMeth_CpG	prom	YES	0.420	26	carcinoma
+18240147	MGMT	hyperMeth_CpG	prom	VERY_HIGH	0.245	233	carcinoma
+18240147	MGMT	hyperMeth_CpG	prom	PARTIAL	0.116	233	carcinoma
+17352030	SFRP2	hyperMeth_CpG	prom	YES	0.930	15	carcinoma
+17352030	TPEF	hyperMeth_CpG	prom	YES	0.730	15	carcinoma
+17352030	MGMT	hyperMeth_CpG	prom	YES	0.530	15	carcinoma
+18203283	SFRP2	hyperMeth_CpG	prom	YES	0.914	69	carcinoma
+15502094	ATM	hyperMeth_CpG	prom	YES	0.450	20	carcinoma
+15502094	APC	hyperMeth_CpG	prom	YES	0.550	20	carcinoma
+15502094	MGMT	hyperMeth_CpG	prom	YES	0.450	20	carcinoma
+15502094	MLH1	hyperMeth_CpG	prom	YES	0.450	20	carcinoma
+15502094	HLTF	hyperMeth_CpG	prom	YES	0.500	20	carcinoma
+11904375	HLTF	hyperMeth_CpG	prom	YES	0.430	63	carcinoma
+11992124	SFRP1	hyperMeth_CpG	prom	YES	0.951	124	carcinoma
+11992124	SFRP2	hyperMeth_CpG	prom	YES	0.895	124	carcinoma
+11992124	SFRP4	hyperMeth_CpG	prom	YES	0.290	124	carcinoma
+11992124	SFRP5	hyperMeth_CpG	prom	YES	0.589	124	carcinoma
+12810945	CHFR	hyperMeth_CpG	cpgisland	YES	0.400	63	carcinoma
+14734469	MLH1	hyperMeth_CpG	prom	YES	0.100	80	carcinoma
+18425817	TSP1	hyperMeth_CpG	prom	YES	0.210	96	carcinoma
+11171827	CDH1	hyperMeth_CpG	prom	YES	0.360	14	carcinoma
+18299982	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.040	49	carcinoma
+16077070	VIM	hyperMeth_CpG	exon1	YES	0.830	46	carcinoma
+16077070	VIM	hyperMeth_CpG	exon1	YES	0.530	107	carcinoma
+12527896	3OST2	hyperMeth_CpG	prom	YES	0.800	10	carcinoma
+18086775	BMP3	hyperMeth_CpG	prom	YES	0.600	43	carcinoma
+18086775	EYA2	hyperMeth_CpG		YES	0.510	43	carcinoma
+18086775	ALX4	hyperMeth_CpG	cpgisland	YES	0.740	43	carcinoma
+18086775	VIM	hyperMeth_CpG	exon1	YES	0.770	43	carcinoma
+18054557	UNC5C	hyperMeth_CpG		YES	0.762	147	carcinoma
+19242752	UNC5C	hyperMeth_CpG		YES	0.680	50	carcinoma
+19242752	DCC	hyperMeth_CpG		YES	0.560	50	carcinoma
+18086775	BMP3	hyperMeth_CpG	prom	YES	0.480	31	carcinoma
+18086775	EYA2	hyperMeth_CpG		YES	0.290	31	carcinoma
+18086775	ALX4	hyperMeth_CpG	cpgisland	YES	0.610	31	carcinoma
+18086775	VIM	hyperMeth_CpG	exon1	YES	0.580	31	carcinoma
+17967459	UNC5C	hyperMeth_CpG		VERY_HIGH	0.780	18	carcinoma
+19156137	DLEC1	hyperMeth_CpG		YES	0.290	34	carcinoma
+14614014	MGMT	hyperMeth_CpG	prom	YES	0.290	90	carcinoma
+9850084	MYOD1	hyperMeth_CpG	prom	YES	1.000	20	carcinoma
+9850084	MYOD1	hyperMeth_CpG	prom	YES	1.000	10	carcinoma
+18486467	SFRP1	hyperMeth_CpG	prom	YES	1.000	74	carcinoma
+18486467	TAC1	hyperMeth_CpG	prom	YES	0.970	74	carcinoma
+18486467	SST	hyperMeth_CpG		YES	0.910	74	carcinoma
+18486467	SLC5A8	hyperMeth_CpG	prom	YES	0.810	74	carcinoma
+18486467	SFRP2	hyperMeth_CpG	prom	YES	0.800	74	carcinoma
+18486467	MGMT	hyperMeth_CpG	prom	YES	0.590	74	carcinoma
+18486467	SFRP4	hyperMeth_CpG	prom	YES	0.510	74	carcinoma
+18486467	SFRP5	hyperMeth_CpG	prom	YES	0.270	74	carcinoma
+18486467	MLH1	hyperMeth_CpG	prom	YES	0.140	74	carcinoma
+18486467	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.240	74	carcinoma
+18486467	HIC1	hyperMeth_CpG	prom	YES	0.350	74	carcinoma
+18486467	RASSF2	hyperMeth_CpG	exons1,2	YES	0.500	74	carcinoma
+18486467	APBA1	hyperMeth_CpG	prom	YES	0.260	74	carcinoma
+18486467	APBA3	hyperMeth_CpG	prom	YES	0.310	74	carcinoma
+12706863	DAPK1	hyperMeth_CpG	prom	YES	0.550	122	carcinoma
+16436636	MLH1	hyperMeth_CpG	prom	YES	0.120	110	carcinoma
+16436636	MGMT	hyperMeth_CpG	prom	YES	0.430	110	carcinoma
+16675157	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.323	65	carcinoma
+16675157	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.508	65	carcinoma
+15526363	CCNA1	hyperMeth_CpG	prom	YES	1.000	39	carcinoma
+15526363	CDX1	hyperMeth_CpG	prom	YES	1.000	39	carcinoma
+15526363	RARB	hyperMeth_CpG	prom RARB2	YES	0.840	39	carcinoma
+15526363	CDH13	hyperMeth_CpG	prom	YES	0.690	39	carcinoma
+15526363	CDKN2B	hyperMeth_CpG	prom	YES	0.740	39	carcinoma
+15526363	MYOD1	hyperMeth_CpG	prom	YES	0.690	39	carcinoma
+15526363	TP73	hyperMeth_CpG	cpgisland	YES	0.640	39	carcinoma
+15526363	CXX1	hyperMeth_CpG	prom	YES	0.590	39	carcinoma
+15526363	WT1	hyperMeth_CpG	prom	YES	0.540	39	carcinoma
+15526363	MGMT	hyperMeth_CpG	prom	YES	0.260	39	carcinoma
+15526363	MLH1	hyperMeth_CpG	prom	YES	0.230	39	carcinoma
+15526363	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.180	39	carcinoma
+15526363	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.070	39	carcinoma
+15526363	APC	hyperMeth_CpG	prom	YES	0.070	39	carcinoma
+15526363	RASSF1A	hyperMeth_CpG	prom	YES	0.030	39	carcinoma
+17339237	MLH1	hyperMeth_CpG	prom	YES	0.125	920	carcinoma
+18486467	SFRP1	hyperMeth_CpG	prom	YES	1.000	74	carcinoma
+18486467	TAC1	hyperMeth_CpG	prom	YES	0.970	74	carcinoma
+18486467	SST	hyperMeth_CpG		YES	0.910	74	carcinoma
+18486467	SLC5A8	hyperMeth_CpG	prom	YES	0.810	74	carcinoma
+18486467	SFRP2	hyperMeth_CpG	prom	YES	0.800	74	carcinoma
+18486467	MGMT	hyperMeth_CpG	prom	YES	0.590	74	carcinoma
+18486467	SFRP4	hyperMeth_CpG	prom	YES	0.510	74	carcinoma
+18486467	SFRP5	hyperMeth_CpG	prom	YES	0.270	74	carcinoma
+18486467	MLH1	hyperMeth_CpG	prom	YES	0.140	74	carcinoma
+18486467	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.240	74	carcinoma
+18486467	HIC1	hyperMeth_CpG	prom	YES	0.350	74	carcinoma
+18486467	RASSF2	hyperMeth_CpG	exons1,2	YES	0.500	74	carcinoma
+18486467	APBA1	hyperMeth_CpG	prom	YES	0.260	74	carcinoma
+18486467	APBA3	hyperMeth_CpG	prom	YES	0.310	74	carcinoma
+19107235		hyperMeth_CpG	LINE1	VERY_HIGH	0.061	707	carcinoma
+19107235		hyperMeth_CpG	LINE1	HIGH	0.895	707	carcinoma
+19107235		hyperMeth_CpG	LINE1	LOW	0.044	707	carcinoma
+19107235	CACNA1G	hyperMeth_CpG	prom	YES	0.216	719	carcinoma
+19107235	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.296	719	carcinoma
+19107235	CRABP1	hyperMeth_CpG	prom	YES	0.316	719	carcinoma
+19107235	IGF2	hyperMeth_CpG	cpgisland	YES	0.239	719	carcinoma
+19107235	MLH1	hyperMeth_CpG	prom	YES	0.121	719	carcinoma
+19107235	NEUROG1	hyperMeth_CpG	prom	YES	0.296	719	carcinoma
+19107235	RUNX3	hyperMeth_CpG	prom	YES	0.200	719	carcinoma
+19107235	SOCS1	hyperMeth_CpG	prom	YES	0.174	719	carcinoma
+19107235	CHFR	hyperMeth_CpG	cpgisland	YES	0.430	719	carcinoma
+19107235	HIC1	hyperMeth_CpG	prom	YES	0.526	719	carcinoma
+19107235	IGFBP3	hyperMeth_CpG	prom	YES	0.269	719	carcinoma
+19107235	MGMT	hyperMeth_CpG	prom	YES	0.381	719	carcinoma
+19107235	APBA1	hyperMeth_CpG	prom	YES	0.355	719	carcinoma
+19107235	APBA3	hyperMeth_CpG	prom	YES	0.330	719	carcinoma
+19107235	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.209	719	carcinoma
+19107235	WRN	hyperMeth_CpG	prom	YES	0.371	719	carcinoma
+19033568		hyperMeth_CpG	LINE1	VERY_HIGH	0.060	643	carcinoma
+19033568		hyperMeth_CpG	LINE1	HIGH	0.889	643	carcinoma
+19033568		hyperMeth_CpG	LINE1	LOW	0.050	643	carcinoma
+18977219	APC	hyperMeth_CpG	prom	YES	0.450	31	carcinoma
+19051296	DKK3	hyperMeth_CpG	prom	YES	0.523	128	carcinoma
+18716850	SFRP4	hyperMeth_CpG	prom	YES	0.375	24	carcinoma
+18716850	WIF1	hyperMeth_CpG	prom	YES	1.000	24	carcinoma
+18815942	LRRC3B	hyperMeth_CpG		YES	0.774	31	carcinoma
+18795670	SFRP1	hyperMeth_CpG	prom	YES	1.000	51	carcinoma
+18795670	SFRP2	hyperMeth_CpG	prom	YES	0.882	51	carcinoma
+18795670	SFRP5	hyperMeth_CpG	prom	YES	0.705	51	carcinoma
+18795670	SFRP5	hyperMeth_CpG	prom	YES	0.589	124	carcinoma
+14997203	CDH13	hyperMeth_CpG	prom	YES	0.321	84	carcinoma
+15793636	HLTF	hyperMeth_CpG	prom	YES	0.328	61	carcinoma
+15793636	SOCS1	hyperMeth_CpG	prom	YES	0.082	61	carcinoma
+15793636	CDH13	hyperMeth_CpG	prom	YES	0.377	61	carcinoma
+15034581	SFRP1	hyperMeth_CpG	prom	YES	0.890	91	carcinoma
+15034581	SFRP2	hyperMeth_CpG	prom	YES	0.890	91	carcinoma
+16381005	MLH1	hyperMeth_CpG	prom	YES	0.140	83	carcinoma
+16381005	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.250	83	carcinoma
+16381005	HIC1	hyperMeth_CpG	prom	YES	0.330	83	carcinoma
+16381005	ID4	hyperMeth_CpG		YES	0.310	83	carcinoma
+16381005	APBA1	hyperMeth_CpG	prom	YES	0.300	83	carcinoma
+16381005	APBA3	hyperMeth_CpG	prom	YES	0.370	83	carcinoma
+18451217	APC	hyperMeth_CpG	prom	YES	0.317	202	carcinoma
+18451217	MGMT	hyperMeth_CpG	prom	YES	0.274	208	carcinoma
+18451217	MLH1	hyperMeth_CpG	prom	YES	0.092	207	carcinoma
+18451217	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.195	200	carcinoma
+18451217	TUSC3	hyperMeth_CpG	prom	YES	0.938	192	carcinoma
+18451217	APBA1	hyperMeth_CpG	prom	YES	0.101	208	carcinoma
+18451217	APBA2	hyperMeth_CpG	prom	YES	0.226	208	carcinoma
+18451217	APBA3	hyperMeth_CpG	prom	YES	0.203	207	carcinoma
+19164452	MGMT	hyperMeth_CpG	prom	YES	0.410	693	carcinoma
+21150880	PTPRG	hyperMeth_CpG	intron1	TOTAL	1.000	15	carcinoma
+21150880	PTPRG	hyperMeth_CpG	intron1	TOTAL	0.940	67	carcinoma
+19117505	ADAMTS1	hyperMeth_CpG	prom	YES	0.706	51	carcinoma
+19117505	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.327	52	carcinoma
+19117505	CRABP1	hyperMeth_CpG	prom	YES	0.500	50	carcinoma
+19117505	HOXA9	hyperMeth_CpG	cpgisland	YES	0.240	50	carcinoma
+19117505	MAL	hyperMeth_CpG	prom	YES	0.820	50	carcinoma
+19117505	MGMT	hyperMeth_CpG	prom	YES	0.404	52	carcinoma
+19117505	MLH1	hyperMeth_CpG	prom	YES	0.211	52	carcinoma
+19117505	NR3C1	hyperMeth_CpG	prom	YES	0.260	50	carcinoma
+19117505	RUNX3	hyperMeth_CpG	prom	YES	0.640	25	carcinoma
+19117505	HIN1	hyperMeth_CpG	cpgisland	YES	0.184	49	carcinoma
+19509152	GATA4	hyperMeth_CpG	prom	YES	0.700	90	carcinoma
+19509152	GATA5	hyperMeth_CpG	prom	YES	0.792	77	carcinoma
+19509152	APC	hyperMeth_CpG	prom	YES	0.470	100	carcinoma
+19509152	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.430	86	carcinoma
+19509152	MGMT	hyperMeth_CpG	prom	YES	0.521	96	carcinoma
+19509152	HLTF	hyperMeth_CpG	prom	YES	0.521	96	carcinoma
+19509152	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.621	95	carcinoma
+19509152	RASSF1A	hyperMeth_CpG	prom	YES	0.250	100	carcinoma
+20682997	RUNX3	hyperMeth_CpG	prom	YES	0.390	119	carcinoma
+19257893	NDRG2	hyperMeth_CpG	prom	YES	0.267	30	carcinoma
+19257893	APC	hyperMeth_CpG	prom	YES	0.100	30	carcinoma
+19257893	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.133	30	carcinoma
+21326223	NEUROG1	hyperMeth_CpG	prom	YES	0.714	35	carcinoma
+21187483	VIM	hyperMeth_CpG	exon1	YES	0.700	44	carcinoma
+21079778	SGK1	hyperMeth_CpG	cpgisland	YES	1.000	10	carcinoma
+20129840	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.529	51	carcinoma
+17122504	MGMT	hyperMeth_CpG	prom	YES	0.407	59	carcinoma
+17122504	APBA1	hyperMeth_CpG	prom	YES	0.305	59	carcinoma
+17122504	APBA2	hyperMeth_CpG	prom	YES	0.356	59	carcinoma
+17122504	MLH1	hyperMeth_CpG	prom	YES	0.119	59	carcinoma
+17122504	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.153	59	carcinoma
+12810640	APC	hyperMeth_CpG	prom	YES	0.385	122	carcinoma
+12810640	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.333	120	carcinoma
+12810640	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.311	119	carcinoma
+12810640	MLH1	hyperMeth_CpG	prom	YES	0.287	122	carcinoma
+12810640	MGMT	hyperMeth_CpG	prom	YES	0.413	121	carcinoma
+12810640	RASSF1A	hyperMeth_CpG	prom	YES	0.197	122	carcinoma
+18028895	MGMT	hyperMeth_CpG	prom	YES	0.958	24	carcinoma
+17048309	IGFBP7	hyperMeth_CpG	exon1	YES	0.609	46	carcinoma
+16981189	MLH1	hyperMeth_CpG	prom	YES	0.080	199	carcinoma
+16981189	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.230	199	carcinoma
+16981189	TIMP3	hyperMeth_CpG	prom	YES	0.200	199	carcinoma
+16981189	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.110	199	carcinoma
+16981189	DAPK1	hyperMeth_CpG	prom	YES	0.040	199	carcinoma
+16981189	APC	hyperMeth_CpG	prom	YES	0.290	199	carcinoma
+16969349	RASSF1A	hyperMeth_CpG	prom	YES	0.200	202	carcinoma
+16969349	CDH1	hyperMeth_CpG	prom	YES	0.436	202	carcinoma
+16969349	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.332	202	carcinoma
+16911791	MSH2	hyperMeth_CpG	prom	YES	0.183	60	carcinoma
+16760277	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.210	66	carcinoma
+21352815	NDRG2	hyperMeth_CpG	prom	YES	0.643	70	carcinoma
+21347233	ZIC1	hyperMeth_CpG	prom	YES	0.850	40	carcinoma
+16762618	MLH1	hyperMeth_CpG	prom	YES	0.264	91	carcinoma
+16762618	HIC1	hyperMeth_CpG	prom	YES	0.648	91	carcinoma
+16762618	PTEN	hyperMeth_CpG	prom	YES	0.110	91	carcinoma
+16762618	RUNX3	hyperMeth_CpG	prom	YES	0.165	91	carcinoma
+16762618	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.209	91	carcinoma
+16762618	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.374	91	carcinoma
+16762618	APC	hyperMeth_CpG	prom	YES	0.297	91	carcinoma
+16762618	TIMP3	hyperMeth_CpG	prom	YES	0.319	91	carcinoma
+16762618	RARB	hyperMeth_CpG	prom RARB2	YES	0.352	91	carcinoma
+16421593	ESR1	hyperMeth_CpG	prom_A	YES		199	carcinoma
+16421593	MYOD1	hyperMeth_CpG	prom	YES		199	carcinoma
+16421593	CDKN2A:p16	hyperMeth_CpG	prom	YES		199	carcinoma
+16421593	MLH1	hyperMeth_CpG	prom	YES		199	carcinoma
+16421593	APC	hyperMeth_CpG	prom	YES		199	carcinoma
+16421593	DAPK1	hyperMeth_CpG	prom	YES		199	carcinoma
+16421593	TIMP3	hyperMeth_CpG	prom	YES		199	carcinoma
+16407376	CACNA1G	hyperMeth_CpG	prom	YES	0.230	460	carcinoma
+16407376	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.320	460	carcinoma
+16407376	CRABP1	hyperMeth_CpG	prom	YES	0.360	460	carcinoma
+16407376	MLH1	hyperMeth_CpG	prom	YES	0.150	460	carcinoma
+16407376	NEUROG1	hyperMeth_CpG	prom	YES	0.340	460	carcinoma
+16464797	CRABP1	hyperMeth_CpG	prom	YES	0.897	49	carcinoma
+16475679	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.580	59	carcinoma
+16475679	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.340	59	carcinoma
+16475679	HLTF	hyperMeth_CpG	prom	YES	0.310	59	carcinoma
+16475679	CDH13	hyperMeth_CpG	prom	YES	0.370	59	carcinoma
+16475679	RUNX3	hyperMeth_CpG	prom	YES	0.370	59	carcinoma
+16507901	COL4A5	hyperMeth_CpG		YES	0.830	6	carcinoma
+16642018		hyperMeth_CpG	2q14.2	YES	0.630	112	carcinoma
+16642018	GLI2	hyperMeth_CpG		YES	1.000	2	carcinoma
+16642018	MARCO	hyperMeth_CpG		YES	1.000	2	carcinoma
+16642018	INHBB	hyperMeth_CpG		YES	0.580	28	carcinoma
+16642018	SCTR	hyperMeth_CpG		YES	0.880	26	carcinoma
+16642018	EN1	hyperMeth_CpG		YES	0.700	26	carcinoma
+16568088	CXCL12	hyperMeth_CpG	prom	YES	0.620	21	carcinoma
+16647956	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.298	57	carcinoma
+20340131	CADM1	hyperMeth_CpG		YES	0.590	54	carcinoma
+16708352	MGMT	hyperMeth_CpG	prom	YES	0.597	77	carcinoma
+16708352	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.519	77	carcinoma
+16708352	HLTF	hyperMeth_CpG	prom	YES	0.350	77	carcinoma
+16708352	TIMP3	hyperMeth_CpG	prom	YES	0.208	77	carcinoma
+16708352	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.130	77	carcinoma
+16708352	TSP1	hyperMeth_CpG	prom	YES	0.117	77	carcinoma
+16708352	CDH1	hyperMeth_CpG	prom	YES	0.026	77	carcinoma
+16708352	MLH1	hyperMeth_CpG	prom	YES	0.065	77	carcinoma
+21140203	MGMT	hyperMeth_CpG	prom	YES	0.380	855	carcinoma
+20473920	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.300	902	carcinoma
+20802524	TBX5	hyperMeth_CpG		YES	0.680	105	carcinoma
+20507599		hyperMeth_CpG	LINE1	VERY_LOW	0.025	869	carcinoma
+20571967	DAPK1	hyperMeth_CpG	prom	YES	0.472	73	carcinoma
+20571967	RARB	hyperMeth_CpG	prom RARB2	YES	0.808	73	carcinoma
+20571967	RASSF1A	hyperMeth_CpG	prom	YES	0.356	73	carcinoma
+20571967	CDH1	hyperMeth_CpG	prom	YES	0.466	73	carcinoma
+21304055	MLH1	hyperMeth_CpG	prom	YES	0.096	549	carcinoma
+21304055	MLH1	hyperMeth_CpG	prom	YES	0.043	437	carcinoma
+21304055	DKK1	hyperMeth_CpG	prom	YES	0.130	549	carcinoma
+21304055	DKK1	hyperMeth_CpG	prom	YES	0.135	696	carcinoma
+21304055	SFRP1	hyperMeth_CpG	prom	LOW	0.692	549	carcinoma
+21304055	SFRP1	hyperMeth_CpG	prom	HIGH	0.257	549	carcinoma
+21304055	SFRP1	hyperMeth_CpG	prom	LOW	0.691	696	carcinoma
+21304055	SFRP1	hyperMeth_CpG	prom	HIGH	0.250	696	carcinoma
+20682398	SFRP2	hyperMeth_CpG	prom	TOTAL	0.235	17	carcinoma
+20682398	SFRP2	hyperMeth_CpG	prom	PARTIAL	0.294	17	carcinoma
+20682398	CDKN2A:p16	hyperMeth_CpG	prom	TOTAL	0.059	17	carcinoma
+20682398	DAPK1	hyperMeth_CpG	prom	TOTAL	0.412	17	carcinoma
+20682398	DAPK1	hyperMeth_CpG	prom	PARTIAL	0.059	17	carcinoma
+20682398	HIC1	hyperMeth_CpG	prom	TOTAL	0.176	17	carcinoma
+20682398	HIC1	hyperMeth_CpG	prom	PARTIAL	0.118	17	carcinoma
+20682398	MGMT	hyperMeth_CpG	prom	TOTAL	0.294	17	carcinoma
+20682398	MGMT	hyperMeth_CpG	prom	PARTIAL	0.059	17	carcinoma
+21509761	APBA1	hyperMeth_CpG	prom	YES	0.170	116	carcinoma
+21509761	APBA2	hyperMeth_CpG	prom	YES	0.220	116	carcinoma
+21509761	APBA3	hyperMeth_CpG	prom	YES	0.190	116	carcinoma
+21509761	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.160	116	carcinoma
+21509761	MLH1	hyperMeth_CpG	prom	YES	0.060	116	carcinoma
+21509761	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.090	116	carcinoma
+21509761	WNT5A	hyperMeth_CpG	promoter	YES	0.640	116	carcinoma
+21509761	SFRP2	hyperMeth_CpG	prom	YES	0.930	116	carcinoma
+21509761	SFRP1	hyperMeth_CpG	prom	YES	0.990	116	carcinoma
+20214209	MGMT	hyperMeth_CpG	prom	YES	0.210	48	carcinoma
+17276933	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.380	8	carcinoma
+11171827	CDH1	hyperMeth_CpG	prom	YES	0.570	14	carcinoma
+16773493	CTNNBIP1	hyperMeth_CpG	prom	YES	0.290	7	carcinoma
+16773493	LAMC2	hyperMeth_CpG	prom	YES	0.330	6	carcinoma
+16773493	CTNNBIP1	hyperMeth_CpG	prom	YES	0.520	73	carcinoma
+16773493	LAMC2	hyperMeth_CpG	prom	YES	0.090	32	carcinoma
+16699497	CACNA1G	hyperMeth_CpG	prom	YES	0.250	8	carcinoma
+16699497	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.500	8	carcinoma
+16699497	CRABP1	hyperMeth_CpG	prom	YES	0.625	8	carcinoma
+16699497	MLH1	hyperMeth_CpG	prom	YES	0.125	8	carcinoma
+16699497	NEUROG1	hyperMeth_CpG	prom	YES	0.250	8	carcinoma
+16699497	MGMT	hyperMeth_CpG	prom	YES	0.750	8	carcinoma
+16675157	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.271	48	carcinoma
+16675157	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.500	48	carcinoma
+16007118	RASSF1A	hyperMeth_CpG	prom	YES	0.455	22	carcinoma
+11668500	RASSF1A	hyperMeth_CpG	prom	YES	0.150	13	carcinoma
+12706863	DAPK1	hyperMeth_CpG	prom	YES	0.528	72	carcinoma
+15126336	PTEN	hyperMeth_CpG	prom	YES	0.070	71	carcinoma
+19164452	MLH1	hyperMeth_CpG	prom	YES	0.200	426	carcinoma
+19509152	GATA4	hyperMeth_CpG	prom	YES	0.730	71	carcinoma
+19509152	GATA5	hyperMeth_CpG	prom	YES	0.800	59	carcinoma
+16984616	MLH1	hyperMeth_CpG	prom	YES	0.120	49	carcinoma
+21352815	NDRG2	hyperMeth_CpG	prom	YES	0.833	18	carcinoma
+20340131	CADM1	hyperMeth_CpG		YES	0.610	28	carcinoma
+17339237	MGMT	hyperMeth_CpG	prom	YES	0.380	815	carcinoma
+16436636	MLH1	hyperMeth_CpG	prom	YES	0.071	84	carcinoma
+16436636	MGMT	hyperMeth_CpG	prom	YES	0.417	84	carcinoma
+15059896	PTPRO	hyperMeth_CpG	prom	YES	0.429	35	carcinoma
+14997203	CDH13	hyperMeth_CpG	prom	YES	0.283	78	carcinoma
+12706863	DAPK1	hyperMeth_CpG	prom	YES	0.600	5	carcinoma
+19509152	GATA4	hyperMeth_CpG	prom	YES	0.870	15	carcinoma
+19509152	GATA5	hyperMeth_CpG	prom	YES	1.000	12	carcinoma
+16984616	MLH1	hyperMeth_CpG	prom	YES	0.430	37	carcinoma
+16981189	MLH1	hyperMeth_CpG	prom	YES	0.219	32	carcinoma
+16981189	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.406	32	carcinoma
+16981189	TIMP3	hyperMeth_CpG	prom	YES	0.469	32	carcinoma
+16981189	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.156	32	carcinoma
+16981189	DAPK1	hyperMeth_CpG	prom	YES	0.063	32	carcinoma
+16981189	APC	hyperMeth_CpG	prom	YES	0.250	32	carcinoma
+21304055	DKK1	hyperMeth_CpG	prom	YES	0.230	64	carcinoma
+21304055	SFRP1	hyperMeth_CpG	prom	YES	0.680	16	carcinoma
+21304055	DKK1	hyperMeth_CpG	prom	YES	0.247	85	carcinoma
+21304055	SFRP1	hyperMeth_CpG	prom	YES	0.571	21	carcinoma
+19509152	GATA4	hyperMeth_CpG	prom	YES	0.670	75	carcinoma
+19509152	GATA5	hyperMeth_CpG	prom	YES	0.750	65	carcinoma
+16981189	MLH1	hyperMeth_CpG	prom	YES	0.058	155	carcinoma
+16981189	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.187	155	carcinoma
+16981189	TIMP3	hyperMeth_CpG	prom	YES	0.155	155	carcinoma
+16981189	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.097	155	carcinoma
+16981189	DAPK1	hyperMeth_CpG	prom	YES	0.084	155	carcinoma
+16981189	APC	hyperMeth_CpG	prom	YES	0.290	155	carcinoma
+21304055	DKK1	hyperMeth_CpG	prom	YES	0.110	445	carcinoma
+21304055	SFRP1	hyperMeth_CpG	prom	YES	0.842	140	carcinoma
+21304055	DKK1	hyperMeth_CpG	prom	YES	0.120	610	carcinoma
+21304055	SFRP1	hyperMeth_CpG	prom	YES	0.835	194	carcinoma
+16699497	MGMT	hyperMeth_CpG	prom	YES	0.500	2	carcinoma
+16872319	CDKN2B	hyperMeth_CpG	prom	YES	0.333	12	carcinoma
+16872319	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.417	12	carcinoma
+16675157	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.875	8	carcinoma
+16675157	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.500	8	carcinoma
+17339237	MGMT	hyperMeth_CpG	prom	YES	0.400	84	carcinoma
+16436636	MLH1	hyperMeth_CpG	prom	YES	0.269	26	carcinoma
+16436636	MGMT	hyperMeth_CpG	prom	YES	0.461	26	carcinoma
+16007118	RASSF1A	hyperMeth_CpG	prom	YES	0.857	7	carcinoma
+11668500	RASSF1A	hyperMeth_CpG	prom	YES	0.100	10	carcinoma
+12397640	CDH1	hyperMeth_CpG	prom	YES	0.545	22	carcinoma
+12706863	DAPK1	hyperMeth_CpG	prom	YES	0.429	7	carcinoma
+15126336	PTEN	hyperMeth_CpG	prom	YES	0.150	27	carcinoma
+15059896	PTPRO	hyperMeth_CpG	prom	YES	0.706	17	carcinoma
+14614014	MGMT	hyperMeth_CpG	prom	YES	0.225	71	carcinoma
+14997203	CDH13	hyperMeth_CpG	prom	YES	0.833	6	carcinoma
+19164452	MLH1	hyperMeth_CpG	prom	YES	0.320	98	carcinoma
+19509152	GATA4	hyperMeth_CpG	prom	YES	0.750	8	carcinoma
+19509152	GATA5	hyperMeth_CpG	prom	YES	0.860	7	carcinoma
+16984616	MLH1	hyperMeth_CpG	prom	YES	0.630	49	carcinoma
+16911791	MSH2	hyperMeth_CpG	prom	YES	0.213	47	carcinoma
+21352815	NDRG2	hyperMeth_CpG	prom	YES	0.769	26	carcinoma
+20340131	CADM1	hyperMeth_CpG		YES	0.690	16	carcinoma
+17122504	MGMT	hyperMeth_CpG	prom	YES	0.200	11	carcinoma
+17122504	APBA1	hyperMeth_CpG	prom	YES	0.800	11	carcinoma
+17122504	APBA2	hyperMeth_CpG	prom	YES	0.800	11	carcinoma
+17122504	MLH1	hyperMeth_CpG	prom	YES	0.500	11	carcinoma
+17122504	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.600	11	carcinoma
+16699497	CACNA1G	hyperMeth_CpG	prom	YES	0.300	10	carcinoma
+16699497	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.300	10	carcinoma
+16699497	CRABP1	hyperMeth_CpG	prom	YES	0.400	10	carcinoma
+16699497	MLH1	hyperMeth_CpG	prom	YES	0.300	10	carcinoma
+16699497	NEUROG1	hyperMeth_CpG	prom	YES	0.300	10	carcinoma
+16699497	MGMT	hyperMeth_CpG	prom	YES	0.500	10	carcinoma
+16872319	CDKN2B	hyperMeth_CpG	prom	YES	0.250	76	carcinoma
+16872319	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.197	76	carcinoma
+16675157	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.167	6	carcinoma
+16675157	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.833	6	carcinoma
+12706863	DAPK1	hyperMeth_CpG	prom	YES	0.605	38	carcinoma
+14614014	MGMT	hyperMeth_CpG	prom	YES	0.526	19	carcinoma
+19164452	MLH1	hyperMeth_CpG	prom	YES	0.180	67	carcinoma
+19509152	GATA4	hyperMeth_CpG	prom	YES	0.460	11	carcinoma
+19509152	GATA5	hyperMeth_CpG	prom	YES	0.730	11	carcinoma
+16984616	MLH1	hyperMeth_CpG	prom	YES	0.080	49	carcinoma
+16911791	MSH2	hyperMeth_CpG	prom	YES	0.077	13	carcinoma
+21352815	NDRG2	hyperMeth_CpG	prom	YES	0.380	26	carcinoma
+20340131	CADM1	hyperMeth_CpG		YES	0.400	10	carcinoma
+12370819	RASSF1A	hyperMeth_CpG	prom	YES	0.800	5	CRC
+10029065	TIMP3	hyperMeth_CpG	prom	YES	0.630	8	CRC
+17167179	ADAMTS1	hyperMeth_CpG	prom	YES	0.850	20	CRC
+17167179	CRABP1	hyperMeth_CpG	prom	YES	0.900	20	CRC
+17167179	NR3C1	hyperMeth_CpG	prom	YES	0.350	20	CRC
+17167179	ADAMTS1	hyperMeth_CpG	prom	YES	0.556	21	CRC
+17167179	ADAMTS1	hyperMeth_CpG	prom	YES	0.444	20	CRC
+10416592	TP73	hyperMeth_CpG	cpgisland	YES	0.200	5	CRC
+12538348	CHFR	hyperMeth_CpG	cpgisland	YES	0.800	5	CRC
+12067979	CDH13	hyperMeth_CpG	prom	YES	0.540	13	CRC
+17096329	IGFBP3	hyperMeth_CpG	prom	YES	0.500	8	CRC
+10644993	STK11	hyperMeth_CpG	prom	YES	0.250	12	CRC
+15806169	RASSF2	hyperMeth_CpG	exons1,2	YES	0.889	9	CRC
+15806169	NORE1	hyperMeth_CpG	cpgisland_A	YES	0.167	6	CRC
+17332327	PDLIM4	hyperMeth_CpG	cpgisland	YES	0.920	13	CRC
+14695142	HRK	hyperMeth_CpG	cpgisland	YES	0.360	11	CRC
+16166418	GADD45G	hyperMeth_CpG	prom	YES	0.200	5	CRC
+16479257	TCF2	hyperMeth_CpG	cpgisland	YES	0.750	8	CRC
+15059896	RAB32	hyperMeth_CpG	prom	YES	0.357	14	CRC
+16247458	PCDH10	hyperMeth_CpG	prom	YES	1.000	5	CRC
+11965547	CDKN1C	hyperMeth_CpG	prom	YES	0.100	10	CRC
+12584574	NORE1	hyperMeth_CpG	cpgisland_A	YES	0.167	6	CRC
+12925956	IGSF4	hyperMeth_CpG	prom	YES	0.750	8	CRC
+10646864	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.250	16	CRC
+11992124	SEZ6L	hyperMeth_CpG	cpgisland	TOTAL	1.000	8	CRC
+11992124	SFRP1	hyperMeth_CpG	prom	TOTAL	1.000	8	CRC
+11992124	LPHN3	hyperMeth_CpG	cpgisland	TOTAL	0.625	8	CRC
+11992124	CXX1	hyperMeth_CpG	prom	TOTAL	0.625	8	CRC
+11992124	S100A10	hyperMeth_CpG	cpgisland	TOTAL	0.125	8	CRC
+11992124	TIMP2	hyperMeth_CpG	cpgisland	TOTAL	0.125	8	CRC
+11992124	CXX1	hyperMeth_CpG	prom	PARTIAL	0.125	8	CRC
+12810945	CHFR	hyperMeth_CpG	cpgisland	YES	0.850	13	CRC
+14734469	MLH1	hyperMeth_CpG	prom	YES	0.270	26	CRC
+18425817	TSP1	hyperMeth_CpG	prom	YES	0.330	9	CRC
+18394600	STC2	hyperMeth_CpG	cpgisland_2	YES	0.500	2	CRC
+16077070	VIM	hyperMeth_CpG	exon1	YES	0.910	94	CRC
+12829793	SLC5A8	hyperMeth_CpG	prom	YES	0.520	31	CRC
+15548679	CDH4	hyperMeth_CpG	prom	YES	0.570	21	CRC
+18977219	APC	hyperMeth_CpG	prom	YES	0.270	30	CRC
+18977219	APC	hyperMeth_CpG	prom	YES	0.500	2	CRC
+18977219	APC	hyperMeth_CpG	prom	YES	0.111	9	CRC
+18977219	APC	hyperMeth_CpG	prom	YES	0.250	12	CRC
+21079778	SGK1	hyperMeth_CpG	cpgisland	YES	1.000	5	CRC
+17013898	RASSF2	hyperMeth_CpG	exons1,2	YES	1.000	7	CRC
+16799636	BNIP3	hyperMeth_CpG	prom	YES	0.500	6	CRC
+16507901	COL4A5	hyperMeth_CpG		YES	0.750	8	CRC
+16642018	GLI2	hyperMeth_CpG		YES	1.000	2	CRC
+16642018	MARCO	hyperMeth_CpG		YES	1.000	2	CRC
+16642018	INHBB	hyperMeth_CpG		YES	0.330	12	CRC
+16642018	SCTR	hyperMeth_CpG		YES	0.833	12	CRC
+16642018	EN1	hyperMeth_CpG		YES	1.000	12	CRC
+16568088	CXCL12	hyperMeth_CpG	prom	YES	0.750	4	CRC
+20340131	CADM1	hyperMeth_CpG		YES	0.750	8	CRC
+20802524	TBX5	hyperMeth_CpG		YES	0.880	8	CRC
+18716850	APC2	hyperMeth_CpG		YES	0.438	16	CRC
+18716850	APC2	hyperMeth_CpG		YES	0.813	16	CRC
+18716850	SFRP1	hyperMeth_CpG	prom	YES	0.875	16	CRC
+18716850	SFRP2	hyperMeth_CpG	prom	YES	0.867	16	CRC
+18716850	SFRP4	hyperMeth_CpG	prom	YES	0.813	16	CRC
+18716850	SFRP5	hyperMeth_CpG	prom	YES	0.625	16	CRC
+18716850	DKK1	hyperMeth_CpG	prom	YES	0.500	16	CRC
+18716850	DKK3	hyperMeth_CpG	prom	YES	0.125	16	CRC
+18716850	WIF1	hyperMeth_CpG	prom	YES	0.688	16	CRC
+16012936	TPEF	hyperMeth_CpG	prom	YES	1.000	61	CRC
+16012936	RAB32	hyperMeth_CpG	prom	YES	1.000	61	CRC
+16042574	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.400		CRC
+15700311	RPRM	hyperMeth_CpG	prom	YES	0.560	97	CRC
+11751682	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.350	109	CRC
+11751682	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.330	109	CRC
+11751682	MGMT	hyperMeth_CpG	prom	YES	0.360	109	CRC
+11751682	APC	hyperMeth_CpG	prom	YES	0.170	109	CRC
+11751682	MLH1	hyperMeth_CpG	prom	YES	0.090	109	CRC
+11751682	STK11	hyperMeth_CpG	prom	YES	0.060	109	CRC
+16872319	CDKN2B	hyperMeth_CpG	prom	YES	0.261	88	CRC
+16872319	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.227	88	CRC
+17183069	RASSF2	hyperMeth_CpG	exons1,2	YES	0.443	307	CRC
+17183069	MGMT	hyperMeth_CpG	prom	YES	0.303	307	CRC
+17183069	WIF1	hyperMeth_CpG	prom	YES	0.814	307	CRC
+17183069	EPHB2	hyperMeth_CpG	prom	YES	0.075	307	CRC
+17183069	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.436	307	CRC
+17183069	MLH1	hyperMeth_CpG	prom	YES	0.134	307	CRC
+15389252	SLC5A8	hyperMeth_CpG	prom	YES	0.833	6	CRC
+15389252	HIC1	hyperMeth_CpG	prom	YES	0.666	6	CRC
+15389252	TSP1	hyperMeth_CpG	prom	YES	0.500	6	CRC
+15389252	TIMP3	hyperMeth_CpG	prom	YES	0.833	6	CRC
+15389252	DAPK1	hyperMeth_CpG	prom	YES	0.166	6	CRC
+15389252	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.833	6	CRC
+15389252	RASSF1A	hyperMeth_CpG	prom	YES	0.500	6	CRC
+15389252	CDKN2B	hyperMeth_CpG	prom	YES	0.500	6	CRC
+15389252	CDH13	hyperMeth_CpG	prom	YES	0.333	6	CRC
+15389252	APC	hyperMeth_CpG	prom	YES	0.333	6	CRC
+15389252	MGMT	hyperMeth_CpG	prom	YES	0.500	6	CRC
+15389252	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.333	6	CRC
+15389252	CDH1	hyperMeth_CpG	prom	YES	0.333	6	CRC
+15389252	FHIT	hyperMeth_CpG	prom	YES	0.333	6	CRC
+15389252	STK11	hyperMeth_CpG	prom	YES	0.166	6	CRC
+11306450	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.280	132	CRC
+10461063	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.286	84	CRC
+16207479	TPEF	hyperMeth_CpG	prom	YES	0.766	47	CRC
+14719065	CDKN2B	hyperMeth_CpG	prom	YES	0.059	185	CRC
+14719065	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.070	185	CRC
+14719065	SOCS1	hyperMeth_CpG	prom	YES	0.038	185	CRC
+14719065	CDH1	hyperMeth_CpG	prom	YES	0.059	185	CRC
+14719065	APC	hyperMeth_CpG	prom	YES	0.124	185	CRC
+14719065	GSK3B	hyperMeth_CpG	prom	YES	0.022	185	CRC
+11341745	MLH1	hyperMeth_CpG	prom	YES	0.080	25	CRC
+11341745	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.050	25	CRC
+11341745	HIC1	hyperMeth_CpG	prom	YES	0.210	25	CRC
+12716465	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.500	86	CRC
+12716465	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.290	86	CRC
+16207479	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.319	47	CRC
+16207479	APC	hyperMeth_CpG	prom	YES	0.213	47	CRC
+16207479	TIMP3	hyperMeth_CpG	prom	YES	0.234	47	CRC
+16207479	DAPK1	hyperMeth_CpG	prom	YES	0.021	47	CRC
+14563526	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.200	95	CRC
+14563526	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.330	95	CRC
+11584062	CDKN2B	hyperMeth_CpG	prom	YES	1.000	15	CRC
+11584062	CDKN2B	hyperMeth_CpG	exon2	YES	1.000	15	CRC
+11584062	CDKN2A:p16	hyperMeth_CpG	prom	YES	1.000	15	CRC
+11584062	CDKN2A:p16	hyperMeth_CpG	exon2	YES	1.000	15	CRC
+11584062	PAX6	hyperMeth_CpG	cpgisland	YES	1.000	15	CRC
+11584062	PAX6	hyperMeth_CpG	exon5	YES	1.000	15	CRC
+16207479	CAV2	hyperMeth_CpG	prom	YES	0.106	47	CRC
+9840718	RARB	hyperMeth_CpG	prom RARB2	YES	0.429	14	CRC
+15074307	SOCS1	hyperMeth_CpG	prom	YES	0.080	74	CRC
+17201143	CHFR	hyperMeth_CpG	cpgisland	YES	0.960	98	CRC
+16174854	MGMT	hyperMeth_CpG	prom	YES	0.460	95	CRC
+16174854	MGMT	hyperMeth_CpG	prom	YES	0.380	42	CRC
+11406538	MGMT	hyperMeth_CpG	prom	YES	0.400	314	CRC
+10078936	MGMT	hyperMeth_CpG	prom	YES	0.270	46	CRC
+14767572	MYOD1	hyperMeth_CpG	prom	YES	1.000	80	CRC
+15534609	SLIT3	hyperMeth_CpG	prom	VERY_HIGH	0.380		CRC
+15534609	CDX2	hyperMeth_CpG	prom	YES	0.400		CRC
+16918136	RASSF1A	hyperMeth_CpG	prom	YES	0.164	73	CRC
+12032847	RASSF1A	hyperMeth_CpG	prom	YES	0.200	222	CRC
+15273736	RUNX3	hyperMeth_CpG	prom	YES	0.184	87	CRC
+10029065	TIMP3	hyperMeth_CpG	prom	YES	0.270	22	CRC
+14726683	RARB	hyperMeth_CpG	prom RARB1	YES	1.000	27	CRC
+14726683	RARB	hyperMeth_CpG	prom RARB2	YES	0.520	27	CRC
+15709167	BNIP3	hyperMeth_CpG	prom	YES	0.660	61	CRC
+16007128	PTGIS	hyperMeth_CpG	prom	YES	0.400	100	CRC
+10344734	CSPG2	hyperMeth_CpG	prom	YES	0.680	25	CRC
+10344734	PTGIS	hyperMeth_CpG	prom	YES			CRC
+10344734	PTGIS	hyperMeth_CpG	prom	YES			CRC
+17013898	RASSF2	hyperMeth_CpG	exons1,2	YES	0.726	146	CRC
+15793287	KRAS	mutation	cod12,13	YES	0.040	23	aberrant crypt focus
+19174785	RUNX3	gene_expression		YES	0.140	91	aberrant crypt focus
+15793287	KRAS	mutation	cod12,13	YES	0.400	30	aberrant crypt focus
+15793287	BRAF	mutation	exon15 cod600 V->E	YES	0.030	30	aberrant crypt focus
+18829530	CDH3	hypoMeth_CpG	prom	YES	1.000	15	aberrant crypt focus
+11889072	CDH3	gene_expression		YES	0.690	13	aberrant crypt focus
+11889072	CTNNBIP1	translocation	membrane->cytoplasm/nucleus	YES	0.230	13	aberrant crypt focus
+18172251	KRAS	mutation	cod12	YES	0.800	5	aberrant crypt focus
+18172251	KRAS	mutation	cod12	YES	0.200	10	aberrant crypt focus
+17440063	KRAS	mutation	cod12,13	YES	0.166	6	aberrant crypt focus
+17440063	APC	mutation	any	YES	0.166	6	aberrant crypt focus
+12000733	KRAS	mutation	cod12	YES	0.500	4	aberrant crypt focus
+11889072	CDH3	gene_expression		YES	0.600	10	aberrant crypt focus
+11889072	CTNNBIP1	translocation	membrane->cytoplasm/nucleus	YES	0.200	10	aberrant crypt focus
+11889072	CTNNG	translocation	membrane->cytoplasm/nucleus	YES	0.100	10	aberrant crypt focus
+18028895	MGMT	gene_expression		YES	1.000	8	aberrant crypt focus
+17088260		MSI		LOW	0.500	2	aberrant crypt focus
+12000733		LOH	1p	YES	0.333	3	aberrant crypt focus
+12000733	KRAS	mutation	cod12	YES	0.666	3	aberrant crypt focus
+17440063		MSI		YES	0.110	45	aberrant crypt focus
+17088260		MSI		HIGH	0.047	43	aberrant crypt focus
+17088260		MSI		LOW	0.186	43	aberrant crypt focus
+17088260	APC	LOH	5q	YES	0.044	45	aberrant crypt focus
+12000733		LOH	1p	YES	0.100	20	aberrant crypt focus
+12000733	KRAS	mutation	cod12	YES	0.357	28	aberrant crypt focus
+17440063	BRAF	mutation	exon15 cod600 V->E	YES	0.030	33	aberrant crypt focus
+17440063	KRAS	mutation	cod12,13	YES	0.420	33	aberrant crypt focus
+12000733	KRAS	mutation	cod12	YES	0.500	2	aberrant crypt focus
+17440063	BRAF	mutation	exon15 cod600 V->E	YES	0.625	16	aberrant crypt focus
+17440063	KRAS	mutation	cod12,13	YES	0.188	16	aberrant crypt focus
+18829530	DEFA6	gene_expression		UP	0.813	16	adenoma
+18829530	CDH3	gene_expression		UP	0.938	16	adenoma
+18829530	KIAA1199	gene_expression		UP	1.000	16	adenoma
+18829530	MSX2	gene_expression		UP	1.000	16	adenoma
+18829530	SLCO1B3	gene_expression		UP	0.938	16	adenoma
+18829530	PCSK1	gene_expression		UP	0.813	16	adenoma
+18829530	TACSTD2	gene_expression		UP	1.000	16	adenoma
+18829530	LCN2	gene_expression		UP	0.938	16	adenoma
+18829530	XIST	gene_expression		UP	0.938	16	adenoma
+18829530	FZD3	gene_expression		UP	1.000	16	adenoma
+18829530	DARC	gene_expression		DOWN	0.875	16	adenoma
+18829530	C3	gene_expression		DOWN	0.938	16	adenoma
+18829530	CR2	gene_expression		DOWN	0.875	16	adenoma
+18829530	MYL9	gene_expression		DOWN	0.938	16	adenoma
+18829530	IGLV3-10	gene_expression		DOWN	1.000	16	adenoma
+18829530	CXCL13	gene_expression		DOWN	0.938	16	adenoma
+18829530	CCL21	gene_expression		DOWN	1.000	16	adenoma
+18829530	PYY	gene_expression		DOWN	1.000	16	adenoma
+18829530	FBLN1	gene_expression		DOWN	1.000	16	adenoma
+18829530	CCL19	gene_expression		DOWN	1.000	16	adenoma
+19174785	RUNX3	gene_expression		YES	0.420	53	adenoma
+16511680		MSI		HIGH	0.860	71	adenoma
+12782759	KRAS	mutation	cod12	YES	0.429	42	adenoma
+12782759	APC	LOH	5q	YES	0.256	39	adenoma
+16007117	WIF1	gene_expression		YES	0.273	44	adenoma
+15800999	MGMT	gene_expression		YES	0.778	27	adenoma
+16902913	APC	mutation	any	YES	0.538	78	adenoma
+16902913	KRAS	mutation	any	YES	0.269	78	adenoma
+16902913	TP53	mutation	any	YES	0.038	78	adenoma
+16902913	APC	LOH	5q	YES	0.040	78	adenoma
+16336454		CIMP		LOW	0.300	40	adenoma
+16336454		CIMP		HIGH	0.300	40	adenoma
+16336454		CIMP		YES	0.600	40	adenoma
+16336454		MSI		YES	0.075	40	adenoma
+18425817	TSP1	gene_expression		YES	0.500	4	adenoma
+19174785	RUNX3	gene_expression		YES	0.820	17	adenoma
+19127118	MED1	gene_expression		DOWN	1.000	8	adenoma
+15247181	KRAS	mutation	any	YES	0.390	28	adenoma
+20878084	COL10A1	gene_expression		UP		75	adenoma
+20878084	CXXC1	gene_expression		UP		75	adenoma
+20878084	SFRP2	gene_expression		UP		75	adenoma
+20878084	TRPC1	gene_expression		UP		75	adenoma
+20878084	OGN	gene_expression		UP		75	adenoma
+20878084	MFAP5	gene_expression		UP		75	adenoma
+20878084	NTM	gene_expression		UP		75	adenoma
+20878084	FOXP2	gene_expression		UP		75	adenoma
+20878084	IFI44L	gene_expression		UP		75	adenoma
+20878084	COL11A1	gene_expression		UP		75	adenoma
+20878084	PRRX1	gene_expression		UP		75	adenoma
+20878084	CXCL5	gene_expression		UP		75	adenoma
+20878084	FABP4	gene_expression		UP		75	adenoma
+20878084	H19	gene_expression		UP		75	adenoma
+20878084	SFRP4	gene_expression		UP		75	adenoma
+20878084	THBS2	gene_expression		UP		75	adenoma
+20878084	SERPINE1	gene_expression		UP		75	adenoma
+20878084	GPM6B	gene_expression		UP		75	adenoma
+20878084	RGS16	gene_expression		UP		75	adenoma
+20878084	CPAMD8	gene_expression		UP		75	adenoma
+20878084	PLN	gene_expression		UP		75	adenoma
+20878084	MAMDC2	gene_expression		UP		75	adenoma
+20878084	CTHRC1	gene_expression		UP		75	adenoma
+20878084	RGS1	gene_expression		UP		75	adenoma
+20878084	EMP1	gene_expression		UP		75	adenoma
+20878084	GAS1	gene_expression		UP		75	adenoma
+20878084	GBP1	gene_expression		UP		75	adenoma
+20878084	CES1	gene_expression		UP		75	adenoma
+20878084	ASPN	gene_expression		UP		75	adenoma
+20878084	FN1	gene_expression		UP		75	adenoma
+20878084	IL8	gene_expression		UP		75	adenoma
+20878084	CXCL13	gene_expression		UP		75	adenoma
+20878084	BGN	gene_expression		UP		75	adenoma
+20878084	ERAP2	gene_expression		UP		75	adenoma
+20878084	DSEL	gene_expression		UP		75	adenoma
+20878084	CYR61	gene_expression		UP		75	adenoma
+20878084	FNDC1	gene_expression		UP		75	adenoma
+20878084	TNFAIP6	gene_expression		UP		75	adenoma
+20878084	LOX	gene_expression		UP		75	adenoma
+20878084	HLA-DQA1	gene_expression		UP		75	adenoma
+20878084	BCL2A1	gene_expression		UP		75	adenoma
+20878084	POSTN	gene_expression		UP		75	adenoma
+20878084	IL1RN	gene_expression		UP		75	adenoma
+20878084	GUCY1A3	gene_expression		UP		75	adenoma
+20878084	AHNAK2	gene_expression		UP		75	adenoma
+20878084	TPM2	gene_expression		UP		75	adenoma
+20878084	COL1A1	gene_expression		UP		75	adenoma
+20878084	CTGF	gene_expression		UP		75	adenoma
+20878084	ACTG2	gene_expression		UP		75	adenoma
+20878084	CCDC80	gene_expression		UP		75	adenoma
+20878084	BST2	gene_expression		UP		75	adenoma
+20878084	ISG15	gene_expression		UP		75	adenoma
+20878084	TNC	gene_expression		UP		75	adenoma
+20878084	PCOLCE2	gene_expression		UP		75	adenoma
+20878084	MEIS1	gene_expression		UP		75	adenoma
+20878084	FLNA	gene_expression		UP		75	adenoma
+20878084	TNS1	gene_expression		UP		75	adenoma
+20878084	MYH11	gene_expression		UP		75	adenoma
+20878084	CCL8	gene_expression		UP		75	adenoma
+20878084	RSAD2	gene_expression		UP		75	adenoma
+20878084	GPNMB	gene_expression		UP		75	adenoma
+20878084	COL1A2	gene_expression		UP		75	adenoma
+20878084	PTPRR	gene_expression		UP		75	adenoma
+20878084	COL5A2	gene_expression		UP		75	adenoma
+20878084	ST6GALNAC5	gene_expression		UP		75	adenoma
+20878084	GPC6	gene_expression		UP		75	adenoma
+20878084	SULF1	gene_expression		UP		75	adenoma
+20878084	INHBA	gene_expression		UP		75	adenoma
+20878084	TAGLN	gene_expression		UP		75	adenoma
+20878084	CSPG2	gene_expression		UP		75	adenoma
+20878084	LY6E	gene_expression		UP		75	adenoma
+20878084	NNMT	gene_expression		UP		75	adenoma
+20878084	RAB31	gene_expression		UP		75	adenoma
+20878084	SOCS3	gene_expression		UP		75	adenoma
+20878084	RAI14	gene_expression		UP		75	adenoma
+20878084	CDKN2B	gene_expression		UP		75	adenoma
+20878084	FBN1	gene_expression		UP		75	adenoma
+20878084	APOE	gene_expression		UP		75	adenoma
+20878084	CXCL11	gene_expression		UP		75	adenoma
+20878084	AKAP12	gene_expression		UP		75	adenoma
+20878084	GREM1	gene_expression		UP		75	adenoma
+20878084	ADAMTS1	gene_expression		UP		75	adenoma
+20878084	SLC2A3	gene_expression		UP		75	adenoma
+20878084	MAB21L2	gene_expression		UP		75	adenoma
+20878084	IFIT1	gene_expression		UP		75	adenoma
+20878084	BAG2	gene_expression		UP		75	adenoma
+20878084	HBEGF	gene_expression		UP		75	adenoma
+20878084	DPYSL3	gene_expression		UP		75	adenoma
+20878084	TIMP3	gene_expression		UP		75	adenoma
+20878084	STC1	gene_expression		UP		75	adenoma
+20878084	FCGR3A	gene_expression		UP		75	adenoma
+20878084	FCGR3B	gene_expression		UP		75	adenoma
+20878084	PCDH7	gene_expression		UP		75	adenoma
+20878084	CALD1	gene_expression		UP		75	adenoma
+20878084	HSPA6	gene_expression		UP		75	adenoma
+20878084	MYL9	gene_expression		UP		75	adenoma
+20878084	CXCL10	gene_expression		UP		75	adenoma
+20878084	SLC2A14	gene_expression		UP		75	adenoma
+20878084	EREG	gene_expression		UP		75	adenoma
+20878084	VSIG4	gene_expression		UP		75	adenoma
+20878084	IRS1	gene_expression		UP		75	adenoma
+20878084	FSTL3	gene_expression		UP		75	adenoma
+20878084	MSR1	gene_expression		UP		75	adenoma
+20878084	CCL3	gene_expression		UP		75	adenoma
+20878084	CCL3L1	gene_expression		UP		75	adenoma
+20878084	CCL3L3	gene_expression		UP		75	adenoma
+20878084	TYMP	gene_expression		UP		75	adenoma
+20878084	TMEM45A	gene_expression		UP		75	adenoma
+20878084	PLAUR	gene_expression		UP		75	adenoma
+20878084	FBLN1	gene_expression		UP		75	adenoma
+20878084	IFI44	gene_expression		UP		75	adenoma
+20878084	SCRN1	gene_expression		UP		75	adenoma
+20878084	SPON1	gene_expression		UP		75	adenoma
+20878084	PLAU	gene_expression		UP		75	adenoma
+20878084	IL6	gene_expression		UP		75	adenoma
+20878084	DUSP1	gene_expression		UP		75	adenoma
+20878084	GEM	gene_expression		UP		75	adenoma
+20878084	PLEKHC1	gene_expression		UP		75	adenoma
+20878084	SLC6A8	gene_expression		UP		75	adenoma
+20878084	BCAT1	gene_expression		UP		75	adenoma
+20878084	CPNE8	gene_expression		UP		75	adenoma
+20878084	LPHN2	gene_expression		UP		75	adenoma
+20878084	PAPPA	gene_expression		UP		75	adenoma
+20878084	DUSP5	gene_expression		UP		75	adenoma
+20878084	CCL21	gene_expression		UP		75	adenoma
+20878084	AREG	gene_expression		UP		75	adenoma
+20878084	DPT	gene_expression		UP		75	adenoma
+20878084	PMP22	gene_expression		UP		75	adenoma
+20878084	MS4A4A	gene_expression		UP		75	adenoma
+20878084	ROBO1	gene_expression		UP		75	adenoma
+20878084	TNFRSF12A	gene_expression		UP		75	adenoma
+20878084	PTGS2	gene_expression		UP		75	adenoma
+20878084	COL3A1	gene_expression		UP		75	adenoma
+20878084	NR4A2	gene_expression		UP		75	adenoma
+20878084	VLDLR	gene_expression		UP		75	adenoma
+20878084	CD14	gene_expression		UP		75	adenoma
+20878084	RGS2	gene_expression		UP		75	adenoma
+20878084	SGK1	gene_expression		UP		75	adenoma
+20878084	FCGR1A	gene_expression		UP		75	adenoma
+20878084	EIF2S3	gene_expression		UP		75	adenoma
+20878084	CLIC4	gene_expression		UP		75	adenoma
+20878084	CD109	gene_expression		UP		75	adenoma
+20878084	CXCR4	gene_expression		UP		75	adenoma
+20878084	PHLDA2	gene_expression		UP		75	adenoma
+20878084	FCGR2A	gene_expression		UP		75	adenoma
+20878084	S1PR3	gene_expression		UP		75	adenoma
+20878084	MFGE8	gene_expression		UP		75	adenoma
+20878084	HIP1	gene_expression		UP		75	adenoma
+20878084	SUCNR1	gene_expression		UP		75	adenoma
+20878084	ARL4C	gene_expression		UP		75	adenoma
+20878084	C5AR1	gene_expression		UP		75	adenoma
+20878084	FOS	gene_expression		UP		75	adenoma
+20878084	ERRFI1	gene_expression		UP		75	adenoma
+20878084	C3	gene_expression		UP		75	adenoma
+20878084	TDO2	gene_expression		UP		75	adenoma
+20878084	MITF	gene_expression		UP		75	adenoma
+20878084	F13A1	gene_expression		UP		75	adenoma
+20878084	DCN	gene_expression		UP		75	adenoma
+20878084	ROR1	gene_expression		UP		75	adenoma
+20878084	ITGB2	gene_expression		UP		75	adenoma
+20878084	EFEMP1	gene_expression		UP		75	adenoma
+20878084	UPP1	gene_expression		UP		75	adenoma
+20878084	ADH1B	gene_expression		UP		75	adenoma
+20878084	UBE2E2	gene_expression		UP		75	adenoma
+20878084	PRNP	gene_expression		UP		75	adenoma
+20878084	SBDS	gene_expression		UP		75	adenoma
+20878084	SIRPA	gene_expression		UP		75	adenoma
+20878084	RTN1	gene_expression		UP		75	adenoma
+20878084	TSP1	gene_expression		UP		75	adenoma
+20878084	DDIT4	gene_expression		UP		75	adenoma
+20878084	PARVB	gene_expression		UP		75	adenoma
+20878084	ATF3	gene_expression		UP		75	adenoma
+20878084	IER3	gene_expression		UP		75	adenoma
+20878084	FCER1G	gene_expression		UP		75	adenoma
+20878084	TSC22D3	gene_expression		UP		75	adenoma
+20878084	KRT19	gene_expression		UP		75	adenoma
+20878084	LDLR	gene_expression		UP		75	adenoma
+20878084	MXRA7	gene_expression		UP		75	adenoma
+20878084	IGFBP3	gene_expression		UP		75	adenoma
+20878084	IFI16	gene_expression		UP		75	adenoma
+20878084	NELL1	gene_expression		UP		75	adenoma
+20878084	PLOD2	gene_expression		UP		75	adenoma
+20878084	QSOX1	gene_expression		UP		75	adenoma
+20878084	SLC20A1	gene_expression		UP		75	adenoma
+20878084	RHOF	gene_expression		UP		75	adenoma
+20878084	RHOB	gene_expression		UP		75	adenoma
+20878084	SIK1	gene_expression		UP		75	adenoma
+20878084	C2orf18	gene_expression		UP		75	adenoma
+20878084	TSPYL5	gene_expression		UP		75	adenoma
+20878084	TPM4	gene_expression		UP		75	adenoma
+20878084	UBA6	gene_expression		UP		75	adenoma
+20878084	SOX7	gene_expression		UP		75	adenoma
+20878084	MS4A4A	gene_expression		UP		75	adenoma
+20878084	EPHA2	gene_expression		UP		75	adenoma
+20878084	CLEC7A	gene_expression		UP		75	adenoma
+20878084	PYGL	gene_expression		UP		75	adenoma
+20878084	LATS2	gene_expression		UP		75	adenoma
+20878084	FOSL2	gene_expression		UP		75	adenoma
+20878084	C17orf91	gene_expression		UP		75	adenoma
+20878084	FPR3	gene_expression		UP		75	adenoma
+20878084	ZFP36	gene_expression		UP		75	adenoma
+20878084	SH2B3	gene_expression		UP		75	adenoma
+20878084	NDN	gene_expression		UP		75	adenoma
+20878084	CCL2	gene_expression		UP		75	adenoma
+20878084	TUBB6	gene_expression		UP		75	adenoma
+20878084	FOXQ1	gene_expression		UP		75	adenoma
+20878084	RIN2	gene_expression		UP		75	adenoma
+20878084	LAMA2	gene_expression		UP		75	adenoma
+20878084	CXCL12	gene_expression		UP		75	adenoma
+20878084	KLF2	gene_expression		UP		75	adenoma
+20878084	SLC26A3	gene_expression		UP		75	adenoma
+20878084	CXCL1	gene_expression		UP		75	adenoma
+20878084	TACSTD2	gene_expression		UP		75	adenoma
+20878084	DEFA6	gene_expression		DOWN		75	adenoma
+20878084	DEFA5	gene_expression		DOWN		75	adenoma
+20878084	PCSK1	gene_expression		DOWN		75	adenoma
+20878084	C17orf92	gene_expression		DOWN		75	adenoma
+20878084	RETNLB	gene_expression		DOWN		75	adenoma
+20878084	KIAA1324	gene_expression		DOWN		75	adenoma
+20878084	ENPP3	gene_expression		DOWN		75	adenoma
+20878084	L1TD1	gene_expression		DOWN		75	adenoma
+20878084	C17orf77	gene_expression		DOWN		75	adenoma
+20878084	SH3GL2	gene_expression		DOWN		75	adenoma
+20878084	SLITRK6	gene_expression		DOWN		75	adenoma
+20878084	TMED6	gene_expression		DOWN		75	adenoma
+20878084	LGR5	gene_expression		DOWN		75	adenoma
+20878084	SPINK4	gene_expression		DOWN		75	adenoma
+20878084	IGLV4-60	gene_expression		DOWN		75	adenoma
+20878084	UGT1A6	gene_expression		DOWN		75	adenoma
+20878084	UGT1A8	gene_expression		DOWN		75	adenoma
+20878084	UGT1A9	gene_expression		DOWN		75	adenoma
+20878084	C14orf53	gene_expression		DOWN		75	adenoma
+20878084	ALDH3A1	gene_expression		DOWN		75	adenoma
+20878084	ITFG2	gene_expression		DOWN		75	adenoma
+20878084	CFC1	gene_expression		DOWN		75	adenoma
+20878084	CFC1B	gene_expression		DOWN		75	adenoma
+20878084	ADH6	gene_expression		DOWN		75	adenoma
+20878084	SERPINA1	gene_expression		DOWN		75	adenoma
+20878084	SCARNA2	gene_expression		DOWN		75	adenoma
+20878084	PTCD2	gene_expression		DOWN		75	adenoma
+20878084	FZD10	gene_expression		DOWN		75	adenoma
+20878084	C6orf117	gene_expression		DOWN		75	adenoma
+20878084	FOXM1	gene_expression		DOWN		75	adenoma
+20878084	ZG16	gene_expression		DOWN		75	adenoma
+20878084	QPCT	gene_expression		DOWN		75	adenoma
+20878084	SMAD9	gene_expression		DOWN		75	adenoma
+20878084	IGFBP2	gene_expression		DOWN		75	adenoma
+20878084	CHN2	gene_expression		DOWN		75	adenoma
+20878084	ATOH8	gene_expression		DOWN		75	adenoma
+20878084	CACNA2D2	gene_expression		DOWN		75	adenoma
+20878084	CTNNA2	gene_expression		DOWN		75	adenoma
+20878084	ACVR1C	gene_expression		DOWN		75	adenoma
+20878084	CABP7	gene_expression		DOWN		75	adenoma
+20878084	TBX3	gene_expression		DOWN		75	adenoma
+20878084	PCLO	gene_expression		DOWN		75	adenoma
+20878084	SEMA5A	gene_expression		DOWN		75	adenoma
+20878084	LOC606495	gene_expression		DOWN		75	adenoma
+20878084	DUOX2	gene_expression		DOWN		75	adenoma
+20878084	RORC	gene_expression		DOWN		75	adenoma
+20878084	HOXB9	gene_expression		DOWN		75	adenoma
+20878084	CRYM	gene_expression		DOWN		75	adenoma
+20878084	REPS2	gene_expression		DOWN		75	adenoma
+20878084	HOXA9	gene_expression		DOWN		75	adenoma
+20878084	ABAT	gene_expression		DOWN		75	adenoma
+20878084	AMY1A	gene_expression		DOWN		75	adenoma
+20878084	AMY1C	gene_expression		DOWN		75	adenoma
+20878084	AMY2A	gene_expression		DOWN		75	adenoma
+20878084	CXorf10	gene_expression		DOWN		75	adenoma
+20878084	BEX2	gene_expression		DOWN		75	adenoma
+20878084	LEFTY1	gene_expression		DOWN		75	adenoma
+20878084	QPRT	gene_expression		DOWN		75	adenoma
+20878084	SHANK2	gene_expression		DOWN		75	adenoma
+20878084	FGGY	gene_expression		DOWN		75	adenoma
+20878084	PITX2	gene_expression		DOWN		75	adenoma
+20878084	EPHB2	gene_expression		DOWN		75	adenoma
+20878084	RNF186	gene_expression		DOWN		75	adenoma
+20878084	ENPP5	gene_expression		DOWN		75	adenoma
+20878084	HOXB6	gene_expression		DOWN		75	adenoma
+20878084	CYP39A1	gene_expression		DOWN		75	adenoma
+20878084	CHDH	gene_expression		DOWN		75	adenoma
+20878084	TMC5	gene_expression		DOWN		75	adenoma
+20878084	SP5	gene_expression		DOWN		75	adenoma
+20878084	PIWIL2	gene_expression		DOWN		75	adenoma
+20878084	PLA2R1	gene_expression		DOWN		75	adenoma
+20878084	MTSS1	gene_expression		DOWN		75	adenoma
+20878084	C21orf57	gene_expression		DOWN		75	adenoma
+20878084	PLCB4	gene_expression		DOWN		75	adenoma
+20878084	SLC40A1	gene_expression		DOWN		75	adenoma
+20878084	C1orf161	gene_expression		DOWN		75	adenoma
+20878084	YPEL1	gene_expression		DOWN		75	adenoma
+20878084	HOXB5	gene_expression		DOWN		75	adenoma
+20878084	NPTX2	gene_expression		DOWN		75	adenoma
+20878084	CPS1	gene_expression		DOWN		75	adenoma
+20878084	DAPK2	gene_expression		DOWN		75	adenoma
+20878084	MESP1	gene_expression		DOWN		75	adenoma
+20878084	TLE2	gene_expression		DOWN		75	adenoma
+20878084	MTL5	gene_expression		DOWN		75	adenoma
+20878084	KIAA1244	gene_expression		DOWN		75	adenoma
+20878084	DUSP18	gene_expression		DOWN		75	adenoma
+20878084	COL9A2	gene_expression		DOWN		75	adenoma
+20878084	ETS2	gene_expression		DOWN		75	adenoma
+20878084	THNSL1	gene_expression		DOWN		75	adenoma
+20878084	LNX1	gene_expression		DOWN		75	adenoma
+20878084	UNC5CL	gene_expression		DOWN		75	adenoma
+20878084	UGT2B15	gene_expression		DOWN		75	adenoma
+20878084	GCNT1	gene_expression		DOWN		75	adenoma
+20878084	PKIB	gene_expression		DOWN		75	adenoma
+20878084	FHDC1	gene_expression		DOWN		75	adenoma
+20878084	KIAA1984	gene_expression		DOWN		75	adenoma
+20878084	NSUN7	gene_expression		DOWN		75	adenoma
+20878084	CLDN8	gene_expression		DOWN		75	adenoma
+20878084	KIAA1147	gene_expression		DOWN		75	adenoma
+20878084	CA1	gene_expression		DOWN		75	adenoma
+20878084	BACE2	gene_expression		DOWN		75	adenoma
+20878084	CEACAM7	gene_expression		DOWN		75	adenoma
+20878084	PAH	gene_expression		DOWN		75	adenoma
+19659606	DKK1	gene_expression		UP	0.590	34	adenoma
+19659606	DKK2	gene_expression		UP	0.690	32	adenoma
+19659606	DKK3	gene_expression		UP	0.440	34	adenoma
+19659606	DKK4	gene_expression		UP	0.770	31	adenoma
+19659606	DKK1	gene_expression		DOWN	0.180	34	adenoma
+19659606	DKK3	gene_expression		DOWN	0.210	34	adenoma
+19659606	DKK4	gene_expression		DOWN	0.190	31	adenoma
+17122504	KRAS	mutation	cod12,13	YES	0.123	57	adenoma
+17122504		CIMP		YES	0.360	57	adenoma
+16507901	COL4A5	gene_expression	protein, mRNA	YES	1.000	2	adenoma
+16507901	COL4A6	gene_expression	protein, mRNA	YES	1.000	2	adenoma
+15122305	PTGS2	hypoMeth_CpG	prom	YES	0.941	95	adenoma
+12706863	DAPK1	gene_expression		YES	1.000	1	adenoma
+15467734	CIITA	H3Ac		YES	1.000	1	adenoma
+11870540	MLH1	gene_expression		YES	1.000	1	adenoma
+17007017	MAGEA1	gene_expression		YES	1.000	1	adenoma
+17007017	MAGEA3	gene_expression		YES	1.000	1	adenoma
+16533812	HDAC3	gene_expression		UP	1.000	1	adenoma
+20340131	CADM1	gene_expression		DOWN	1.000	1	adenoma
+15793287	BRAF	mutation	exon15 cod600 V->E	YES	0.750	4	adenoma
+12598316		CIMP		HIGH	0.170	6	adenoma
+12598316		CIMP		LOW	0.170	6	adenoma
+12598316		CIMP		YES	0.340	6	adenoma
+12598316		MSI		YES	0.400	5	adenoma
+10930367	CDKN1A	gene_expression		YES	0.830	6	adenoma
+10930367	MKI67	gene_expression		YES	0.330	6	adenoma
+10930367	MKI67	gene_expression		YES	1.000	6	adenoma
+10930367		MSI		LOW	0.170	6	adenoma
+11889072	CDH3	gene_expression		YES	1.000	20	adenoma
+11889072	CTNNBIP1	translocation	membrane->cytoplasm/nucleus	YES	0.050	20	adenoma
+19174785	RUNX3	gene_expression		YES	0.430	14	adenoma
+17923875	BRAF	mutation	exon15 cod600 V->E	YES	0.630	8	adenoma
+15247181	BRAF	mutation	exon15 cod600 V->E	YES	0.200	5	adenoma
+15247181	KRAS	mutation	any	YES	0.200	5	adenoma
+12598316		CIMP		HIGH	0.680	22	adenoma
+12598316		CIMP		LOW	0.180	22	adenoma
+12598316		CIMP		YES	0.860	22	adenoma
+12598316		MSI		YES	0.181	22	adenoma
+17923875	KRAS	mutation	cod12,13	YES	0.250	8	adenoma
+15489648	BRAF	mutation	exon15 cod600 V->E	YES	0.600	25	adenoma
+15489648	KRAS	mutation	cod12,13	YES	0.280	25	adenoma
+15489648		CIMP		YES	0.800	25	adenoma
+15991007	BRAF	mutation	exon15 cod600 V->E	YES	0.771	35	adenoma
+17122504	BRAF	mutation	exon15 cod600 V->E	YES	0.621	29	adenoma
+17122504	KRAS	mutation	cod12,13	YES	0.241	29	adenoma
+17122504		CIMP		YES	0.793	29	adenoma
+10343605		MSI		HIGH	0.117	17	adenoma
+10343605		MSI		LOW	0.412	17	adenoma
+10343605		MSI		HIGH	0.083	12	adenoma
+10343605		MSI		LOW	0.500	12	adenoma
+19172291	TFF1	gene_expression		UP		13	adenoma
+19172291	CTSE	gene_expression		UP		13	adenoma
+19172291	GCNT3	gene_expression		UP		13	adenoma
+19172291	DHRS9	gene_expression		UP		13	adenoma
+19172291	MUC17	gene_expression		UP		13	adenoma
+19172291	ANPEP	gene_expression		DOWN		13	adenoma
+19172291	CEACAM5	gene_expression		UP		13	adenoma
+19172291	MEP1A	gene_expression		DOWN		13	adenoma
+19172291	KRT19	gene_expression		UP		13	adenoma
+19172291	MALL	gene_expression		UP		13	adenoma
+19172291	PSG3	gene_expression		UP		13	adenoma
+19172291	SULT1C2	gene_expression		UP		13	adenoma
+19172291	HSD17B2	gene_expression		UP		13	adenoma
+19172291	BHLHB3	gene_expression		UP		13	adenoma
+19172291	ME1	gene_expression		UP		13	adenoma
+19172291	SDCBP2	gene_expression		DOWN		13	adenoma
+19172291	ANXA1	gene_expression		UP		13	adenoma
+19172291	CES2	gene_expression		DOWN		13	adenoma
+19172291	SLC6A8	gene_expression		UP		13	adenoma
+19172291	SLC9A3R1	gene_expression		DOWN		13	adenoma
+19172291	TM4SF1	gene_expression		UP		13	adenoma
+19172291	MXD1	gene_expression		DOWN		13	adenoma
+19172291	ABP1	gene_expression		DOWN		13	adenoma
+19172291	MUPCDH	gene_expression		DOWN		13	adenoma
+19172291	MGLL	gene_expression		DOWN		13	adenoma
+19172291	SH3BGRL3	gene_expression		UP		13	adenoma
+19172291	CLTB	gene_expression		UP		13	adenoma
+19172291	ERO1L	gene_expression		UP		13	adenoma
+19172291	MUC3A	gene_expression		UP		13	adenoma
+19172291	LBA1	gene_expression		DOWN		13	adenoma
+19172291	LBA1	gene_expression		DOWN		13	adenoma
+19172291	BSG	gene_expression		DOWN		13	adenoma
+19172291	KRAS	mutation	any	YES	0.043	23	adenoma
+19172291	BRAF	mutation	any	YES	0.910	23	adenoma
+19172291	TFF1	gene_expression		UP		16	adenoma
+17122504	BRAF	mutation	exon15 cod600 V->E	YES	0.828	29	adenoma
+17122504	KRAS	mutation	cod12,13	YES	0.069	29	adenoma
+17122504		CIMP		YES	0.759	29	adenoma
+16483002		MSI		YES	0.125	8	adenoma
+15793287	BRAF	mutation	exon15 cod600 V->E	YES	0.300	10	adenoma
+17950780	KRAS	mutation	cod12,13	YES	0.100	30	adenoma
+12598316		CIMP		HIGH	0.180	34	adenoma
+12598316		CIMP		LOW	0.380	34	adenoma
+12598316		CIMP		YES	0.560	34	adenoma
+12598316		MSI		YES	0.029	34	adenoma
+17950780		CIMP		YES	0.270	30	adenoma
+17923875	KRAS	mutation	cod12,13	YES	0.236	72	adenoma
+17923875	BRAF	mutation	exon15 cod600 V->E	YES	0.014	72	adenoma
+19172291	TFF1	gene_expression		DOWN		13	adenoma
+19172291	CTSE	gene_expression		UP		13	adenoma
+19172291	DHRS9	gene_expression		DOWN		13	adenoma
+19172291	GCNT3	gene_expression		DOWN		13	adenoma
+19172291	MUC17	gene_expression		UP		13	adenoma
+19172291	ANPEP	gene_expression		DOWN		13	adenoma
+19172291	CEACAM5	gene_expression		DOWN		13	adenoma
+19172291	MEP1A	gene_expression		DOWN		13	adenoma
+19172291	KRT19P2	gene_expression		DOWN		13	adenoma
+19172291	KRT19	gene_expression		DOWN		13	adenoma
+19172291	MALL	gene_expression		DOWN		13	adenoma
+19172291	PSG3	gene_expression		DOWN		13	adenoma
+19172291	SULT1C2	gene_expression		UP		13	adenoma
+19172291	HSD17B2	gene_expression		DOWN		13	adenoma
+19172291	KRT19P2	gene_expression		DOWN		13	adenoma
+19172291	ME1	gene_expression		UP		13	adenoma
+19172291	SDCBP2	gene_expression		DOWN		13	adenoma
+19172291	ANXA1	gene_expression		UP		13	adenoma
+19172291	CES2	gene_expression		DOWN		13	adenoma
+19172291	SLC6A8	gene_expression		DOWN		13	adenoma
+19172291	SLC9A3R1	gene_expression		DOWN		13	adenoma
+19172291	TM4SF1	gene_expression		UP		13	adenoma
+19172291	MXD1	gene_expression		DOWN		13	adenoma
+19172291	ABP1	gene_expression		DOWN		13	adenoma
+19172291	MUPCDH	gene_expression		DOWN		13	adenoma
+19172291	MGLL	gene_expression		DOWN		13	adenoma
+19172291	SH3BGRL3	gene_expression		DOWN		13	adenoma
+19172291	CLTB	gene_expression		DOWN		13	adenoma
+19172291	ERO1L	gene_expression		UP		13	adenoma
+19172291	MUC3A	gene_expression		DOWN		13	adenoma
+19172291	LBA1	gene_expression		DOWN		13	adenoma
+19172291	BSG	gene_expression		DOWN		13	adenoma
+19172291	KRAS	mutation	any	YES	0.500	20	adenoma
+10343605		MSI		LOW	0.130	23	adenoma
+10343605		MSI		HIGH	1.000	2	adenoma
+15526363	PTGS2	hypoMeth_CpG	prom	YES	0.500	8	adenoma
+17950780	KRAS	mutation	cod12,13	YES	0.090	32	adenoma
+17923875	KRAS	mutation	cod12,13	YES	0.600	40	adenoma
+17950780		CIMP		YES	0.440	32	adenoma
+19174785	RUNX3	gene_expression		YES	1.000	19	adjacent to adenoma
+19174785	RUNX3	gene_expression		YES	1.000	19	adjacent to adenoma
+16507901	COL4A5	gene_expression	protein, mRNA	YES	1.000	2	adjacent to adenoma
+16507901	COL4A6	gene_expression	protein, mRNA	YES	1.000	2	adjacent to adenoma
+15526363	PTGS2	hypoMeth_CpG	prom	YES	0.600	5	adjacent to carcinoma
+15122305	PTGS2	hypoMeth_CpG	prom	YES	1.000	23	adjacent to carcinoma
+14726683	RARB	gene_expression	adult	YES	1.000	9	adjacent to carcinoma
+11932355	TERT	gene_expression		YES	0.875	24	adjacent to carcinoma
+11146446	DNMT1	gene_expression		NORMAL	1.000	32	adjacent to carcinoma
+11146446	DNMT3B	gene_expression		NORMAL	1.000	32	adjacent to carcinoma
+11146446	DNMT2	gene_expression		NORMAL	1.000	32	adjacent to carcinoma
+18829530	CDH3	gene_expression		YES	0.050	20	adjacent to carcinoma
+18829530	CDH3	hypoMeth_CpG	prom	YES	0.800	20	adjacent to carcinoma
+18425817	TSP1	gene_expression		YES	0.860	14	adjacent to carcinoma
+19174785	RUNX3	gene_expression		YES	0.800	5	adjacent to carcinoma
+19127118	MED1	gene_expression		DOWN	1.000	39	adjacent to carcinoma
+17289018	TGFBR1	gene_expression		YES	0.444	27	adjacent to carcinoma
+17289018	TGFBR2	gene_expression		YES	0.629	27	adjacent to carcinoma
+17289018	SMAD4	gene_expression		YES	1.000	27	adjacent to carcinoma
+10389752	SMAD4	gene_expression		YES	1.000	13	adjacent to carcinoma
+10389752	SMAD6	gene_expression		YES	1.000	12	adjacent to carcinoma
+10389752	APC	gene_expression		YES	0.910	11	adjacent to carcinoma
+10389752	TGFBR1	gene_expression		YES	1.000	12	adjacent to carcinoma
+10389752	DCC	gene_expression		YES	1.000	11	adjacent to carcinoma
+17136345	IGFBP7	gene_expression	mRNA	YES	0.946	37	adjacent to carcinoma
+18028895	MGMT	gene_expression		YES	0.542	24	adjacent to carcinoma
+17007017	MAGEA1	hypoMeth_CpG	prom	YES	0.020	87	adjacent to carcinoma
+17007017	MAGEA3	hypoMeth_CpG	prom	YES	0.060	87	adjacent to carcinoma
+16911791	MSH2	gene_expression		YES	1.000	60	adjacent to carcinoma
+21352815	NDRG2	gene_expression		YES	0.914	70	adjacent to carcinoma
+16507901	COL4A5	gene_expression	protein, mRNA	YES	1.000	12	adjacent to carcinoma
+16507901	COL4A6	gene_expression	protein, mRNA	YES	1.000	12	adjacent to carcinoma
+20340131	CADM1	gene_expression		YES	0.833	54	adjacent to carcinoma
+14695142	HRK	gene_expression		YES	1.000	1	healthy
+15059896	RAB32	gene_expression		NORMAL	1.000	8	healthy
+15059896	PTPRO	gene_expression		VERY_LOW	1.000	8	healthy
+16247458	PCDH10	gene_expression		YES	1.000	1	healthy
+17378912	PTGS2	gene_expression		YES	0.133	30	healthy
+18829530	CDH3	hypoMeth_CpG	prom	YES	0.263	19	healthy
+19174785	RUNX3	gene_expression		YES	0.840	12	healthy
+19174785	RUNX3	gene_expression		YES	0.860	7	healthy
+19051296	DKK3	gene_expression		YES	1.000	1	healthy
+11889072	CDH1	gene_expression		YES	1.000	1	healthy
+17031395	MUTYH	mutation	cod382 G->D	YES	0.008	478	healthy
+17031395	MUTYH	mutation	cod165 Y->C	YES	0.002	478	healthy
+16533812	HDAC3	gene_expression		YES	1.000	3	healthy
+16568088	CXCL12	gene_expression		YES	1.000	7	healthy
+16568088	DNMT1	gene_expression		NORMAL	1.000	5	healthy
+16568088	DNMT3B	gene_expression		NORMAL	1.000	5	healthy
+16247458	PCDH10	gene_expression		YES	1.000	1	healthy fetal
+10419592		LOH	22q	YES	0.467	15	metastasis
+10419592		LOH	17p	YES	0.800	15	metastasis
+10419592		LOH	18q	YES	0.467	15	metastasis
+10419592	APC	LOH	5q	YES	0.533	15	metastasis
+10419592		LOH	3p	YES	0.200	15	metastasis
+10419592		LOH	6q	YES	0.467	15	metastasis
+10419592		LOH	8p	YES	0.133	15	metastasis
+10419592		LOH	9p	YES	0.200	15	metastasis
+10419592		LOH	14q	YES	0.133	15	metastasis
+10419592		LOH	7q	YES	0.133	15	metastasis
+10419592		LOH	13q	YES	0.200	15	metastasis
+12782759	KRAS	mutation	cod12	YES	0.524	42	metastasis
+12782759	APC	LOH	5q	YES	0.333	39	metastasis
+18425817	TSP1	gene_expression		YES	0.250	39	metastasis
+17487504	KIT	gene_expression		UP	0.140	36	metastasis
+17136345	IGFBP7	gene_expression	mRNA	YES	0.577	175	metastasis
+10930367	CDKN1A	gene_expression		YES	0.830	98	polyps
+10930367	MKI67	gene_expression		YES	0.670	98	polyps
+10930367	KRAS	mutation	any	YES	0.085	129	polyps
+10930367		MSI		HIGH	0.030	129	polyps
+10930367		MSI		LOW	0.020	129	polyps
+10930367		LOH	1p	YES	0.130	129	polyps
+18240147	KRAS	mutation	any	YES	0.200	104	polyps
+19060925	MGMT	gene_expression		YES	0.690	44	polyps
+19060925	MLH1	gene_expression		YES	1.000	44	polyps
+11889072	CDH3	gene_expression		YES	0.820	22	polyps
+11889072	CDH1	gene_expression		YES	1.000	22	polyps
+11889072	CTNNBIP1	translocation	membrane->cytoplasm/nucleus	YES	1.000	22	polyps
+11889072	CTNNG	translocation	membrane->cytoplasm/nucleus	YES	0.680	22	polyps
+15793287	BRAF	mutation	exon15 cod600 V->E	YES	0.430	70	polyps
+15793287	KRAS	mutation	any	YES	0.090	70	polyps
+15793287	BRAF	mutation	exon15 cod600 V->E	YES	0.060	18	polyps
+11889072	CDH3	gene_expression		YES	1.000	20	polyps
+19174785	RUNX3	gene_expression		YES	0.210	19	polyps
+17613547	BRAF	mutation	exon15 cod600 V->E	YES	0.790	52	polyps
+15489648	BRAF	mutation	exon15 cod600 V->E	YES	0.696	79	polyps
+15489648	KRAS	mutation	cod12,13	YES	0.165	79	polyps
+19172291	BRAF	mutation	any	YES	0.316	19	polyps
+19172291	KRAS	mutation	any	YES	0.632	19	polyps
+19172291	TFF1	gene_expression		UP		15	polyps
+15991007	BRAF	mutation	exon15 cod600 V->E	YES	0.200	5	polyps
+10343605		MSI		LOW	0.286	21	polyps
+15247181	BRAF	mutation	exon15 cod600 V->E	YES	0.890	9	polyps
+15793287	BRAF	mutation	exon15 cod600 V->E	YES	0.330	3	polyps
+15793287	KRAS	mutation	any	YES	0.670	3	polyps
+10930367	CDKN1A	gene_expression		YES	1.000	3	polyps
+10930367	MKI67	gene_expression		YES	1.000	3	polyps
+10930367	MKI67	gene_expression		YES	1.000	3	polyps
+10930367	KRAS	mutation	any	YES	0.660	3	polyps
+10930367	TP53	gene_expression		UP	0.330	3	polyps
+10930367		MSI		LOW	0.330	3	polyps
+10930367		LOH	1p	YES	0.330	3	polyps
+10343605		MSI		LOW	0.583	23	polyps
+11221863	MGMT	gene_expression		YES	0.290	31	polyps
+15247181	BRAF	mutation	exon15 cod600 V->E	YES	0.880	25	polyps
+15247181	KRAS	mutation	any	YES	0.040	25	polyps
+15247181	BRAF	mutation	exon15 cod600 V->E	YES	0.130	32	polyps
+15247181	KRAS	mutation	any	YES	0.250	32	polyps
+17122504	BRAF	mutation	exon15 cod600 V->E	YES	0.214	14	polyps
+17122504	KRAS	mutation	cod12,13	YES	0.429	14	polyps
+17122504		CIMP		YES	0.143	14	polyps
+17122504	BRAF	mutation	exon15 cod600 V->E	YES	0.763	38	polyps
+17122504	KRAS	mutation	cod12,13	YES	0.132	38	polyps
+17122504		CIMP		YES	0.474	38	polyps
+16012936		MSI		HIGH	0.116	43	premalignant mucosa
+18172251	TP53	mutation	any	YES	0.600	5	premalignant mucosa
+17122649		MSI		YES	0.140	13	premalignant mucosa
+16483002		MSI		HIGH	1.000	6	premalignant mucosa
+15548679		MSI		YES	0.833	12	serum, carcinoma
+16760301	KRAS	mutation	cod12,13	YES	0.127	66	serum, carcinoma
+16760301	SLC5A8	gene_expression		YES	0.123	66	serum, carcinoma
+20549016	MTHFR	polymorphism	C677T	YES	0.434	180	serum, carcinoma
+20549016	MTR	polymorphism	A2756G	YES	0.313	180	serum, carcinoma
+20549016	MTRR	polymorphism	A66G	YES	0.531	180	serum, carcinoma
+20549016	MTHFR	polymorphism	C677T	YES	0.358	300	serum, healthy
+20549016	MTR	polymorphism	A2756G	YES	0.309	300	serum, healthy
+20549016	MTRR	polymorphism	A66G	YES	0.508	300	serum, healthy
+17378912	PTGS2	hypoMeth_CpG	prom	YES	0.960	24	stool, adenoma
+17378912	PTGS2	gene_expression		YES	0.067	25	stool, adenoma
+17378912	PTGS2	hypoMeth_CpG	prom	YES	0.390	20	stool, carcinoma
+17378912	PTGS2	gene_expression		YES	0.500	20	stool, carcinoma
+15300574	PTGS2	gene_expression		YES	0.897	29	stool, carcinoma
+17378912	PTGS2	gene_expression		YES	0.040	30	stool, healthy
+15300574	PTGS2	gene_expression		YES	0.200	22	stool, healthy
+17378912	PTGS2	hypoMeth_CpG	prom	YES	1.000	5	stool, polyps

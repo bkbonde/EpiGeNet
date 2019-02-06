@@ -1,4 +1,4 @@
-package EpiGeNetFramework;
+package fr.eisbm.EpiGeNet;
 
 public class EventInfo_s {
 	protected final String _geneNameStr;

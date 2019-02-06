@@ -1,4 +1,4 @@
-package EpiGeNetFramework;
+package fr.eisbm.EpiGeNet;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
@@ -11,8 +11,8 @@ import java.util.Map.Entry;
 import org.neo4j.graphdb.Node;
 import org.neo4j.graphdb.Relationship;
 
-import EpiGeNetFramework.MainCCGraph.LabelTypes;
-import EpiGeNetFramework.MainCCGraph.RelTypes;
+import fr.eisbm.EpiGeNet.App.LabelTypes;
+import fr.eisbm.EpiGeNet.App.RelTypes;
 
 public class ColonCancerDB {
 
@@ -307,7 +307,7 @@ public class ColonCancerDB {
 	private Node createMolecularEventNode(EventInfo_s _eventPair) {
 		molecNodeMap.put(
 				_eventPair,
-				MainCCGraph.getGraphInstance().createNode(
+				App.getGraphInstance().createNode(
 						LabelTypes.MolecularEvent));
 		molecNodeMap.get(_eventPair).setProperty("GeneSymbol",
 				_eventPair.getGeneName());
@@ -319,7 +319,7 @@ public class ColonCancerDB {
 	}
 
 	private Node createStartEventNode(EventInfo_s _eventPair) {
-		simpleNodeMap.put(_eventPair, MainCCGraph.getGraphInstance()
+		simpleNodeMap.put(_eventPair, App.getGraphInstance()
 				.createNode(LabelTypes.StartEvent));
 		simpleNodeMap.get(_eventPair).setProperty("GeneSymbol",
 				_eventPair.getGeneName());

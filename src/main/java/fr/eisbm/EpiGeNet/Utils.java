@@ -1,6 +1,6 @@
-package EpiGeNetFramework;
+package fr.eisbm.EpiGeNet;
 
-import EpiGeNetFramework.MainCCGraph.RelTypes;
+import fr.eisbm.EpiGeNet.App.RelTypes;
 
 public class Utils {
 	static public RelTypes convertStringToRelType(String string) {

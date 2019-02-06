@@ -1,0 +1,564 @@
+16007118	KRAS	mutation	any	YES	8	RASSF1A	hyperMeth_CpG	prom	YES	0.250	carcinoma
+14734469	MSH2	mutation	any	YES	13	MLH1	hyperMeth_CpG	prom	YES	0.690	carcinoma
+18618713	RASSF1A	hyperMeth_CpG	prom	YES	22	APBA2	hyperMeth_CpG	prom	YES	0.500	carcinoma
+16033773	MLH1	hyperMeth_CpG	prom	YES	8	PLEKHC1	hyperMeth_CpG	prom	YES	1.000	carcinoma
+16033773	MLH1	hyperMeth_CpG	prom	YES	8	SOX7	hyperMeth_CpG	prom	YES	1.000	carcinoma
+16033773	MLH1	hyperMeth_CpG	prom	YES	8	C13orf21	hyperMeth_CpG	prom	YES	1.000	carcinoma
+16033773	MLH1	hyperMeth_CpG	prom	YES	8	FLJ41549	hyperMeth_CpG	prom	YES	1.000	carcinoma
+16033773	MLH1	hyperMeth_CpG	prom	YES	8	PAPLN	hyperMeth_CpG	prom	YES	1.000	carcinoma
+16033773	MLH1	hyperMeth_CpG	prom	YES	8	ADAMTS19	hyperMeth_CpG	prom	YES	0.875	carcinoma
+16033773	MLH1	hyperMeth_CpG	prom	YES	8	FLJ37464	hyperMeth_CpG	prom	YES	1.000	carcinoma
+16033773	MLH1	hyperMeth_CpG	prom	YES	8	LRRC4	hyperMeth_CpG	prom	YES	1.000	carcinoma
+16033773	MLH1	hyperMeth_CpG	prom	YES	8	NPHS2	hyperMeth_CpG	prom	YES	1.000	carcinoma
+16033773	MLH1	hyperMeth_CpG	prom	YES	8	BMP3	hyperMeth_CpG	prom	YES	1.000	carcinoma
+16033773	MLH1	hyperMeth_CpG	prom	YES	8	MED12L	hyperMeth_CpG	prom	YES	1.000	carcinoma
+16033773	MLH1	hyperMeth_CpG	prom	YES	8	SLC30A10	hyperMeth_CpG	prom	YES	0.875	carcinoma
+16033773	MLH1	hyperMeth_CpG	prom	YES	8	EVL	hyperMeth_CpG	prom	YES	1.000	carcinoma
+16033773	MLH1	hyperMeth_CpG	prom	YES	6	DPYSL3	hyperMeth_CpG	prom	YES	0.833	carcinoma
+16033773	MLH1	hyperMeth_CpG	prom	YES	8	LYPD1	hyperMeth_CpG	prom	YES	0.750	carcinoma
+16033773	MLH1	hyperMeth_CpG	prom	YES	7	KCNK13	hyperMeth_CpG	prom	YES	1.000	carcinoma
+16033773	MLH1	hyperMeth_CpG	prom	YES	8	NELL2	hyperMeth_CpG	prom	YES	1.000	carcinoma
+16033773	MLH1	hyperMeth_CpG	prom	YES	8	SLC30A3	hyperMeth_CpG	prom	YES	0.875	carcinoma
+16033773	MLH1	hyperMeth_CpG	prom	YES	4	GDF7	hyperMeth_CpG	prom	YES	1.000	carcinoma
+16033773	MLH1	hyperMeth_CpG	prom	YES	8	NRG2	hyperMeth_CpG	prom	YES	0.875	carcinoma
+16033773	MLH1	hyperMeth_CpG	prom	YES	8	CLGN	hyperMeth_CpG	prom	YES	1.000	carcinoma
+16033773	MLH1	hyperMeth_CpG	prom	YES	8	CBS	hyperMeth_CpG	prom	YES	1.000	carcinoma
+16033773	MLH1	hyperMeth_CpG	prom	YES	8	KIT	hyperMeth_CpG	prom	YES	1.000	carcinoma
+16033773	MLH1	hyperMeth_CpG	prom	YES	8	FBXL7	hyperMeth_CpG	prom	YES	0.750	carcinoma
+16033773	MLH1	hyperMeth_CpG	prom	YES	8	ST3GAL1	hyperMeth_CpG	prom	YES	0.625	carcinoma
+16033773	MLH1	hyperMeth_CpG	prom	YES	8	TCF7L1	hyperMeth_CpG	prom	YES	1.000	carcinoma
+16033773	MLH1	hyperMeth_CpG	prom	YES	8	LOC283887	hyperMeth_CpG	prom	YES	1.000	carcinoma
+16033773	MLH1	hyperMeth_CpG	prom	YES	7	IMAGE5728979	hyperMeth_CpG	prom	YES	1.000	carcinoma
+15760919	MLH1	hyperMeth_CpG	prom	YES	19	CHFR	hyperMeth_CpG	cpgisland	YES	0.680	carcinoma
+11062168	CDKN2A:p14	hyperMeth_CpG	prom	YES	22	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.500	carcinoma
+12612901	TP53	mutation	any	YES	44	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.070	carcinoma
+16675157	CDKN2A:p16	gene_expression		YES	32	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.188	carcinoma
+16675157	TP53	gene_expression		YES	44	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.432	carcinoma
+16675157	CDKN2A:p16	gene_expression		YES	32	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.719	carcinoma
+16675157	CDKN2A:p16	gene_expression		YES	32	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.344	carcinoma
+16675157	TP53	gene_expression		YES	44	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.455	carcinoma
+16675157	TP53	gene_expression		YES	44	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.727	carcinoma
+16675157	CDKN2A:p16	gene_expression		YES	32	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.187	carcinoma
+16675157	TP53	gene_expression		YES	44	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.432	carcinoma
+16850502	CDKN1A	gene_expression		VERY_LOW	229	CACNA1G	hyperMeth_CpG	prom	YES	0.127	carcinoma
+16850502	CDKN1A	gene_expression		VERY_LOW	229	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.122	carcinoma
+16850502	CDKN1A	gene_expression		VERY_LOW	229	CRABP1	hyperMeth_CpG	prom	YES	0.074	carcinoma
+16850502	CDKN1A	gene_expression		VERY_LOW	229	MLH1	hyperMeth_CpG	prom	YES	0.052	carcinoma
+16850502	CDKN1A	gene_expression		VERY_LOW	229	NEUROG1	hyperMeth_CpG	prom	YES	0.131	carcinoma
+16850502	CDKN1A	gene_expression		LOW	83	CACNA1G	hyperMeth_CpG	prom	YES	0.120	carcinoma
+16850502	CDKN1A	gene_expression		LOW	83	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.060	carcinoma
+16850502	CDKN1A	gene_expression		LOW	83	CRABP1	hyperMeth_CpG	prom	YES	0.060	carcinoma
+16850502	CDKN1A	gene_expression		LOW	83	MLH1	hyperMeth_CpG	prom	YES	0.217	carcinoma
+16850502	CDKN1A	gene_expression		LOW	83	NEUROG1	hyperMeth_CpG	prom	YES	0.350	carcinoma
+17339237	MGMT	gene_expression		YES	357	MGMT	hyperMeth_CpG	prom	YES	0.120	carcinoma
+17339237	MLH1	hyperMeth_CpG	prom	YES	115	MGMT	hyperMeth_CpG	prom	YES	0.490	carcinoma
+17339237	BRAF	mutation	exon15 cod600 V->E	YES	116	MGMT	hyperMeth_CpG	prom	YES	0.390	carcinoma
+16436636	MLH1	gene_expression		YES	101	MLH1	hyperMeth_CpG	prom	YES	0.059	carcinoma
+16436636	MLH1	gene_expression		YES	101	MGMT	hyperMeth_CpG	prom	YES	0.456	carcinoma
+16436636	MGMT	gene_expression		YES	73	MLH1	hyperMeth_CpG	prom	YES	0.164	carcinoma
+16436636	MGMT	gene_expression		YES	73	MGMT	hyperMeth_CpG	prom	YES	0.274	carcinoma
+16436636	MLH1	hyperMeth_CpG	prom	YES	13	MGMT	hyperMeth_CpG	prom	YES	0.154	carcinoma
+16174854	KRAS	mutation	G->A	YES	13	MGMT	hyperMeth_CpG	prom	YES	0.769	carcinoma
+16174854	KRAS	mutation	non G->A	YES	24	MGMT	hyperMeth_CpG	prom	YES	0.500	carcinoma
+16174854	TP53	mutation	G->A	YES	11	MGMT	hyperMeth_CpG	prom	YES	0.182	carcinoma
+16174854	TP53	mutation	nonG->A	YES	11	MGMT	hyperMeth_CpG	prom	YES	0.455	carcinoma
+10811111	KRAS	mutation	G->A	YES	39	MGMT	hyperMeth_CpG	prom	YES	0.692	carcinoma
+10029064	MGMT	gene_expression		YES	6	MGMT	hyperMeth_CpG	prom	YES	0.167	carcinoma
+15326380	APC	LOH	5q	YES	11	APC	hyperMeth_CpG	prom	YES	0.363	carcinoma
+15326380	APC	LOH	5q	YES	11	APC	hyperMeth_CpG	prom	YES	0.363	carcinoma
+15326380	APC	combined	- LOH_5q YES / APC gene_expression NO	YES	8	APC	hyperMeth_CpG	prom	YES	0.500	carcinoma
+10969779	APC	mutation	any	YES	47	APC	hyperMeth_CpG	prom	YES	0.060	carcinoma
+10969779	CTNNBIP1	mutation	any	YES	7	APC	hyperMeth_CpG	prom	YES	0.140	carcinoma
+12370819	RASSF1A	hyperMeth_CpG	prom	YES	13	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.154	carcinoma
+10644993	STK11	LOH	19p	YES	13	STK11	hyperMeth_CpG	prom	YES	0.077	carcinoma
+14695142	TP53	mutation	any	YES	21	HRK	hyperMeth_CpG	cpgisland	YES	0.050	carcinoma
+11932355	HIC1	hyperMeth_CpG	prom	YES	20	HIC1	hyperMeth_CpG	prom	VERY_HIGH	0.250	carcinoma
+11932355	HIC1	hyperMeth_CpG	prom	YES	20	HIC1	hyperMeth_CpG	prom	HIGH	0.350	carcinoma
+11932355	HIC1	hyperMeth_CpG	prom	YES	20	HIC1	hyperMeth_CpG	prom	LOW	0.350	carcinoma
+11932355	HIC1	hyperMeth_CpG	prom	YES	20	HIC1	hyperMeth_CpG	prom	VERY_LOW	0.050	carcinoma
+11932355	MLH1	hyperMeth_CpG	prom	YES	7	MLH1	hyperMeth_CpG	prom	VERY_HIGH	0.286	carcinoma
+11932355	MLH1	hyperMeth_CpG	prom	YES	7	MLH1	hyperMeth_CpG	prom	HIGH	0.286	carcinoma
+11932355	MLH1	hyperMeth_CpG	prom	YES	7	MLH1	hyperMeth_CpG	prom	LOW	0.429	carcinoma
+17260021	CDKN2A:p16	hyperMeth_CpG	prom	YES	34	MCC	hyperMeth_CpG	prom	YES	0.794	carcinoma
+17260021	MLH1	gene_expression		YES	18	MCC	hyperMeth_CpG	prom	YES	0.722	carcinoma
+17260021	APC	hyperMeth_CpG	prom	YES	21	MCC	hyperMeth_CpG	prom	YES	0.524	carcinoma
+17260021	BRAF	mutation	exon15 cod600 V->E	YES	17	MCC	hyperMeth_CpG	prom	YES	1.000	carcinoma
+17260021	KRAS	mutation	cod12,13	YES	26	MCC	hyperMeth_CpG	prom	YES	0.346	carcinoma
+15059896	MLH1	hyperMeth_CpG	prom	YES	18	PTPRO	hyperMeth_CpG	prom	YES	0.833	carcinoma
+10646864	TP53	mutation	any	YES	55	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.220	carcinoma
+10646864	CDKN2A:p16	hyperMeth_CpG	prom	YES	41	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.366	carcinoma
+10646864	CDKN2A:p16	hyperMeth_CpG	prom	YES	41	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.366	carcinoma
+10646864	KRAS	mutation	any	YES	43	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.350	carcinoma
+18240147	MGMT	gene_expression		NORMAL	90	MGMT	hyperMeth_CpG	prom	VERY_HIGH	0.090	carcinoma
+18240147	MGMT	gene_expression		NORMAL	90	MGMT	hyperMeth_CpG	prom	PARTIAL	0.230	carcinoma
+18240147	MGMT	gene_expression		NORMAL	90	MGMT	hyperMeth_CpG	prom	YES	0.320	carcinoma
+18240147	MGMT	gene_expression		DOWN	6	MGMT	hyperMeth_CpG	prom	VERY_HIGH	0.330	carcinoma
+18240147	MGMT	gene_expression		DOWN	6	MGMT	hyperMeth_CpG	prom	PARTIAL	0.170	carcinoma
+18240147	MGMT	gene_expression		DOWN	6	MGMT	hyperMeth_CpG	prom	YES	0.500	carcinoma
+18240147	KRAS	mutation	G->A	YES	57	MGMT	hyperMeth_CpG	prom	VERY_HIGH	0.400	carcinoma
+18240147	KRAS	mutation	non G->A	YES	19	MGMT	hyperMeth_CpG	prom	VERY_HIGH	0.140	carcinoma
+18240147	KRAS	mutation	G->A	YES	57	MGMT	hyperMeth_CpG	prom	PARTIAL	0.220	carcinoma
+18240147	KRAS	mutation	non G->A	YES	19	MGMT	hyperMeth_CpG	prom	PARTIAL	0.070	carcinoma
+18240147	KRAS	mutation	G->A	YES	57	MGMT	hyperMeth_CpG	prom	YES	0.810	carcinoma
+18240147	KRAS	mutation	non G->A	YES	19	MGMT	hyperMeth_CpG	prom	YES	0.940	carcinoma
+11904375	MLH1	hyperMeth_CpG	prom	YES	26	HLTF	hyperMeth_CpG	prom	YES	0.769	carcinoma
+11932355	TERT	gene_expression		YES	21	HIC1	hyperMeth_CpG	prom	YES	0.857	carcinoma
+11992124	SFRP1	hyperMeth_CpG	prom	YES	118	SFRP2	hyperMeth_CpG	prom	YES	0.910	carcinoma
+11992124	SFRP1	hyperMeth_CpG	prom	YES	118	SFRP5	hyperMeth_CpG	prom	YES	0.580	carcinoma
+11992124	SFRP1	hyperMeth_CpG	prom	YES	118	SFRP4	hyperMeth_CpG	prom	YES	0.310	carcinoma
+11992124	SFRP2	hyperMeth_CpG	prom	YES	111	SFRP1	hyperMeth_CpG	prom	YES	0.960	carcinoma
+11992124	SFRP2	hyperMeth_CpG	prom	YES	111	SFRP5	hyperMeth_CpG	prom	YES	0.610	carcinoma
+11992124	SFRP2	hyperMeth_CpG	prom	YES	111	SFRP4	hyperMeth_CpG	prom	YES	0.333	carcinoma
+14734469	KRAS	mutation	any	YES	30	MLH1	hyperMeth_CpG	prom	YES	1.000	carcinoma
+18086775	BRAF	mutation	exon15 cod600 V->E	YES	15	BMP3	hyperMeth_CpG	prom	YES	1.000	carcinoma
+18086775	BRAF	mutation	exon15 cod600 V->E	YES	15	EYA2	hyperMeth_CpG		YES	1.000	carcinoma
+18086775	BRAF	mutation	exon15 cod600 V->E	YES	15	ALX4	hyperMeth_CpG	cpgisland	YES	1.000	carcinoma
+18086775	BRAF	mutation	exon15 cod600 V->E	YES	15	VIM	hyperMeth_CpG	exon1	YES	1.000	carcinoma
+18086775	BMP3	hyperMeth_CpG	prom	YES	41	EYA2	hyperMeth_CpG		YES	0.756	carcinoma
+18086775	BMP3	hyperMeth_CpG	prom	YES	41	ALX4	hyperMeth_CpG	cpgisland	YES	0.878	carcinoma
+18086775	BMP3	hyperMeth_CpG	prom	YES	41	VIM	hyperMeth_CpG	exon1	YES	0.900	carcinoma
+19242752	UNC5C	hyperMeth_CpG		YES	34	DCC	hyperMeth_CpG		YES	0.620	carcinoma
+19242752	DCC	hyperMeth_CpG		YES	28	UNC5C	hyperMeth_CpG		YES	0.750	carcinoma
+16675157	CDKN2A:p14	hyperMeth_CpG	prom	YES	33	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.303	carcinoma
+16675157	CDKN2A:p14	hyperMeth_CpG	prom	YES	33	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.303	carcinoma
+16675157	CDKN2A:p16	hyperMeth_CpG	prom	YES	21	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.476	carcinoma
+16675157	CDKN2A:p16	hyperMeth_CpG	prom	YES	21	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.476	carcinoma
+12615722	ROBO1	hyperMeth_CpG	prom	YES	6	SLIT2	hyperMeth_CpG	prom	YES	0.500	carcinoma
+12615722	ROBO1	hyperMeth_CpG	prom	YES	6	SLIT2	hyperMeth_CpG	prom	YES	0.500	carcinoma
+12615722	RASSF1A	hyperMeth_CpG	prom	YES	13	SLIT2	hyperMeth_CpG	prom	YES	0.615	carcinoma
+12615722	RASSF1A	hyperMeth_CpG	prom	YES	13	SLIT2	hyperMeth_CpG	prom	YES	0.615	carcinoma
+12615722	CDKN2A:p16	hyperMeth_CpG	prom	YES	6	SLIT2	hyperMeth_CpG	prom	YES	0.833	carcinoma
+12615722	KRAS	mutation	any	YES	10	SLIT2	hyperMeth_CpG	prom	YES	0.600	carcinoma
+12615722	KRAS	mutation	any	YES	10	SLIT2	hyperMeth_CpG	prom	YES	0.600	carcinoma
+19117505	CRABP1	hyperMeth_CpG	prom	YES	25	NR3C1	hyperMeth_CpG	prom	YES	0.480	carcinoma
+19117505	CRABP1	hyperMeth_CpG	prom	YES	25	RUNX3	hyperMeth_CpG	prom	YES	0.640	carcinoma
+19117505	CRABP1	hyperMeth_CpG	prom	YES	25	MLH1	hyperMeth_CpG	prom	YES	0.440	carcinoma
+19117505	CRABP1	hyperMeth_CpG	prom	YES	25	HIN1	hyperMeth_CpG	cpgisland	YES	0.320	carcinoma
+19117505	CRABP1	hyperMeth_CpG	prom	YES	25	MGMT	hyperMeth_CpG	prom	YES	0.480	carcinoma
+19117505	CRABP1	hyperMeth_CpG	prom	YES	25	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.440	carcinoma
+19117505	MAL	hyperMeth_CpG	prom	YES	40	ADAMTS1	hyperMeth_CpG	prom	YES	0.800	carcinoma
+19117505	MAL	hyperMeth_CpG	prom	YES	40	HOXA9	hyperMeth_CpG	cpgisland	YES	0.200	carcinoma
+19117505	MAL	hyperMeth_CpG	prom	YES	40	MGMT	hyperMeth_CpG	prom	YES	0.475	carcinoma
+19117505	RUNX3	hyperMeth_CpG	prom	YES	16	CRABP1	hyperMeth_CpG	prom	YES	1.000	carcinoma
+19117505	RUNX3	hyperMeth_CpG	prom	YES	16	HIN1	hyperMeth_CpG	cpgisland	YES	0.500	carcinoma
+19117505	RUNX3	hyperMeth_CpG	prom	YES	16	NR3C1	hyperMeth_CpG	prom	YES	0.688	carcinoma
+19117505	RUNX3	hyperMeth_CpG	prom	YES	16	MLH1	hyperMeth_CpG	prom	YES	0.563	carcinoma
+16981189	MLH1	hyperMeth_CpG	prom	YES	16	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.750	carcinoma
+16981189	MLH1	hyperMeth_CpG	prom	YES	16	TIMP3	hyperMeth_CpG	prom	YES	0.690	carcinoma
+16981189	MLH1	hyperMeth_CpG	prom	YES	16	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.562	carcinoma
+16981189	MLH1	hyperMeth_CpG	prom	YES	16	APC	hyperMeth_CpG	prom	YES	0.250	carcinoma
+16981189	CDKN2A:p16	hyperMeth_CpG	prom	YES	45	TIMP3	hyperMeth_CpG	prom	YES	0.490	carcinoma
+16981189	CDKN2A:p16	hyperMeth_CpG	prom	YES	45	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.422	carcinoma
+16981189	CDKN2A:p16	hyperMeth_CpG	prom	YES	45	DAPK1	hyperMeth_CpG	prom	YES	0.066	carcinoma
+16981189	CDKN2A:p16	hyperMeth_CpG	prom	YES	45	APC	hyperMeth_CpG	prom	YES	0.244	carcinoma
+16981189	TIMP3	hyperMeth_CpG	prom	YES	40	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.325	carcinoma
+16981189	TIMP3	hyperMeth_CpG	prom	YES	40	DAPK1	hyperMeth_CpG	prom	YES	0.100	carcinoma
+16981189	TIMP3	hyperMeth_CpG	prom	YES	40	APC	hyperMeth_CpG	prom	YES	0.125	carcinoma
+16981189	CDKN2A:p14	hyperMeth_CpG	prom	YES	21	DAPK1	hyperMeth_CpG	prom	YES	0.047	carcinoma
+16981189	CDKN2A:p14	hyperMeth_CpG	prom	YES	21	APC	hyperMeth_CpG	prom	YES	0.140	carcinoma
+16981189	DAPK1	hyperMeth_CpG	prom	YES	16	APC	hyperMeth_CpG	prom	YES	0.188	carcinoma
+21352815	NDRG2	gene_expression		YES	27	NDRG2	hyperMeth_CpG	prom	YES	0.260	carcinoma
+16475679	CDKN2A:p16	hyperMeth_CpG	prom	YES	34	RUNX3	hyperMeth_CpG	prom	YES	0.382	carcinoma
+16475679	CDKN2A:p16	hyperMeth_CpG	prom	YES	34	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.382	carcinoma
+20340131	CADM1	gene_expression		YES	15	CADM1	hyperMeth_CpG		YES	0.200	carcinoma
+21225432	TP53	gene_expression		LOW	30	MIR34A	hyperMeth_CpG		YES	0.870	carcinoma
+21225432	TP53	gene_expression		HIGH	76	MIR34A	hyperMeth_CpG		YES	0.700	carcinoma
+16708352	MGMT	hyperMeth_CpG	prom	YES	46	HLTF	hyperMeth_CpG	prom	YES	0.326	carcinoma
+16708352	CDKN2A:p16	hyperMeth_CpG	prom	YES	40	HLTF	hyperMeth_CpG	prom	YES	0.400	carcinoma
+16708352	MLH1	hyperMeth_CpG	prom	YES	5	HLTF	hyperMeth_CpG	prom	YES	0.600	carcinoma
+16708352	MGMT	hyperMeth_CpG	prom	YES	46	TIMP3	hyperMeth_CpG	prom	YES	0.217	carcinoma
+16708352	CDKN2A:p16	hyperMeth_CpG	prom	YES	40	TIMP3	hyperMeth_CpG	prom	YES	0.325	carcinoma
+16708352	MGMT	hyperMeth_CpG	prom	YES	46	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.543	carcinoma
+21140203	BRAF	mutation	any	YES	703	MGMT	hyperMeth_CpG	prom	YES	0.382	carcinoma
+21140203	KRAS	mutation	any	YES	306	MGMT	hyperMeth_CpG	prom	YES	0.372	carcinoma
+21140203	PIK3CA	mutation	any	YES	117	MGMT	hyperMeth_CpG	prom	YES	0.372	carcinoma
+21140203	TP53	gene_expression		YES	362	MGMT	hyperMeth_CpG	prom	YES	0.370	carcinoma
+20473920	KRAS	mutation	cod12,13	YES	326	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.255	carcinoma
+20473920	BRAF	mutation	exon15 cod600 V->E	YES	113	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.779	carcinoma
+20473920	PIK3CA	mutation	exon9,20 cod545,1047,1049	YES	120	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.350	carcinoma
+20473920	TP53	gene_expression		YES	385	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.390	carcinoma
+20473920	CDKN1A	gene_expression		YES	161	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.485	carcinoma
+20473920	CDKN1B	gene_expression		YES	626	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.270	carcinoma
+20473920	CCND1	gene_expression		YES	610	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.307	carcinoma
+20473920	CTNNB1	activation	beta-catenin activation	LOW	498	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.377	carcinoma
+20473920	CTNNB1	activation	beta-catenin activation	HIGH	278	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.183	carcinoma
+20473920	PTGS2	gene_expression		YES	744	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.273	carcinoma
+20473920	MARCO	gene_expression		YES	102	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.343	carcinoma
+21304055	MLH1	hyperMeth_CpG	prom	YES	52	DKK1	hyperMeth_CpG	prom	YES	0.730	carcinoma
+21304055	MLH1	hyperMeth_CpG	prom	YES	7	SFRP1	hyperMeth_CpG	prom	HIGH	0.857	carcinoma
+21304055	BRAF	mutation	exon15 cod600 V->E	YES	63	DKK1	hyperMeth_CpG	prom	YES	0.587	carcinoma
+21304055	BRAF	mutation	exon15 cod600 V->E	YES	10	SFRP1	hyperMeth_CpG	prom	HIGH	0.900	carcinoma
+21304055	MLH1	hyperMeth_CpG	prom	YES	19	DKK1	hyperMeth_CpG	prom	YES	0.895	carcinoma
+21304055	MLH1	hyperMeth_CpG	prom	YES	1	SFRP1	hyperMeth_CpG	prom	HIGH	1.000	carcinoma
+21304055	BRAF	mutation	exon15 cod600 V->E	YES	77	DKK1	hyperMeth_CpG	prom	YES	0.753	carcinoma
+21304055	BRAF	mutation	exon15 cod600 V->E	YES	16	SFRP1	hyperMeth_CpG	prom	HIGH	0.875	carcinoma
+21304055	MLH1	hyperMeth_CpG	prom	YES	19	SFRP1	hyperMeth_CpG	prom	LOW	0.947	carcinoma
+21304055	MLH1	hyperMeth_CpG	prom	YES	19	SFRP1	hyperMeth_CpG	prom	HIGH	0.053	carcinoma
+21304055	BRAF	mutation	exon15 cod600 V->E	YES	77	SFRP1	hyperMeth_CpG	prom	LOW	0.792	carcinoma
+21304055	BRAF	mutation	exon15 cod600 V->E	YES	77	SFRP1	hyperMeth_CpG	prom	HIGH	0.182	carcinoma
+21304055	MLH1	hyperMeth_CpG	prom	YES	52	SFRP1	hyperMeth_CpG	prom	LOW	0.865	carcinoma
+21304055	MLH1	hyperMeth_CpG	prom	YES	52	SFRP1	hyperMeth_CpG	prom	HIGH	0.115	carcinoma
+21304055	BRAF	mutation	exon15 cod600 V->E	YES	63	SFRP1	hyperMeth_CpG	prom	LOW	0.841	carcinoma
+21304055	BRAF	mutation	exon15 cod600 V->E	YES	63	SFRP1	hyperMeth_CpG	prom	HIGH	0.143	carcinoma
+16773493	MLH1	gene_expression		YES	24	LAMC2	hyperMeth_CpG	prom	YES	0.130	carcinoma
+15273736	RUNX3	gene_expression		LOW	5	RUNX3	hyperMeth_CpG	prom	YES	0.400	CRC
+12473596	PIK3CG	gene_expression		DOWN	4	PIK3CG	hyperMeth_CpG		YES	1.000	CRC
+20340131	CADM1	gene_expression		DOWN	4	CADM1	hyperMeth_CpG		PARTIAL	1.000	CRC
+10811111	KRAS	mutation	G->A	YES	51	MGMT	hyperMeth_CpG	prom	YES	0.710	CRC
+10811111	KRAS	mutation	non G->A	YES	37	MGMT	hyperMeth_CpG	prom	YES	0.320	CRC
+10811111	KRAS	mutation	cod12	YES	42	MGMT	hyperMeth_CpG	prom	YES	0.690	CRC
+10811111	KRAS	mutation	cod13	YES	9	MGMT	hyperMeth_CpG	prom	YES	0.780	CRC
+11406538	TP53	mutation	any	YES	135	MGMT	hyperMeth_CpG	prom	YES	0.450	CRC
+11406538	TP53	mutation	G->C,A->T	YES	81	MGMT	hyperMeth_CpG	prom	YES	0.530	CRC
+11406538	TP53	mutation	nonG->C,nonA ->T	YES	54	MGMT	hyperMeth_CpG	prom	YES	0.330	CRC
+11406538	TP53	mutation	G->C,A->T nonCpGtransition	YES	17	MGMT	hyperMeth_CpG	prom	YES	0.710	CRC
+11406538	TP53	mutation	G->C,A ->T CpGtransition	YES	64	MGMT	hyperMeth_CpG	prom	YES	0.480	CRC
+12032847	KRAS	mutation	cod12,13	YES	87	RASSF1A	hyperMeth_CpG	prom	YES	0.126	CRC
+12032847	KRAS	mutation	cod12,13	YES	87	RASSF1A	hyperMeth_CpG	prom	YES	0.126	CRC
+16007128	TP53	mutation	any	YES	34	PTGIS	hyperMeth_CpG	prom	YES	0.647	CRC
+16007128	KRAS	mutation	any	YES	36	PTGIS	hyperMeth_CpG	prom	YES	0.417	CRC
+15800999	KRAS	mutation	G->A	YES	19	MGMT	hyperMeth_CpG	prom	YES	0.684	CRC
+11062168	CDKN2A:p16	hyperMeth_CpG	prom	YES	22	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.500	CRC
+10811111	KRAS	mutation	any	YES	88	MGMT	hyperMeth_CpG	prom	YES	0.550	CRC
+18977219	APC	LOH	5q	YES	32	APC	hyperMeth_CpG	prom	YES	0.281	CRC
+18977219	APC	mutation	any	YES	63	APC	hyperMeth_CpG	prom	YES	0.301	CRC
+18977219	APC	mutation	any	YES	112	APC	hyperMeth_CpG	prom	YES	0.366	CRC
+16015629	MLH1	hyperMeth_CpG	prom	TOTAL	6	MLH1	gene_expression		YES	0.333	carcinoma
+16015629	MLH1	hyperMeth_CpG	prom	PARTIAL	6	MLH1	gene_expression		YES	0.800	carcinoma
+16015629	MLH1	hyperMeth_CpG	prom	TOTAL	5	KRAS	mutation	any	YES	0.600	carcinoma
+16015629	MLH1	hyperMeth_CpG	prom	PARTIAL	6	KRAS	mutation	any	YES	0.500	carcinoma
+16007118	MLH1	mutation	any	YES	9	KRAS	mutation	any	YES	0.222	carcinoma
+16007118	MSH2	mutation	any	YES	11	KRAS	mutation	any	YES	0.545	carcinoma
+16007118	MSH2	mutation	any	YES	11	KRAS	mutation	any	YES	0.545	carcinoma
+15294875	MSH2	mutation	any	YES	61	KRAS	mutation	any	YES	0.480	carcinoma
+15294875	MSH6	mutation	any	YES	6	KRAS	mutation	any	YES	0.830	carcinoma
+15294875	MLH1	mutation	any	YES	91	KRAS	mutation	any	YES	0.320	carcinoma
+15294875	KRAS	mutation	any	YES	63	KRAS	mutation	cod12	YES	0.490	carcinoma
+15294875	KRAS	mutation	any	YES	63	KRAS	mutation	cod13	YES	0.510	carcinoma
+15294875	KRAS	mutation	any	YES	63	KRAS	mutation	G->T	YES	0.060	carcinoma
+15294875	KRAS	mutation	any	YES	63	KRAS	mutation	G->C	YES	0.130	carcinoma
+15294875	KRAS	mutation	any	YES	63	KRAS	mutation	G->A	YES	0.810	carcinoma
+15294875	KRAS	mutation	any	YES	63	KRAS	mutation	cod12 val	YES	0.060	carcinoma
+15294875	KRAS	mutation	any	YES	63	KRAS	mutation	cod12 ala	YES	0.130	carcinoma
+15294875	KRAS	mutation	any	YES	63	KRAS	mutation	cod12,13	YES	0.810	carcinoma
+18618713	MLH1	hyperMeth_CpG	prom	YES	19	MLH1	gene_expression		YES	0.390	carcinoma
+18618713	MLH1	hyperMeth_CpG	prom	YES	19	MLH1	mutation	any	YES	0.560	carcinoma
+16551850	MSH2	gene_expression		YES	38	PTGS2	gene_expression		UP	0.420	carcinoma
+16551850	MLH1	gene_expression		YES	9	PTGS2	gene_expression		UP	0.780	carcinoma
+15526363	CDH13	hyperMeth_CpG	prom	HET	28	CDH13	gene_expression		YES	0.500	carcinoma
+15526363	CDH13	hyperMeth_CpG	prom	YES	8	CDH13	gene_expression		YES	0.380	carcinoma
+15526363	CCNA1	hyperMeth_CpG	prom	HET	53	CDKN2B	gene_expression		YES	0.700	carcinoma
+15526363	CCNA1	hyperMeth_CpG	prom	YES	5	CDKN2B	gene_expression		YES	0.800	carcinoma
+15526363	RARB	hyperMeth_CpG	prom RARB2	HET	28	RARB	gene_expression	adult	YES	0.790	carcinoma
+15526363	RARB	hyperMeth_CpG	prom RARB2	YES	20	RARB	gene_expression	adult	YES	0.850	carcinoma
+15526363	TP73	hyperMeth_CpG	cpgisland	HET	35	TP73	gene_expression		YES	0.540	carcinoma
+15526363	MGMT	hyperMeth_CpG	prom	HET	8	MGMT	gene_expression		YES	0.250	carcinoma
+15526363	MGMT	hyperMeth_CpG	prom	YES	4	MGMT	gene_expression		YES	0.500	carcinoma
+15526363	MLH1	hyperMeth_CpG	prom	HET	11	MLH1	gene_expression		YES	0.360	carcinoma
+15526363	CDKN2A:p14	hyperMeth_CpG	prom	HET	2	CDKN2A:P14	gene_expression		YES	1.000	carcinoma
+11870540	MLH1	gene_expression		YES	54	MLH1	LOH		YES	0.296	carcinoma
+16850502	CDKN1A	gene_expression		VERY_LOW	213	KRAS	mutation	any	YES	0.380	carcinoma
+16850502	CDKN1A	gene_expression		VERY_LOW	213	BRAF	mutation	any	YES	0.180	carcinoma
+16850502	CDKN1A	gene_expression		LOW	81	KRAS	mutation	any	YES	0.300	carcinoma
+16850502	CDKN1A	gene_expression		LOW	81	BRAF	mutation	any	YES	0.420	carcinoma
+16850502	CDKN1A	gene_expression		VERY_LOW	228	TP53	gene_expression		YES	0.350	carcinoma
+16850502	CDKN1A	gene_expression		LOW	84	TP53	gene_expression		YES	0.140	carcinoma
+16850502	TP53	gene_expression		YES	303	BRAF	mutation	any	YES	0.100	carcinoma
+17339237	BRAF	mutation	exon15 cod600 V->E	YES	82	MGMT	gene_expression		YES	0.720	carcinoma
+17339237	KRAS	mutation	any	YES	197	MGMT	combined	MGMT +Meth_CpGisland YES / MGMT gene_expression NO	YES	0.330	carcinoma
+17339237	KRAS	mutation	G->A	YES	127	MGMT	combined	MGMT +Meth_CpGisland YES / MGMT gene_expression NO	YES	0.350	carcinoma
+17339237	KRAS	mutation	non G->A	YES	70	MGMT	combined	MGMT +Meth_CpGisland YES / MGMT gene_expression NO	YES	0.290	carcinoma
+12461746	MLH1	hyperMeth_CpG	prom	PARTIAL	26	MLH1	gene_expression		YES	1.000	carcinoma
+12461746	MLH1	hyperMeth_CpG	prom	PARTIAL	9	MLH1	LOH		YES	0.111	carcinoma
+12461746	MLH1	hyperMeth_CpG	prom	PARTIAL	26	KRAS	mutation	any	YES	0.462	carcinoma
+12461746	MLH1	hyperMeth_CpG	prom	PARTIAL	17	TP53	LOH	17p	YES	0.588	carcinoma
+12461746	KRAS	mutation	any	YES	29	KRAS	mutation	cod12	YES	0.760	carcinoma
+16015629	MLH1	hyperMeth_CpG	prom	TOTAL	24	MLH1	gene_expression		YES	0.208	carcinoma
+16015629	MLH1	hyperMeth_CpG	prom	PARTIAL	12	MLH1	gene_expression		YES	0.750	carcinoma
+16015629	MLH1	gene_expression		YES	20	MSH2	gene_expression		YES	0.650	carcinoma
+16015629	MLH1	hyperMeth_CpG	prom	TOTAL	24	BRAF	mutation	exon15 cod600 V->E	YES	0.292	carcinoma
+16015629	MLH1	hyperMeth_CpG	prom	PARTIAL	12	BRAF	mutation	cod587 L->F	YES	0.167	carcinoma
+16015629	MLH1	hyperMeth_CpG	prom	PARTIAL	12	BRAF	mutation	cod602 R->Q	YES	0.083	carcinoma
+16015629	MLH1	hyperMeth_CpG	prom	TOTAL	12	BRAF	mutation	cod466 S->L	YES	0.083	carcinoma
+16015629	MLH1	hyperMeth_CpG	prom	TOTAL	24	KRAS	mutation	any	YES	0.208	carcinoma
+16015629	MLH1	hyperMeth_CpG	prom	PARTIAL	12	KRAS	mutation	any	YES	0.417	carcinoma
+16015629	KRAS	mutation	any	YES	12	KRAS	mutation	cod13	YES	0.500	carcinoma
+16174854	MGMT	hyperMeth_CpG	prom	YES	14	MGMT	gene_expression		YES	0.430	carcinoma
+11221863	MGMT	hyperMeth_CpG	prom	YES	31	MGMT	gene_expression		YES	0.260	carcinoma
+15326380	APC	gene_expression		YES	25	APC	LOH	5q	YES	0.120	carcinoma
+15326380	APC	gene_expression		YES	25	APC	LOH	5q	YES	0.120	carcinoma
+15375009	APC	hyperMeth_CpG	prom	YES	7	APC	gene_expression		VERY_LOW	0.571	carcinoma
+15375009	APC	hyperMeth_CpG	prom	YES	7	APC	gene_expression		LOW	0.286	carcinoma
+10969779	APC	hyperMeth_CpG	prom	YES	14	APC	LOH	5q	YES	0.500	carcinoma
+12782759	KRAS	mutation	cod12	YES	22	KRAS	mutation	cod12 GGT->GTT	YES	0.227	carcinoma
+12782759	KRAS	mutation	cod12	YES	22	KRAS	mutation	cod12 GGT->TGT	YES	0.136	carcinoma
+12782759	KRAS	mutation	cod12	YES	22	KRAS	mutation	cod12 GGT->CGT	YES	0.091	carcinoma
+16918136	BRAF	mutation	any	YES	3	TP53	gene_expression		UP	1.000	carcinoma
+17270239	RUNX3	hyperMeth_CpG	prom	YES	94	TGFBR2	mutation	any	YES	0.820	carcinoma
+17270239	KRAS	mutation	any	YES	27	TGFBR2	mutation	any	YES	0.520	carcinoma
+17270239	BRAF	mutation	any	YES	63	TGFBR2	mutation	any	YES	0.870	carcinoma
+17270239	TP53	gene_expression		YES	27	TGFBR2	mutation	any	YES	0.590	carcinoma
+16575786	DAPK1	hyperMeth_CpG	prom	YES	54	DAPK1	gene_expression		VERY_LOW	1.000	carcinoma
+16575786	DAPK1	hyperMeth_CpG	prom	YES	54	FASLG	gene_expression		VERY_LOW	1.000	carcinoma
+16575786	DAPK1	hyperMeth_CpG	prom	YES	54	FAS	gene_expression		VERY_LOW	1.000	carcinoma
+15126336	PTEN	hyperMeth_CpG	prom	YES	10	PTEN	mutation	(A)6repeat	YES	0.400	carcinoma
+15126336	PTEN	hyperMeth_CpG	prom	YES	10	PTEN	gene_expression		YES	0.700	carcinoma
+15126336	PTEN	hyperMeth_CpG	prom	YES	10	PTEN	gene_expression		VERY_LOW	0.400	carcinoma
+15806169	RASSF2	hyperMeth_CpG	exons1,2	YES	21	KRAS	mutation	cod12,13	YES	0.238	carcinoma
+16723399	WRN	hyperMeth_CpG	prom	YES	8	WRN	gene_expression		YES	0.130	carcinoma
+11932355	TERT	hyperMeth_CpG	cpgisland	TOTAL	6	TERT	gene_expression		YES	0.833	carcinoma
+11932355	TERT	hyperMeth_CpG	cpgisland	PARTIAL	17	TERT	gene_expression		YES	0.941	carcinoma
+16331272	PYCARD	hyperMeth_CpG	prom	YES	4	PYCARD	gene_expression		YES	0.500	carcinoma
+16331272	TP53	mutation	any	YES	3	TP53	mutation	cod175 G->A	YES	0.667	carcinoma
+16331272	TP53	mutation	any	YES	3	TP53	mutation	cod161 G->A	YES	0.333	carcinoma
+16551870	UGT1A1	hyperMeth_CpG	cpgisland	YES	41	UGT1A1	gene_expression		VERY_LOW	1.000	carcinoma
+18240147	KRAS	mutation	any	YES	76	KRAS	mutation	G->A	YES	0.750	carcinoma
+18240147	KRAS	mutation	any	YES	76	KRAS	mutation	non G->A	YES	0.250	carcinoma
+15122305	CDH1	hyperMeth_CpG	prom	YES	16	CDH1	gene_expression		YES	0.187	carcinoma
+15122305	CDH1	hyperMeth_CpG	prom	YES	16	CDH1	gene_expression		YES	0.188	carcinoma
+15122305	MGMT	hyperMeth_CpG	prom	YES	15	MGMT	gene_expression		YES	0.067	carcinoma
+15122305	MGMT	hyperMeth_CpG	prom	YES	15	MGMT	gene_expression		YES	0.067	carcinoma
+14734469	MLH1	hyperMeth_CpG	prom	YES	8	BRAF	mutation	any	YES	0.750	carcinoma
+14734469	BRAF	mutation	any	YES	17	BRAF	mutation	exon15 cod600 V->E	YES	0.940	carcinoma
+14734469	BRAF	mutation	any	YES	17	BRAF	mutation	exon11 cod463 G->V	YES	0.060	carcinoma
+14734469	KRAS	mutation	any	YES	30	BRAF	mutation	any	YES	1.000	carcinoma
+15294875	KRAS	mutation	any	YES	272	KRAS	mutation	cod12	YES	0.830	carcinoma
+15294875	KRAS	mutation	any	YES	272	KRAS	mutation	cod13	YES	0.140	carcinoma
+15294875	KRAS	mutation	any	YES	272	KRAS	mutation	cod61	YES	0.030	carcinoma
+18425817	TSP1	hyperMeth_CpG	prom	YES	20	SMAD2	phospho		YES	0.850	carcinoma
+11171827	CDH1	hyperMeth_CpG	prom	YES	13	CDH1	gene_expression		VERY_LOW	0.620	carcinoma
+11171827	CDH1	hyperMeth_CpG	prom	YES	13	CDH1	gene_expression		LOW	0.080	carcinoma
+11171827	CDH1	hyperMeth_CpG	prom	YES	13	CDH1	gene_expression		HIGH	0.300	carcinoma
+17967459	UNC5C	gene_expression		YES	63	UNC5C	LOH		YES	0.300	carcinoma
+11221863	MGMT	hyperMeth_CpG	prom	YES	26	KRAS	mutation	any	YES	0.654	carcinoma
+12461746	MLH1	hyperMeth_CpG	prom	TOTAL	13	MLH1	gene_expression		YES	0.154	carcinoma
+12461746	KRAS	mutation	any	YES	29	KRAS	mutation	G->A	YES	0.828	carcinoma
+12461746	KRAS	mutation	any	YES	29	KRAS	mutation	G->T	YES	0.138	carcinoma
+12461746	KRAS	mutation	any	YES	29	KRAS	mutation	G->C	YES	0.034	carcinoma
+12461746	KRAS	mutation	any	YES	29	KRAS	mutation	cod12	YES	0.759	carcinoma
+12461746	KRAS	mutation	any	YES	29	KRAS	mutation	cod13	YES	0.241	carcinoma
+18486467	MGMT	hyperMeth_CpG	prom	YES	44	BRAF	mutation	any	YES	0.140	carcinoma
+18486467	MGMT	hyperMeth_CpG	prom	YES	44	KRAS	mutation	any	YES	0.340	carcinoma
+18486467	MGMT	hyperMeth_CpG	prom	YES	44	TP53	mutation	any	YES	0.550	carcinoma
+18486467	KRAS	mutation	any	YES	24	KRAS	mutation	non G->A	YES	0.458	carcinoma
+18486467	MGMT	hyperMeth_CpG	prom	YES	44	KRAS	mutation	non G->A	YES	0.110	carcinoma
+18486467	MGMT	hyperMeth_CpG	prom	YES	44	KRAS	mutation	G->A	YES	0.230	carcinoma
+18486467	MGMT	hyperMeth_CpG	prom	YES	44	TP53	mutation	nonG->A	YES	0.090	carcinoma
+18486467	MGMT	hyperMeth_CpG	prom	YES	44	TP53	mutation	G->A	YES	0.450	carcinoma
+18486467	MGMT	hyperMeth_CpG	prom	YES	44	TP53	mutation	G->C,A ->T CpGtransition	YES	0.140	carcinoma
+18486467	MGMT	hyperMeth_CpG	prom	YES	44	TP53	mutation	G->C,A->T nonCpGtransition	YES	0.320	carcinoma
+19107235	BRAF	mutation	any	YES	95	JCVT	gene_expression		YES	0.330	carcinoma
+19107235	KRAS	mutation	any	YES	276	JCVT	gene_expression		YES	0.360	carcinoma
+19107235	PIK3CA	mutation	any	YES	102	JCVT	gene_expression		YES	0.340	carcinoma
+19107235	TP53	gene_expression		YES	331	JCVT	gene_expression		YES	0.610	carcinoma
+19107235	CDKN1A	gene_expression		YES	130	JCVT	gene_expression		YES	0.210	carcinoma
+19107235	RUNX1	LOH	1p36.1	YES	378	JCVT	gene_expression		YES	0.370	carcinoma
+19107235	CTNNBIP1	gene_expression		YES	241	JCVT	gene_expression		YES	0.440	carcinoma
+19107235	PTGS2	gene_expression		YES	645	JCVT	gene_expression		YES	0.370	carcinoma
+19107235	CACNA1G	hyperMeth_CpG	prom	YES	155	JCVT	gene_expression		YES	0.270	carcinoma
+19107235	CDKN2A:p16	hyperMeth_CpG	prom	YES	213	JCVT	gene_expression		YES	0.360	carcinoma
+19107235	CRABP1	hyperMeth_CpG	prom	YES	227	JCVT	gene_expression		YES	0.310	carcinoma
+19107235	IGF2	hyperMeth_CpG	cpgisland	YES	172	JCVT	gene_expression		YES	0.260	carcinoma
+19107235	MLH1	hyperMeth_CpG	prom	YES	87	JCVT	gene_expression		YES	0.150	carcinoma
+19107235	NEUROG1	hyperMeth_CpG	prom	YES	213	JCVT	gene_expression		YES	0.310	carcinoma
+19107235	RUNX3	hyperMeth_CpG	prom	YES	144	JCVT	gene_expression		YES	0.250	carcinoma
+19107235	SOCS1	hyperMeth_CpG	prom	YES	125	JCVT	gene_expression		YES	0.240	carcinoma
+19107235	CHFR	hyperMeth_CpG	cpgisland	YES	309	JCVT	gene_expression		YES	0.350	carcinoma
+19107235	HIC1	hyperMeth_CpG	prom	YES	378	JCVT	gene_expression		YES	0.330	carcinoma
+19107235	IGFBP3	hyperMeth_CpG	prom	YES	194	JCVT	gene_expression		YES	0.370	carcinoma
+19107235	MGMT	hyperMeth_CpG	prom	YES	274	JCVT	gene_expression		YES	0.350	carcinoma
+19107235	APBA1	hyperMeth_CpG	prom	YES	255	JCVT	gene_expression		YES	0.330	carcinoma
+19107235	APBA3	hyperMeth_CpG	prom	YES	237	JCVT	gene_expression		YES	0.290	carcinoma
+19107235	CDKN2A:p14	hyperMeth_CpG	prom	YES	150	JCVT	gene_expression		YES	0.250	carcinoma
+19107235	WRN	hyperMeth_CpG	prom	YES	267	JCVT	gene_expression		YES	0.310	carcinoma
+19183329	SMAD4	gene_expression		YES	79	TGFBR2	mutation	(A)10repeat	YES	0.228	carcinoma
+19183329	SMAD4	gene_expression		YES	31	SMAD4	LOH	18q	YES	0.450	carcinoma
+17289018	SMAD4	gene_expression		YES	14	TGFBR1	gene_expression		YES	0.714	carcinoma
+17289018	SMAD4	gene_expression		YES	14	TGFBR2	gene_expression		YES	0.643	carcinoma
+17289018	TGFBR1	gene_expression		YES	27	TGFBR2	gene_expression		YES	0.148	carcinoma
+16381005	MLH1	hyperMeth_CpG	prom	YES	12	BRAF	mutation	exon15 cod600 V->E	YES	0.830	carcinoma
+16381005	CDKN2A:p16	hyperMeth_CpG	prom	YES	21	BRAF	mutation	exon15 cod600 V->E	YES	0.520	carcinoma
+16381005	HIC1	hyperMeth_CpG	prom	YES	27	BRAF	mutation	exon15 cod600 V->E	YES	0.330	carcinoma
+16381005	RASSF2	hyperMeth_CpG	exons1,2	YES	39	BRAF	mutation	exon15 cod600 V->E	YES	0.330	carcinoma
+16381005	ID4	hyperMeth_CpG		YES	22	BRAF	mutation	exon15 cod600 V->E	YES	0.410	carcinoma
+16381005	APBA1	hyperMeth_CpG	prom	YES	25	BRAF	mutation	exon15 cod600 V->E	YES	0.480	carcinoma
+16381005	APBA3	hyperMeth_CpG	prom	YES	31	BRAF	mutation	exon15 cod600 V->E	YES	0.350	carcinoma
+12782759	KRAS	mutation	cod12	YES	22	KRAS	mutation	cod12 GGT->GAT	YES	0.410	carcinoma
+18451217	APC	hyperMeth_CpG	prom	YES	64	TP53	mutation	any	YES	0.688	carcinoma
+18451217	MGMT	hyperMeth_CpG	prom	YES	57	MGMT	gene_expression		YES	0.368	carcinoma
+18451217	MLH1	hyperMeth_CpG	prom	YES	19	MLH1	gene_expression		YES	0.263	carcinoma
+18451217	APC	hyperMeth_CpG	prom	YES	64	APC	mutation	G->A	YES	0.203	carcinoma
+18451217	MGMT	hyperMeth_CpG	prom	YES	57	APC	mutation	G->A	YES	0.210	carcinoma
+18451217	MLH1	hyperMeth_CpG	prom	YES	19	APC	mutation	G->A	YES	0.210	carcinoma
+17123889	MSH2	gene_expression		YES	95	CDKN1B	gene_expression		YES	0.726	carcinoma
+17123889	FHIT	gene_expression		YES	91	CDKN1B	gene_expression		YES	0.748	carcinoma
+17123889	TP53	gene_expression		YES	50	CDKN1B	gene_expression		YES	0.720	carcinoma
+16816167	MLH1	gene_expression		YES	995	MUC1	gene_expression		YES	0.580	carcinoma
+16816167	MLH1	gene_expression		YES	1007	MUC2	gene_expression		YES	0.493	carcinoma
+17086168	BRAF	mutation	exon15 cod600 V->E	YES	76	CDKN1B	gene_expression		YES	0.447	carcinoma
+17086168	KRAS	mutation	cod12,13	YES	213	CDKN1B	gene_expression		YES	0.638	carcinoma
+17086168	TP53	gene_expression		YES	264	CDKN1B	gene_expression		YES	0.662	carcinoma
+19659606	DKK4	gene_expression		UP	3	CTNNBIP1	translocation	membrane->cytoplasm/nucleus	HIGH	1.000	carcinoma
+19659606	DKK4	gene_expression		UP	3	CTNNBIP1	translocation	membrane->cytoplasm/nucleus	LOW	1.000	carcinoma
+17487504	KIT	gene_expression		UP	11	KRAS	mutation	cod12,13	YES	0.640	carcinoma
+17487504	KIT	gene_expression		UP	11	BRAF	mutation	exon15 cod600 V->E	YES	0.360	carcinoma
+21150880	PTPRG	hyperMeth_CpG	intron1	TOTAL	15	PTPRG	gene_expression		YES	1.000	carcinoma
+17062133	SKIL	gene_expression	mRNA	DOWN	5	TGFBR2	mutation	(A)10repeat	YES	1.000	carcinoma
+17062133	SKIL	gene_expression	mRNA	DOWN	5	TGFBR2	mutation	(A)10repeat	YES	1.000	carcinoma
+17062133	SKIL	gene_expression	mRNA	UP	6	TGFBR2	mutation	(A)10repeat	YES	0.500	carcinoma
+17062133	SKIL	gene_expression	mRNA	UP	6	TGFBR2	mutation	(A)10repeat	YES	0.500	carcinoma
+16762618	MLH1	hyperMeth_CpG	prom	YES	24	JCVT	gene_expression		YES	0.750	carcinoma
+16762618	HIC1	hyperMeth_CpG	prom	YES	59	JCVT	gene_expression		YES	0.491	carcinoma
+16762618	PTEN	hyperMeth_CpG	prom	YES	10	JCVT	gene_expression		YES	1.000	carcinoma
+16762618	RUNX3	hyperMeth_CpG	prom	YES	15	JCVT	gene_expression		YES	0.867	carcinoma
+16762618	CDKN2A:p16	hyperMeth_CpG	prom	YES	19	JCVT	gene_expression		YES	0.737	carcinoma
+16762618	CDKN2A:p14	hyperMeth_CpG	prom	YES	34	JCVT	gene_expression		YES	0.471	carcinoma
+16762618	APC	hyperMeth_CpG	prom	YES	27	JCVT	gene_expression		YES	0.481	carcinoma
+16762618	TIMP3	hyperMeth_CpG	prom	YES	29	JCVT	gene_expression		YES	0.517	carcinoma
+16762618	RARB	hyperMeth_CpG	prom RARB2	YES	32	JCVT	gene_expression		YES	0.594	carcinoma
+16647956	CDKN2A:p14	hyperMeth_CpG	prom	YES	17	CDKN2A:P14	gene_expression		YES	0.647	carcinoma
+21140203	BRAF	mutation	any	YES	90	MGMT	gene_expression		YES	0.711	carcinoma
+21140203	KRAS	mutation	any	YES	246	MGMT	gene_expression		YES	0.711	carcinoma
+21140203	TP53	gene_expression		YES	290	MGMT	gene_expression		YES	0.710	carcinoma
+20473920	KRAS	mutation	cod12,13	YES	285	CDKN2A:p16	gene_expression		YES	0.818	carcinoma
+20473920	BRAF	mutation	exon15 cod600 V->E	YES	103	CDKN2A:p16	gene_expression		YES	0.398	carcinoma
+20473920	PIK3CA	mutation	exon9,20 cod545,1047,1049	YES	106	CDKN2A:p16	gene_expression		YES	0.783	carcinoma
+20473920	TP53	gene_expression		YES	342	CDKN2A:p16	gene_expression		YES	0.772	carcinoma
+20473920	CDKN1A	gene_expression		YES	157	CDKN2A:p16	gene_expression		YES	0.656	carcinoma
+20473920	CDKN1B	gene_expression		YES	565	CDKN2A:p16	gene_expression		YES	0.796	carcinoma
+20473920	CCND1	gene_expression		YES	542	CDKN2A:p16	gene_expression		YES	0.756	carcinoma
+20473920	CTNNB1	activation	beta-catenin activation	LOW	446	CDKN2A:p16	gene_expression		YES	0.697	carcinoma
+20473920	CTNNB1	activation	beta-catenin activation	HIGH	254	CDKN2A:p16	gene_expression		YES	0.846	carcinoma
+20473920	PTGS2	gene_expression		YES	674	CDKN2A:p16	gene_expression		YES	0.765	carcinoma
+20473920	MARCO	gene_expression		YES	102	DKK2	gene_expression		YES	0.657	carcinoma
+20082848	TP53	LOH	17p	YES	107	TP53	mutation	any	YES	0.495	carcinoma
+20200425	BRAF	mutation	exon15 cod600 V->E	YES	69	PTGER2	gene_expression		UP	0.435	carcinoma
+20200425	KRAS	mutation	cod12,13	YES	191	PTGER2	gene_expression		UP	0.309	carcinoma
+20200425	PIK3CA	mutation	exon9,20 cod545,1047,1049	YES	59	PTGER2	gene_expression		UP	0.322	carcinoma
+20200425	TP53	gene_expression		YES	197	PTGER2	gene_expression		UP	0.315	carcinoma
+20200425	PTGS2	gene_expression		YES	418	PTGER2	gene_expression		UP	0.332	carcinoma
+20571967	DAPK1	hyperMeth_CpG	prom	YES	49	PTGS2	gene_expression		YES	0.750	carcinoma
+20571967	CDH1	hyperMeth_CpG	prom	YES	26	CDH1	gene_expression		YES	0.730	carcinoma
+20549016	CDKN2A:p16	hyperMeth_CpG	prom	YES	62	MTHFR	polymorphism	C677T	YES	0.436	carcinoma
+20549016	CDKN2A:p16	hyperMeth_CpG	prom	YES	65	MTR	polymorphism	A2756G	YES	0.246	carcinoma
+20549016	CDKN2A:p16	hyperMeth_CpG	prom	YES	64	MTRR	polymorphism	A66G	YES	0.563	carcinoma
+16773493	MLH1	gene_expression		YES	64	CTNNBIP1	gene_expression		YES	0.580	carcinoma
+16773493	MLH1	gene_expression		YES	64	LAMC2	gene_expression		YES	0.720	carcinoma
+16773493	MLH1	gene_expression		YES	64	MUC2	gene_expression		YES	0.140	carcinoma
+16773493	MLH1	gene_expression		YES	64	MUC5AC	gene_expression		YES	0.090	carcinoma
+16816167	MLH1	gene_expression		YES	71	MUC1	gene_expression		YES	0.730	carcinoma
+16816167	MLH1	gene_expression		YES	64	MUC2	gene_expression		YES	0.830	carcinoma
+16816167	MLH1	gene_expression		YES	938	MUC1	gene_expression		YES	0.570	carcinoma
+16816167	MLH1	gene_expression		YES	955	MUC2	gene_expression		YES	0.470	carcinoma
+12397640	CDH1	hyperMeth_CpG	prom	YES	10	CDH1	gene_expression		YES	0.200	carcinoma
+17087954	XAF1	hyperMeth_CpG	prom	YES	8	XAF1	gene_expression		DOWN	0.750	CRC
+14734469	MLH1	hyperMeth_CpG	prom	YES	7	BRAF	mutation	any	YES	1.000	CRC
+18977219	APC	hyperMeth_CpG	prom	YES	8	APC	gene_expression		DOWN	1.000	CRC
+18461655	DKK1	hyperMeth_CpG	prom	YES	6	DKK1	gene_expression		DOWN	0.667	CRC
+18461655	DKK2	hyperMeth_CpG		YES	10	DKK2	gene_expression		DOWN	1.000	CRC
+18461655	DKK3	hyperMeth_CpG	prom	YES	10	DKK3	gene_expression		DOWN	0.900	CRC
+18461655	DKK4	hyperMeth_CpG	prom	YES	8	DKK4	gene_expression		DOWN	0.750	CRC
+17675336	DKK1	hyperMeth_CpG	prom	YES	3	DKK1	gene_expression		DOWN	1.000	CRC
+17675336	DKK1	hyperMeth_CpG	prom	YES	6	DKK1	gene_expression		DOWN	0.167	CRC
+17675336	DKK2	hyperMeth_CpG		YES	9	DKK2	gene_expression		DOWN	0.222	CRC
+17675336	DKK3	hyperMeth_CpG	prom	YES	5	DKK3	gene_expression		DOWN	1.000	CRC
+17675336	DKK4	hyperMeth_CpG	prom	YES	9	DKK4	gene_expression		DOWN	0.778	CRC
+16965397	KCNQ1OT1	hypoMeth_CpG	intron10	YES	4	KCNQ1OT1	gene_expression		UP	1.000	CRC
+17183069	KRAS	mutation	G->A	YES	17	MGMT	gene_expression		VERY_LOW	0.647	CRC
+11406538	MGMT	hyperMeth_CpG	prom	YES	126	TP53	mutation	G->C,A->T	YES	0.340	CRC
+11406538	TP53	mutation	any	YES	135	TP53	mutation	G->C,A->T	YES	0.600	CRC
+11406538	TP53	mutation	any	YES	135	TP53	mutation	nonG->C,nonA ->T	YES	0.400	CRC
+11406538	TP53	mutation	G->C,A->T	YES	81	TP53	mutation	G->C,A ->T CpGtransition	YES	0.790	CRC
+11406538	TP53	mutation	G->C,A->T	YES	81	TP53	mutation	G->C,A->T nonCpGtransition	YES	0.210	CRC
+12032847	RASSF1A	hyperMeth_CpG	prom	YES	45	KRAS	mutation	any	YES	0.244	CRC
+12032847	RASSF1A	hyperMeth_CpG	prom	YES	45	KRAS	mutation	cod12,13	YES	0.244	CRC
+16007128	PTGIS	hyperMeth_CpG	prom	YES	11	PTGIS	gene_expression		VERY_LOW	0.900	CRC
+15800999	MGMT	gene_expression		YES	55	KRAS	mutation	G->A	YES	0.127	CRC
+19174785	RUNX3	hyperMeth_CpG	prom	YES	12	RUNX3	gene_expression		YES	0.170	aberrant crypt focus
+18172251	CDKN2A:p16	hyperMeth_CpG	prom	YES	8	CDKN2A:p16	gene_expression		YES	0.370	aberrant crypt focus
+19174785	RUNX3	hyperMeth_CpG	prom	YES	26	RUNX3	gene_expression		YES	0.320	adenoma
+15386372	ATM	hyperMeth_CpG	prom	YES	29	ATM	gene_expression		YES	1.000	adenoma
+12782759	KRAS	mutation	cod12	YES	18	KRAS	mutation	cod12 GGT->GAT	YES	0.500	adenoma
+12782759	KRAS	mutation	cod12	YES	18	KRAS	mutation	cod12 GGT->GTT	YES	0.500	adenoma
+12782759	KRAS	mutation	cod12	YES	18	KRAS	mutation	cod12 GGT->TGT	YES	0.056	adenoma
+12782759	KRAS	mutation	cod12	YES	18	KRAS	mutation	cod12 GGT->AGT	YES	0.056	adenoma
+16902913	APC	hyperMeth_CpG	prom	YES	52	APC	mutation	any	YES	0.538	adenoma
+16902913	APC	hyperMeth_CpG	prom	YES	52	KRAS	mutation	any	YES	0.269	adenoma
+16902913	APC	hyperMeth_CpG	prom	YES	52	TP53	mutation	any	YES	0.019	adenoma
+16902913	MGMT	hyperMeth_CpG	prom	YES	39	APC	mutation	any	YES	0.615	adenoma
+16902913	MGMT	hyperMeth_CpG	prom	YES	39	KRAS	mutation	any	YES	0.256	adenoma
+16902913	CDKN2A:p14	hyperMeth_CpG	prom	YES	31	APC	mutation	any	YES	0.645	adenoma
+16902913	CDKN2A:p14	hyperMeth_CpG	prom	YES	31	KRAS	mutation	any	YES	0.226	adenoma
+16902913	CDKN2A:p14	hyperMeth_CpG	prom	YES	31	TP53	mutation	any	YES	0.032	adenoma
+16902913	CDKN2A:p16	hyperMeth_CpG	prom	YES	25	APC	mutation	any	YES	0.560	adenoma
+16902913	CDKN2A:p16	hyperMeth_CpG	prom	YES	25	KRAS	mutation	any	YES	0.200	adenoma
+16902913	CDKN2A:p16	hyperMeth_CpG	prom	YES	25	TP53	mutation	any	YES	0.040	adenoma
+10646864	CDKN2A:p14	hyperMeth_CpG	prom	YES	8	CDKN2A:P14	gene_expression		YES	0.125	adenoma
+10646864	CDKN2A:p14	hyperMeth_CpG	prom	YES	8	CDKN2A:P14	gene_expression		VERY_LOW	0.125	adenoma
+17923875	RASSF2	hyperMeth_CpG	exons1,2	YES	30	KRAS	mutation	cod12,13	YES	0.730	adenoma
+19174785	RUNX3	hyperMeth_CpG	prom	YES	7	RUNX3	gene_expression		YES	0.430	adenoma
+21150880	PTPRG	hyperMeth_CpG	intron1	TOTAL	3	PTPRG	gene_expression		YES	1.000	adenoma
+15087381	APC	hyperMeth_CpG	prom	VERY_LOW	1	APC	gene_expression		HIGH	1.000	adenoma
+12970888	CDKN2A:p16	hyperMeth_CpG	prom	PARTIAL	1	CDKN2A:p16	gene_expression		VERY_LOW	1.000	adenoma
+12970888	APC	hyperMeth_CpG	prom	YES	1	APC	gene_expression		VERY_LOW	1.000	adenoma
+17096329	IGFBP3	hyperMeth_CpG	prom	TOTAL	1	IGFBP3	gene_expression		VERY_LOW	1.000	adenoma
+15467734	CIITA	H3Ac		YES	1	CIITA	gene_expression		YES	1.000	adenoma
+16479257	TCF2	hyperMeth_CpG	cpgisland	VERY_LOW	1	TCF2	gene_expression		YES	1.000	adenoma
+11965547	CDKN1C	hyperMeth_CpG	prom	VERY_HIGH	1	CDKN1C	gene_expression		LOW	1.000	adenoma
+10646864	CDKN2A:p14	hyperMeth_CpG	prom	PARTIAL	1	CDKN2A:P14	gene_expression		YES	1.000	adenoma
+12810945	CHFR	hyperMeth_CpG	cpgisland	LOW	1	CHFR	gene_expression		VERY_LOW	1.000	adenoma
+12810945	CHFR	hyperMeth_CpG	cpgisland	LOW	1	CHFR	H3Ac		PARTIAL	1.000	adenoma
+12810945	CHFR	hyperMeth_CpG	cpgisland	LOW	1	CHFR	H4Ac		PARTIAL	1.000	adenoma
+10344734	CSPG2	hyperMeth_CpG	prom	PARTIAL	1	CSPG2	gene_expression		YES	1.000	adenoma
+17675336	DKK4	hyperMeth_CpG	prom	YES	1	DKK4	gene_expression		YES	1.000	adenoma
+19174785	RUNX3	hyperMeth_CpG	prom	YES	12	RUNX3	gene_expression		YES	0.250	adenoma
+19172291	CTSE	gene_expression		UP	23	BRAF	mutation	exon15 cod600 V->E	YES	0.910	adenoma
+11932355	TERT	gene_expression		YES	21	TERT	gene_expression		LOW	0.143	adjacent to carcinoma
+18418463	CDKN2A:p16	hyperMeth_CpG	prom	YES	62	FPGS	gene_expression		NORMAL	1.000	adjacent to carcinoma
+15375009	APC	hyperMeth_CpG	prom	YES	9	APC	gene_expression		LOW	0.700	metastasis
+15375009	APC	hyperMeth_CpG	prom	YES	9	APC	gene_expression		NORMAL	0.222	metastasis
+17487504	KIT	gene_expression		UP	5	KRAS	mutation	cod12,13	YES	0.600	metastasis
+17487504	KIT	gene_expression		UP	5	BRAF	mutation	exon15 cod600 V->E	YES	0.200	metastasis
+10930367	KRAS	mutation	any	YES	11	KRAS	mutation	cod12 GGT->GAT	YES	0.810	polyps
+10930367	KRAS	mutation	any	YES	11	KRAS	mutation	cod12 GGT->AGT	YES	0.090	polyps
+10930367	KRAS	mutation	any	YES	11	KRAS	mutation	cod13 GGC->GTC	YES	0.090	polyps
+10811111	MGMT	hyperMeth_CpG	prom	YES	19	MGMT	gene_expression		VERY_LOW	1.000	polyps
+18240147	KRAS	mutation	any	YES	21	KRAS	mutation	G->A	YES	0.670	polyps
+18240147	KRAS	mutation	any	YES	21	KRAS	mutation	non G->A	YES	0.330	polyps
+19174785	RUNX3	hyperMeth_CpG	prom	YES	36	RUNX3	gene_expression		YES	0.250	polyps
+10644993	STK11	hyperMeth_CpG	prom	YES	4	STK11	mutation	any	YES	0.500	polyps
+19174785	RUNX3	hyperMeth_CpG	prom	YES	28	RUNX3	gene_expression		YES	0.250	polyps
+15793287	CDKN2A:p16	hyperMeth_CpG	prom	YES	15	BRAF	mutation	exon15 cod600 V->E	YES	0.800	polyps
+15793287	APBA3	hyperMeth_CpG	prom	YES	38	BRAF	mutation	exon15 cod600 V->E	YES	0.580	polyps
+15793287	APBA1	hyperMeth_CpG	prom	YES	16	BRAF	mutation	exon15 cod600 V->E	YES	0.750	polyps
+15793287	APBA2	hyperMeth_CpG	prom	YES	37	BRAF	mutation	exon15 cod600 V->E	YES	0.590	polyps
+19174785	RUNX3	hyperMeth_CpG	prom	YES	17	RUNX3	gene_expression		YES	0.170	polyps
+10930367	KRAS	mutation	any	YES	3	KRAS	mutation	cod12 GGT->GAT	YES	0.667	polyps
+10930367	KRAS	mutation	any	YES	2	KRAS	mutation	cod12 GGT->AGT	YES	0.500	polyps
+16902913	APC	hyperMeth_CpG	prom	YES	52	MGMT	hyperMeth_CpG	prom	YES	0.577	adenoma
+16902913	APC	hyperMeth_CpG	prom	YES	52	CDKN2A:p14	hyperMeth_CpG	prom	YES	0.385	adenoma
+16902913	APC	hyperMeth_CpG	prom	YES	52	CDKN2A:p16	hyperMeth_CpG	prom	YES	0.346	adenoma
+16902913	MGMT	hyperMeth_CpG	prom	YES	39	APC	hyperMeth_CpG	prom	YES	0.769	adenoma
+16902913	CDKN2A:p14	hyperMeth_CpG	prom	YES	31	APC	hyperMeth_CpG	prom	YES	0.806	adenoma
+16902913	CDKN2A:p16	hyperMeth_CpG	prom	YES	25	APC	hyperMeth_CpG	prom	YES	0.880	adenoma
+18086775	BMP3	hyperMeth_CpG	prom	YES	40	EYA2	hyperMeth_CpG		YES	0.600	adenoma
+18086775	BMP3	hyperMeth_CpG	prom	YES	40	ALX4	hyperMeth_CpG	cpgisland	YES	0.925	adenoma
+18086775	BMP3	hyperMeth_CpG	prom	YES	40	VIM	hyperMeth_CpG	exon1	YES	0.925	adenoma
+17923875	RASSF1A	hyperMeth_CpG	prom	YES	3	RASSF2	hyperMeth_CpG	exons1,2	YES	0.670	adenoma
+16708352	MGMT	hyperMeth_CpG	prom	YES	22	HLTF	hyperMeth_CpG	prom	YES	0.364	adenoma
+16708352	CDKN2A:p16	hyperMeth_CpG	prom	YES	13	HLTF	hyperMeth_CpG	prom	YES	0.462	adenoma
+15760919	CHFR	gene_expression		VERY_LOW	1	CHFR	hyperMeth_CpG	cpgisland	YES	1.000	adenoma
+10029065	TIMP3	gene_expression		YES	1	TIMP3	hyperMeth_CpG	prom	LOW	1.000	adenoma
+16551870	UGT1A1	gene_expression		UP	1	UGT1A1	hyperMeth_CpG	cpgisland	VERY_LOW	1.000	adenoma
+17950780	KRAS	mutation	cod12,13	YES	3	RASSF1A	hyperMeth_CpG	prom	YES	0.670	adenoma
+17950780	KRAS	mutation	cod12,13	YES	3	RASSF1A	hyperMeth_CpG	prom	YES	1.000	adenoma
+18618713	RASSF1A	hyperMeth_CpG	prom	YES	22	APBA2	hyperMeth_CpG	prom	YES	0.318	adjacent to carcinoma
+18240147	MGMT	gene_expression		NORMAL	27	MGMT	hyperMeth_CpG	prom	VERY_HIGH	0.070	polyps
+18240147	MGMT	gene_expression		NORMAL	27	MGMT	hyperMeth_CpG	prom	PARTIAL	0.560	polyps
+18240147	MGMT	gene_expression		NORMAL	27	MGMT	hyperMeth_CpG	prom	YES	0.630	polyps
+18240147	MGMT	gene_expression		DOWN	1	MGMT	hyperMeth_CpG	prom	PARTIAL	1.000	polyps
+18240147	KRAS	mutation	G->A	YES	14	MGMT	hyperMeth_CpG	prom	VERY_HIGH	0.250	polyps
+18240147	KRAS	mutation	G->A	YES	14	MGMT	hyperMeth_CpG	prom	PARTIAL	0.170	polyps
+18240147	KRAS	mutation	non G->A	YES	7	MGMT	hyperMeth_CpG	prom	PARTIAL	0.100	polyps
+18240147	KRAS	mutation	G->A	YES	14	MGMT	hyperMeth_CpG	prom	YES	0.890	polyps
+18240147	KRAS	mutation	non G->A	YES	7	MGMT	hyperMeth_CpG	prom	YES	0.940	polyps

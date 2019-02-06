@@ -1,4 +1,4 @@
-package EpiGeNetFramework;
+package fr.eisbm.EpiGeNet;
 
 /**
 
@@ -45,11 +45,12 @@ import org.neo4j.graphdb.RelationshipType;
 import org.neo4j.graphdb.Transaction;
 import org.neo4j.graphdb.factory.GraphDatabaseFactory;
 
-public class MainCCGraph
+public class App
 
 {
 	// START SNIPPET: vars
 	private static final String DB_PATH = "target/neo4j-db-EpiGeNet_network";
+	private static final File DB_FILE = new File(DB_PATH);
 	private static GraphDatabaseService graphDb;
 
 	private ColonCancerDB ccGraph = new ColonCancerDB();
@@ -75,7 +76,7 @@ public class MainCCGraph
 	// END SNIPPET: createReltype
 
 	public static void main(final String[] args) {
-		MainCCGraph ccGraph = new MainCCGraph();
+		App ccGraph = new App();
 
 		ccGraph.createDb();
 
@@ -86,11 +87,11 @@ public class MainCCGraph
 
 	@SuppressWarnings("deprecation")
 	void createDb() {
-		deleteFileOrDirectory(new File(DB_PATH));
+		deleteFileOrDirectory(DB_FILE);
 
 		// START SNIPPET: startDb
 
-		graphDb = new GraphDatabaseFactory().newEmbeddedDatabase(DB_PATH);
+		graphDb = new GraphDatabaseFactory().newEmbeddedDatabase(DB_FILE);
 
 		registerShutdownHook(graphDb);
 
@@ -187,3 +188,4 @@ public class MainCCGraph
 		}
 	}
 }
+
