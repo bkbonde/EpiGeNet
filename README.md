@@ -3,7 +3,8 @@
 The EpiGeNet framework is a graph database for storage and querying of conditional relationships between molecular (genetic and epigenetic) events observed at different stages of colorectal (CRC) oncogenesis. Data were i) extracted from <a href="http://statepigen.sci-sym.dcu.ie/index.php">StatEpigen</a>, a manually curated and annotated database, containing information on interdependencies between genetic and epigenetic signals, and specialized currently for CRC research, and ii) imported to our newly-developed EpiGeNet, which offers improved capability for management and visualization of data on molecular events specific to CRC initiation and progression
 
 ## How to access the EpiGeNet Framework
-The EpiGeNet Framework can be accessed online <a href="https://diseaseknowledgebase.etriks.org/epigenet/browser/"> here</a>
+The EpiGeNet Framework can be accessed online <a href="https://diseaseknowledgebase.etriks.org/epigenet/browser/"> here</a>.
+
 A non-exhaustive file with Cypher query examples for the EpiGeNet Framework is available for download <a href="https://github.com/ibalaur/EpiGeNet/tree/master/sample%20queries"> here</a>.
 	
 ### For developers
@@ -15,6 +16,7 @@ The EpiGeNet Framework is freely available for non-commercial purposes and the j
 
 #### Install
 After cloning the repository and getting into its directory:
+
 `mvn clean`
 
 `mvn install`
@@ -31,12 +33,19 @@ Balaur I., Saqi M., Barat A., Lysenko A., Mazein A., Rawlings C.J., Ruskin H.J. 
 ## Contributors
 
 Irina Balaur, [EISBM](http://www.eisbm.org/), Lyon, France - idea, specified the translation rules, developed the code
+
 Mansoor Saqi, [EISBM](http://www.eisbm.org/), Lyon, France - advice on the translation rules
+
 Ana Barat, [RCSI](https://www.rcsi.com/dublin/], Dublin, Ireland - advice on the input dataset
+
 Artem Lysenko, [Rothamsted Research](https://www.rothamsted.ac.uk/), Hertfordshire, UK - advice on the Neo4j functionality
+
 Alexander Mazein, [EISBM](http://www.eisbm.org/), Lyon, France - advice on the translation rules
+
 Chris J. Rawlings, [Rothamsted Research](https://www.rothamsted.ac.uk/), Hertfordshire, UK - advice on the Neo4j functionality
+
 Heather J. Ruskin [Dublin City University], Dublin, Ireland - advice on the input dataset and on the translation rules
+
 Charles Auffray, [EISBM](http://www.eisbm.org/), Lyon, France - strategic advice  
 
 ## Useful links
