@@ -28,7 +28,7 @@ The executable jar can be directly downloaded from the [Release page](https://gi
 If you have any suggestions or want to report a bug, don't hesitate to create an [issue](https://github.com/ibalaur/EpiGeNet/issues). Pull requests and all forms of contribution will be warmly welcomed.
 
 ## Please cite our paper on this work
-Balaur I., Saqi M., Barat A., Lysenko A., Mazein A., Rawlings C.J., Ruskin H.J. and Auffray, C. (2016), <a href="http://online.liebertpub.com/doi/10.1089/cmb.2016.0095">EpiGeNet: A Graph Database of Interdependencies Between Genetic and Epigenetic Events in Colorectal Cancer</a>, Journal of Computational Biology, September 2016, ePub(ahead of print). DOI: 0.1089/cmb.2016.0095.
+Balaur I., Saqi M., Barat A., Lysenko A., Mazein A., Rawlings C.J., Ruskin H.J. and Auffray, C. (2017), <a href="http://online.liebertpub.com/doi/10.1089/cmb.2016.0095">EpiGeNet: A Graph Database of Interdependencies Between Genetic and Epigenetic Events in Colorectal Cancer</a>, Journal of Computational Biology. DOI: https://doi.org/10.1089/cmb.2016.0095.
 
 ## Contributors
 
